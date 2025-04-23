@@ -1,0 +1,3829 @@
+source,target,company,similarity
+stein ben forester,sternberg zach,CIGI,12.7551
+agrawal kailas,atwater mark,ID,6.66888
+agrawal kailas,ciappina antonino,ID,6.66888
+agrawal kailas,roy ajay,ID,4.69806
+atwater mark,ciappina antonino,ID,6.66888
+atwater mark,roy ajay,ID,4.69806
+ciappina antonino,roy ajay,ID,4.69806
+noone patrick donnell,vanasek james thomas,BZC,4.20384
+mcjunkin jameson j,patterson thomas,VIEW,7.36735
+mcjunkin jameson j,penner gregory boyd,VIEW,7.36735
+patterson thomas,penner gregory boyd,VIEW,7.36735
+flynn timothy john,galashan john kristofer,TCS,15.7722
+flynn timothy john,sokoloff jonathan d,TCS,15.7722
+galashan john kristofer,sokoloff jonathan d,TCS,15.7722
+mehta vimal,yocca frank,BTAI,2.17949
+steinhart richard i,yocca frank,BTAI,3.33333
+bedrick bruce,lowe j. mitchell,MDBX,9.64135
+bedrick bruce,mehdizadeh p vincent,MDBX,6.87794
+bedrick bruce,siegel ned l,MDBX,9.68538
+lowe j. mitchell,mehdizadeh p vincent,MDBX,15.8427
+lowe j. mitchell,siegel ned l,MDBX,22.2354
+mehdizadeh p vincent,siegel ned l,MDBX,16.6421
+levy ron,poutre michael,CRCW,3.14558
+landmann laird,rivelle tad,TSI,5.42341
+ku tzu sheng,wang stewart,tait,4.00043
+cloobeck stephen j,kraff lowell d,DRII,11.0335
+kolchinsky peter,shah rajeev m.,FULC,6.17878
+kirsch jeremy,laskey alexander,OPWR,4.20542
+laskey alexander,mcphee rick,OPWR,2.10266
+laskey alexander,yates daniel,OPWR,2.48061
+koski beverly,koski christine l,OGEN,10.7959
+koski beverly,koski robert c,OGEN,10.1609
+koski beverly,koski thomas l,OGEN,10.7959
+koski christine l,koski robert c,OGEN,10.1609
+koski christine l,koski thomas l,OGEN,10.7959
+koski robert c,koski thomas l,OGEN,10.1609
+bradbury daniel,maetzold derek j,CSTL,2.38385
+liu david,roney carley,XOXO,2.28647
+hymers robert leslie iii,larsen charles john,MCOA,3.15904
+huberman jonathan,van haeren geoffrey,NOGN,2.2351
+mule edward a,o'shea robert j,GPOR,2.14766
+ogur scott matthew,venegas zachary l,HLIX,5.34613
+hayes anthony,wool kyle michael,AIKI,11.8401
+hayes anthony,yu soo,AIKI,11.8401
+wool kyle michael,yu soo,AIKI,16.3832
+holmes chad m,maleh paul a,CRAI,3.13095
+bell ronald s.,goldman kenneth a,YHOO,2.87953
+martire frank r,stout lonnie j ii,JAX,6.29592
+o'dowd william iv,stanham nicholas,DPDM,8.72566
+gross michael s,spohler bruce j,SLRC,2.40754
+shoen edward j,shoen mark v,UHAL,2.26291
+moorin jay,schreiber alain,EGRX,7.59059
+jasinski lawrence j,o'connor john james,LMAT,2.58867
+jasinski lawrence j,ross bridget a,LMAT,2.91195
+jasinski lawrence j,roush john a,LMAT,3.08626
+kamke trent g,lemaitre george w,LMAT,2.00525
+kamke trent g,pellegrino joseph p jr,LMAT,2.42541
+kamke trent g,roberts david b,LMAT,2.64207
+lemaitre george w,roberts david b,LMAT,2.19967
+o'connor john james,ross bridget a,LMAT,2.99174
+o'connor john james,roush john a,LMAT,3.18568
+pellegrino joseph p jr,roberts david b,LMAT,2.27644
+ross bridget a,roush john a,LMAT,3.53922
+ross bridget a,shadan martha,LMAT,2.547
+roush john a,shadan martha,LMAT,2.24518
+galley patrick w.,schmucker brian h,RIV RT,4.90072
+wedell-wedellsborg johan,wg biotech aps,YMAB,4.94835
+kunin audrey,kunin jeffrey,NBY,7.20408
+czernik marcin,hadjimichael amalia,KPTI,9.39995
+czernik marcin,hadjimichael andreas,KPTI,9.39995
+czernik marcin,smolokowski wiaczeslaw,KPTI,9.39995
+hadjimichael amalia,hadjimichael andreas,KPTI,9.39995
+hadjimichael amalia,smolokowski wiaczeslaw,KPTI,9.39995
+hadjimichael andreas,smolokowski wiaczeslaw,KPTI,9.39995
+dell michael s,lemkau gregg,TSQ,6.85941
+dell michael s,lisker marc r,TSQ,6.85941
+lemkau gregg,lisker marc r,TSQ,6.85941
+humenik delbert m,shchegolev oleg,SEMR,3.1939
+levin eugenie,shchegolev oleg,SEMR,2.09461
+dahl james h,lancaster rainey e.,AXR,9.87755
+jewell christopher m,kurtoglu metin,RNAC,3.32908
+mule edward a,o'shea robert j,CPS,14.3316
+green scott a.,potts michael j,OESX,3.5252
+mindich jeremy,sirovich matthew,ACOR,17.0757
+bosworth andrew,clegg nicholas,META,2.68345
+agnaten se,lucresca se,KDP,2.06122
+durban egon,emanuel ariel,TKO,6.98469
+durban egon,whitesell patrick,TKO,8.38163
+emanuel ariel,whitesell patrick,TKO,8.38163
+blackie james,vattuone steven,ONTF,2.32344
+singer julian d.,thekkethala thomas,EVOL,9.90949
+dungan david n,fernandez ted a,HCKT,2.5887
+smith patrick g,yakov ronny,OLB,2.24518
+harrison dean m,thompson donald,NTRS,2.72886
+harrison dean m,tribbett charles a,NTRS,2.95627
+richards thomas e,tribbett charles a,NTRS,2.29932
+schreuder jana r,st clair joyce,NTRS,2.06589
+schreuder jana r,waddell frederick h,NTRS,3.19162
+st clair joyce,waddell frederick h,NTRS,2.0927
+thompson donald,tribbett charles a,NTRS,2.21088
+cohen stephen brad,fishman kalman,SRTS,3.33367
+cohen stephen brad,golin richard,SRTS,3.33367
+cohen stephen brad,sardano joseph c,SRTS,11.0218
+fishman kalman,golin richard,SRTS,8.00082
+fishman kalman,sardano joseph c,SRTS,3.63673
+golin richard,sardano joseph c,SRTS,3.63673
+jaffe david,pollack bruce g,LCUT,9.15652
+gerrald thomas a. ii,matheys heidi j.,VVV,2.62147
+gerrald thomas a. ii,mitchell samuel j,VVV,2.66049
+gerrald thomas a. ii,moughler craig a.,VVV,2.25349
+gerrald thomas a. ii,muashsher jamal k,VVV,2.21334
+gerrald thomas a. ii,o'daniel julie marie,VVV,2.13003
+gerrald thomas a. ii,puckett anthony r.,VVV,2.35555
+lockwood frances e.,puckett anthony r.,VVV,2.05038
+matheys heidi j.,mitchell samuel j,VVV,2.5686
+matheys heidi j.,moughler craig a.,VVV,2.17284
+matheys heidi j.,muashsher jamal k,VVV,2.07932
+matheys heidi j.,puckett anthony r.,VVV,2.28039
+meixelsperger mary e,o'daniel julie marie,VVV,2.57871
+mitchell samuel j,moughler craig a.,VVV,2.12385
+mitchell samuel j,puckett anthony r.,VVV,2.03587
+moughler craig a.,puckett anthony r.,VVV,3.40207
+dimaggio leslie,giles bruce wayne,AFH,4.5624
+dimaggio leslie,romano paul anthony jr,AFH,4.42618
+dimaggio leslie,shugrue joseph raymond,AFH,4.5624
+dimaggio leslie,wollney scott d,AFH,4.42618
+giles bruce wayne,romano paul anthony jr,AFH,4.42618
+giles bruce wayne,shugrue joseph raymond,AFH,4.5624
+giles bruce wayne,wollney scott d,AFH,4.42618
+romano paul anthony jr,shugrue joseph raymond,AFH,4.42618
+romano paul anthony jr,wollney scott d,AFH,4.67832
+shugrue joseph raymond,wollney scott d,AFH,4.42618
+arnold richard s. jr.,lang scott a.,SSNI,2.00811
+arnold richard s. jr.,stynes theresa,SSNI,2.5517
+lang scott a.,reeves donald l. iii,SSNI,2.48824
+lang scott a.,stynes theresa,SSNI,3.23865
+reeves donald l. iii,stynes theresa,SSNI,3.11777
+stynes theresa,vaswani raj,SSNI,2.01692
+devaul william,tipirneni praveen p.,MORF,3.11111
+farrell robert e jr,lugovskoy alexey,MORF,8.26384
+aronson jeffrey,gallogly mark t,SC,6.93086
+eisenman randy,grafer john richard,LOVE,4.3913
+eisenman randy,vanderbeck sunny,LOVE,4.27007
+grafer john richard,vanderbeck sunny,LOVE,4.3913
+boylan peter c,stephenson cc jr,CELP,7.70346
+braverman alan n,mayer kevin a,DIS,2.57849
+braverman alan n,mccarthy christine m,DIS,5.29071
+braverman alan n,mucha zenia b.,DIS,4.05166
+braverman alan n,parker mary jayne,DIS,5.23926
+braverman alan n,woodford brent,DIS,4.33815
+chapek robert a,mucha zenia b.,DIS,2.71259
+coleman sonia l,gutierrez horacio e,DIS,2.93231
+mayer kevin a,mccarthy christine m,DIS,2.50329
+mayer kevin a,parker mary jayne,DIS,2.74612
+mccarthy christine m,mucha zenia b.,DIS,2.59293
+mccarthy christine m,parker mary jayne,DIS,4.11455
+mccarthy christine m,woodford brent,DIS,3.82312
+mucha zenia b.,parker mary jayne,DIS,2.32834
+mucha zenia b.,woodford brent,DIS,2.11578
+parker mary jayne,woodford brent,DIS,3.18037
+davis aaron i.,lewis joseph,ODT,3.2628
+hearne michael s,lemkey john g,ODT,2.50466
+hearne michael s,tang kevin c,ODT,3.06444
+lemkey john g,tang kevin c,ODT,5.3443
+david shay,halevi-davidov naama,KLTR,8.34875
+dauerman mitchell k,scherr marc d,ULTI,2.30143
+dauerman mitchell k,scherr scott,ULTI,2.55856
+dauerman mitchell k,swick gregory,ULTI,2.06334
+manne robert,rogers adam,ULTI,2.42677
+manne robert,swick gregory,ULTI,2.21856
+phenicie john c,rogers adam,ULTI,3.04181
+phenicie john c,swick gregory,ULTI,3.15589
+rogers adam,swick gregory,ULTI,3.92889
+scherr marc d,scherr scott,ULTI,2.30143
+scherr marc d,swick gregory,ULTI,2.08833
+scherr scott,swick gregory,ULTI,2.06334
+danis richard,harburn mike,RGTI,7.18426
+danis richard,rigetti chad,RGTI,7.18426
+danis richard,sereda brian j,RGTI,7.18426
+harburn mike,rigetti chad,RGTI,10.058
+harburn mike,sereda brian j,RGTI,10.058
+rigetti chad,sereda brian j,RGTI,10.058
+anderson troy r,hitchcock todd a,UTI,2.08333
+anderson troy r,kevane christopher e.,UTI,2.08333
+anderson troy r,smith lori b,UTI,2.08333
+fesperman bart,mason sonia claire,UTI,2.17914
+fesperman bart,severson eric,UTI,2.17914
+gray adam,shackelton christopher s,UTI,5.43298
+hitchcock todd a,kevane christopher e.,UTI,2.35969
+hitchcock todd a,smith lori b,UTI,2.35969
+kevane christopher e.,smith lori b,UTI,2.35969
+mason sonia claire,severson eric,UTI,2.17914
+dakos andrew,goldstein phillip,FAV,2.12327
+dakos andrew,samuels steven,FAV,2.12327
+goldstein phillip,samuels steven,FAV,2.12327
+dakos andrew,goldstein phillip,AKP,14.6
+dakos andrew,samuels steven,AKP,14.6
+goldstein phillip,samuels steven,AKP,14.6
+martin christopher ross,pappas james c,RRGB,2.322
+taube brook,taube seth,MCC,9.82646
+cowie robin harper,hutton scott,BDSX,2.22449
+cowie robin harper,o'kane kieran,BDSX,2.33605
+cowie robin harper,pestano gary anthony,BDSX,2.21939
+hutton scott,o'kane kieran,BDSX,2.33605
+hutton scott,pestano gary anthony,BDSX,2.21939
+o'kane kieran,pestano gary anthony,BDSX,2.56083
+loose christopher r.,lucchino david l.,FREQ,2.05674
+curley kevin m,flynn brian c,TRST,2.0945
+curley kevin m,hall michael james,TRST,3.7878
+curley kevin m,leonard robert m,TRST,2.82228
+curley kevin m,mccormick robert j,TRST,3.02408
+curley kevin m,ozimek michael m,TRST,3.03079
+curley kevin m,salvador scot r,TRST,3.00188
+curley kevin m,schreck eric w,TRST,3.25375
+de gennaro dennis a,maggs thomas o,TRST,2.19693
+de gennaro dennis a,marinello anthony j md phd,TRST,2.06162
+flynn brian c,hall michael james,TRST,2.46658
+flynn brian c,maggs thomas o,TRST,2.1941
+flynn brian c,marinello anthony j md phd,TRST,2.06415
+hall michael james,leonard robert m,TRST,3.00206
+hall michael james,maggs thomas o,TRST,2.09059
+hall michael james,mccormick robert j,TRST,3.23775
+hall michael james,ozimek michael m,TRST,3.35529
+hall michael james,salvador scot r,TRST,3.30974
+hall michael james,schreck eric w,TRST,3.49456
+leonard robert m,mccormick robert j,TRST,2.79413
+leonard robert m,ozimek michael m,TRST,2.8102
+leonard robert m,salvador scot r,TRST,2.69333
+leonard robert m,schreck eric w,TRST,2.95914
+maggs thomas o,marinello anthony j md phd,TRST,2.37457
+maggs thomas o,mccormick robert j,TRST,2.00663
+maggs thomas o,ozimek michael m,TRST,2.15847
+maggs thomas o,salvador scot r,TRST,2.02041
+maggs thomas o,schreck eric w,TRST,2.15595
+marinello anthony j md phd,ozimek michael m,TRST,2.03064
+marinello anthony j md phd,schreck eric w,TRST,2.02843
+mccormick robert j,ozimek michael m,TRST,3.20012
+mccormick robert j,salvador scot r,TRST,3.04271
+mccormick robert j,schreck eric w,TRST,3.11586
+ozimek michael m,salvador scot r,TRST,3.16412
+ozimek michael m,schreck eric w,TRST,3.29202
+salvador scot r,schreck eric w,TRST,3.20425
+mnaymneh sami,tamer anthony,WHF,17.7658
+gustavson tamara hughes,hughes b wayne et al,AMH,5.35505
+alexander delisa,whitehurst james m,RHT,2.22625
+jacullo peter j iii,kamin peter h,TTS,2.74552
+dougan brady w,niklason laura e,HUMA,7.72234
+freedman joseph david,liuzza nicholas reyland jr,RCAT,2.66667
+freedman joseph david,thompson jeffrey m,RCAT,2.16687
+matus george michael,thompson jeffrey m,RCAT,2.37309
+raneri stephen,rosen arthur,DAVE,8.25422
+coleman charles p iii,shleifer scott l,WEAV,15.7692
+modersitzki blake g,neish branden,WEAV,2.05946
+cohen jonathan h,rosenthal saul b,TICC,13.964
+clarke jeffrey w,sweet thomas w,DELL,4.16568
+drew john,hoag jay c,ALRM,5.05651
+drew john,kimball rick,ALRM,5.05651
+drew john,marshall christopher p,ALRM,3.45972
+drew john,reynolds jon q jr,ALRM,4.10842
+drew john,trudeau robert,ALRM,5.05651
+hoag jay c,kimball rick,ALRM,5.05651
+hoag jay c,marshall christopher p,ALRM,3.45972
+hoag jay c,reynolds jon q jr,ALRM,4.10842
+hoag jay c,trudeau robert,ALRM,5.05651
+kimball rick,marshall christopher p,ALRM,3.45972
+kimball rick,reynolds jon q jr,ALRM,4.10842
+kimball rick,trudeau robert,ALRM,5.05651
+marshall christopher p,reynolds jon q jr,ALRM,3.43537
+marshall christopher p,trudeau robert,ALRM,3.45972
+reynolds jon q jr,trudeau robert,ALRM,4.10842
+blom douglas e,koetz john m,JOY,2.61957
+doheny edward l ii,kulasa matthew s,JOY,2.97476
+doheny edward l ii,major sean d,JOY,2.47696
+doheny edward l ii,maritz johannes s.,JOY,2.41635
+kulasa matthew s,major sean d,JOY,3.27814
+kulasa matthew s,maritz johannes s.,JOY,3.14198
+major sean d,maritz johannes s.,JOY,2.7541
+cearnal martin e,galante joseph c,CPIX,5.78581
+cearnal martin e,jones james,CPIX,11.5469
+cearnal martin e,kazimi a j,CPIX,17.2507
+cearnal martin e,krogulski kenneth,CPIX,9.80693
+cearnal martin e,young caroline,CPIX,9.60947
+galante joseph c,jones james,CPIX,16.9031
+galante joseph c,kazimi a j,CPIX,8.92432
+galante joseph c,krogulski kenneth,CPIX,19.9805
+galante joseph c,young caroline,CPIX,16.3938
+jones james,kazimi a j,CPIX,8.90361
+jones james,krogulski kenneth,CPIX,19.8472
+jones james,young caroline,CPIX,19.2535
+kazimi a j,krogulski kenneth,CPIX,12.8569
+kazimi a j,young caroline,CPIX,9.70427
+krogulski kenneth,young caroline,CPIX,18.9888
+coleman charles p iii,fixel lee,APO,6.36961
+coleman charles p iii,shleifer scott l,APO,6.36961
+fixel lee,shleifer scott l,APO,6.36961
+karam andrew,krystynak john,APP,2.51978
+lindenbaum bennett d,lindenbaum matthew a,RM,6.10704
+burke james r,durrett cynthia m.,SOI,3.5967
+burke james r,keenan w howard jr,SOI,3.5967
+burke james r,ramachandran kyle s.,SOI,3.5967
+burke james r,zartler william a,SOI,2.36033
+durrett cynthia m.,keenan w howard jr,SOI,5.81005
+durrett cynthia m.,ramachandran kyle s.,SOI,5.81005
+durrett cynthia m.,zartler william a,SOI,3.77653
+keenan w howard jr,ramachandran kyle s.,SOI,5.81005
+keenan w howard jr,zartler william a,SOI,3.77653
+ramachandran kyle s.,zartler william a,SOI,3.77653
+knowlton calvin h,knowlton orsula v,TRHC,4.5003
+chopra chandan,zayas orlando,KPLT,2.42497
+totalenergies gestion usa sarl,totalenergies se,CWEN,2.24889
+lashkari deval,mackowski j matthew,LDRH,5.89796
+lashkari deval,raffin thomas a.,LDRH,5.89796
+lashkari deval,shepler robert g,LDRH,5.89796
+mackowski j matthew,raffin thomas a.,LDRH,5.89796
+mackowski j matthew,shepler robert g,LDRH,5.89796
+raffin thomas a.,shepler robert g,LDRH,5.89796
+demartino steven a,hoffman andrew john,TACT,2.14413
+demartino steven a,shuldman bart c,TACT,2.43209
+hoffman andrew john,shuldman bart c,TACT,2.40445
+goeddel david v,kutzkey tim,NGM,8.07556
+goeddel david v,svennilson peter,NGM,8.07556
+kutzkey tim,svennilson peter,NGM,8.77779
+short jay m phd,sievers eric,BCAB,4.38533
+short jay m phd,smith scott andrew,BCAB,4.38533
+short jay m phd,vasquez christian,BCAB,5.086
+short jay m phd,waldron richard a,BCAB,5.11621
+sievers eric,smith scott andrew,BCAB,4.33319
+sievers eric,vasquez christian,BCAB,4.38533
+sievers eric,waldron richard a,BCAB,4.38533
+smith scott andrew,vasquez christian,BCAB,4.38533
+smith scott andrew,waldron richard a,BCAB,4.38533
+vasquez christian,waldron richard a,BCAB,5.11621
+arens timothy j.,maharaj gary r,SRDX,2.62671
+arens timothy j.,olson charles w,SRDX,2.52914
+arens timothy j.,stich joseph j.,SRDX,2.68191
+maharaj gary r,olson charles w,SRDX,2.23393
+maharaj gary r,stich joseph j.,SRDX,2.36916
+manders john d.,sides teri woodwick,SRDX,2.07006
+olson charles w,stich joseph j.,SRDX,2.46088
+phillips bryan k,sutton gregg s,SRDX,3.38536
+davidson charles e,jacobs joseph,FANG,2.42967
+shapiro lee,tullman glen,LVGO,2.7708
+griffith william j.g.,jacobson matthew,PCOR,2.29809
+griffith william j.g.,makan divesh,PCOR,2.60074
+jacobson matthew,makan divesh,PCOR,2.60074
+baab jason p,mctague emma m,OSK,2.49647
+bleck timothy s,mctague emma m,OSK,2.19481
+bleck timothy s,verich john s,OSK,3.44898
+brandt bryan k,cortina ignacio a,OSK,2.72802
+brandt bryan k,freeders james c,OSK,2.99755
+brandt bryan k,hawkins thomas p,OSK,2.15516
+brandt bryan k,khare anupam,OSK,2.45418
+brandt bryan k,nelson bradley m.,OSK,2.16903
+brandt bryan k,pack michael e,OSK,2.42469
+bryant john j,cortina ignacio a,OSK,2.17195
+bryant john j,grennier r scott,OSK,2.42719
+bryant john j,nelson bradley m.,OSK,2.12859
+cortina ignacio a,freeders james c,OSK,2.74566
+cortina ignacio a,johnson james w.,OSK,2.2777
+cortina ignacio a,nelson bradley m.,OSK,2.42417
+cortina ignacio a,nerenhausen frank r.,OSK,2.15167
+freeders james c,grennier r scott,OSK,2.00603
+freeders james c,johnson james w.,OSK,2.01229
+freeders james c,khare anupam,OSK,2.00181
+freeders james c,nelson bradley m.,OSK,2.28526
+freeders james c,pack michael e,OSK,2.22694
+hawkins thomas p,khare anupam,OSK,2.24339
+hawkins thomas p,pack michael e,OSK,2.17687
+johnson james w.,nelson bradley m.,OSK,2.10527
+johnson james w.,nerenhausen frank r.,OSK,2.03526
+khare anupam,mctague emma m,OSK,2.16785
+khare anupam,pack michael e,OSK,2.68528
+khare anupam,pfeifer john c,OSK,2.11416
+mctague emma m,pack michael e,OSK,2.57433
+mctague emma m,pfeifer john c,OSK,2.30904
+mctague emma m,verich john s,OSK,2.19481
+nelson bradley m.,nerenhausen frank r.,OSK,2.31161
+pack michael e,pfeifer john c,OSK,2.45044
+chakma justin,shawver laura,SPRY,4.91769
+horowitz joshua,palmer bradley c,LMB,6.85941
+camp garrett,kalanick travis cordell,UBER,9.07084
+gupta manik,kalanick travis cordell,UBER,2.01539
+foliano michael,kimpe marc,ADTN,3.11013
+foliano michael,scheiterer eduard,ADTN,2.16001
+foliano michael,stanton thomas r,ADTN,3.32297
+foliano michael,wilson james denson jr,ADTN,3.74522
+kimpe marc,scheiterer eduard,ADTN,2.01733
+kimpe marc,stanton thomas r,ADTN,2.36134
+kimpe marc,wilson james denson jr,ADTN,2.76737
+stanton thomas r,wilson james denson jr,ADTN,4.45529
+isaly samuel d,khuong chau quang,OTIC,11.5115
+quinn nancy k,watt james a,HLX,2.13441
+catoggio nicolas,harper bradly a,POST,2.01899
+gray diedre j,zadoks jeff a,POST,2.09335
+behar jerome m,behar leslie f.,WK,4
+yan ellis,yan zhaoling,TCPI,8.00082
+landes joshua,obus nelson,JASN,6.25
+brown robert l,elmore stephen a,CZBS,3.60225
+brown robert l,moody charles d jr,CZBS,3.60225
+brown robert l,robinson ray m,CZBS,3.60225
+brown robert l,russell h jerome,CZBS,3.60225
+brown robert l,williams james e,CZBS,3.60225
+elmore stephen a,moody charles d jr,CZBS,3.60225
+elmore stephen a,robinson ray m,CZBS,3.60225
+elmore stephen a,russell h jerome,CZBS,3.60225
+elmore stephen a,williams james e,CZBS,3.60225
+moody charles d jr,robinson ray m,CZBS,3.60225
+moody charles d jr,russell h jerome,CZBS,3.60225
+moody charles d jr,williams james e,CZBS,3.60225
+robinson ray m,russell h jerome,CZBS,3.60225
+robinson ray m,williams james e,CZBS,3.60225
+russell h jerome,williams james e,CZBS,3.60225
+harrington john,monto richard,IQNT,2.24288
+maupin john e jr d d s,shaw l edward jr,EHC,2.17914
+cocchiaro richard m,sutter howard w,kfrc,2.61241
+chaffee todd c,fogelsong norman a,HNST,9.56681
+chaffee todd c,harrick stephen j,HNST,9.56681
+chaffee todd c,miller j sanford,HNST,9.56681
+chaffee todd c,phelps dennis b,HNST,9.56681
+fogelsong norman a,harrick stephen j,HNST,9.56681
+fogelsong norman a,miller j sanford,HNST,9.56681
+fogelsong norman a,phelps dennis b,HNST,9.56681
+harrick stephen j,miller j sanford,HNST,9.56681
+harrick stephen j,phelps dennis b,HNST,9.56681
+miller j sanford,phelps dennis b,HNST,9.56681
+cardama alfonso quintas,justice angela,TCRR,14.2329
+cardama alfonso quintas,menzel garry e,TCRR,14.5846
+cardama alfonso quintas,olagunju peter,TCRR,14.9811
+justice angela,menzel garry e,TCRR,14.2329
+justice angela,olagunju peter,TCRR,14.4826
+menzel garry e,olagunju peter,TCRR,14.9811
+brant david mark elias,shalev uzi,MIMO,6.20457
+brant david mark elias,smith petersen henrik,MIMO,6.20457
+shalev uzi,smith petersen henrik,MIMO,5.89796
+calton simon,keen victor f,CRTG,3.19282
+delaney william j iii,libby russell t.,SYY,2.54828
+frank joshua d.,peltz nelson,SYY,2.70948
+grade joel t.,libby russell t.,SYY,2.33944
+libby russell t.,moskowitz paul t,SYY,2.17571
+mindich jeremy,sirovich matthew,ITRI,10.3416
+goeltz ii robert c.,jaen juan c.,RCUS,2.46939
+goeltz ii robert c.,jarrett jennifer,RCUS,2.72109
+goeltz ii robert c.,rosen terry j,RCUS,2.46939
+goeltz ii robert c.,tang carolyn c.,RCUS,2.46939
+jaen juan c.,jarrett jennifer,RCUS,2.72109
+jaen juan c.,rosen terry j,RCUS,2.46939
+jaen juan c.,tang carolyn c.,RCUS,2.46939
+jarrett jennifer,rosen terry j,RCUS,2.72109
+jarrett jennifer,tang carolyn c.,RCUS,2.72109
+rosen terry j,tang carolyn c.,RCUS,2.46939
+doerfler douglas,holtz ron,MXCT,2.14674
+doerfler douglas,masoud maher,MXCT,2.14674
+doerfler douglas,murphy amanda louise,MXCT,2.14674
+holtz ron,masoud maher,MXCT,5.00907
+holtz ron,murphy amanda louise,MXCT,5.00907
+masoud maher,murphy amanda louise,MXCT,5.00907
+root jonathan d,tansey casey m,EFTR,18.4394
+collins robert p,fleck jeffrey l,ZEP,3.63265
+collins robert p,morgan john k,ZEP,3.63265
+fleck jeffrey l,morgan john k,ZEP,3.63265
+butterfield stewart,henderson cal,WORK,17.5149
+butler helen rankin,butler john c jr,NC,8.75187
+butler helen rankin,rankin alfred m et al,NC,5.12118
+butler helen rankin,rankin alison a,NC,5.46033
+butler helen rankin,rankin bruce t,NC,9.48249
+butler helen rankin,rankin roger f,NC,5.46033
+butler helen rankin,rankin victoire g,NC,5.08957
+butler helen rankin,williams clara r,NC,5.13918
+butler helen rankin,williams david b,NC,5.13918
+butler john c jr,rankin alfred m et al,NC,5.12118
+butler john c jr,rankin alison a,NC,5.46033
+butler john c jr,rankin bruce t,NC,9.48249
+butler john c jr,rankin roger f,NC,5.46033
+butler john c jr,rankin victoire g,NC,5.08957
+butler john c jr,williams clara r,NC,5.13918
+butler john c jr,williams david b,NC,5.13918
+rankin alfred m et al,rankin alison a,NC,4.44077
+rankin alfred m et al,rankin bruce t,NC,5.95412
+rankin alfred m et al,rankin roger f,NC,4.44077
+rankin alfred m et al,rankin victoire g,NC,4.94771
+rankin alfred m et al,williams clara r,NC,3.44295
+rankin alfred m et al,williams david b,NC,3.44295
+rankin alison a,rankin bruce t,NC,6.34778
+rankin alison a,rankin roger f,NC,5.33664
+rankin alison a,rankin victoire g,NC,4.42242
+rankin alison a,williams clara r,NC,3.43945
+rankin alison a,williams david b,NC,3.43945
+rankin bruce t,rankin roger f,NC,6.34778
+rankin bruce t,rankin victoire g,NC,5.90832
+rankin bruce t,williams clara r,NC,5.56581
+rankin bruce t,williams david b,NC,5.56581
+rankin roger f,rankin victoire g,NC,4.42242
+rankin roger f,williams clara r,NC,3.43945
+rankin roger f,williams david b,NC,3.43945
+rankin victoire g,williams clara r,NC,3.418
+rankin victoire g,williams david b,NC,3.418
+williams clara r,williams david b,NC,4.61413
+dillon patrick,lu cheng,TSP,6.21224
+dillon patrick,mullen james,TSP,6.21224
+lu cheng,mullen james,TSP,5.76327
+choubey diwakar,correia richard,ML,2.28346
+harbaugh matthew k,schaefer kathy a,MNK,2.46939
+burow kristina,crandell keith,NMRA,12.9829
+burow kristina,gillis steven,NMRA,12.9829
+burow kristina,nelsen robert,NMRA,12.9829
+crandell keith,gillis steven,NMRA,12.9829
+crandell keith,nelsen robert,NMRA,12.9829
+gillis steven,nelsen robert,NMRA,12.9829
+king john bryan,king luther jr,SSRG,9.31439
+dakos andrew,goldstein phillip,SVVC,4.93186
+dakos andrew,samuels steven,SVVC,4.93186
+goldstein phillip,samuels steven,SVVC,4.93186
+sacks rodney c,schlosberg hilton h,MNST,2.68111
+curfman matthew j.,richmond brothers 401(k) profit sharing plan,AIRI,6.73061
+curfman matthew j.,richmond david s.,AIRI,6.73061
+richmond brothers 401(k) profit sharing plan,richmond david s.,AIRI,6.73061
+bryant andy d,smith stacy j,INTC,2.58349
+bryant diane m,smith stacy j,INTC,2.42662
+holt william m,james renee jo,INTC,3.21262
+holt william m,pearson gregory r,INTC,3.0017
+holt william m,smith stacy j,INTC,2.02713
+mcbride kevin thomas,rodgers steven ralph,INTC,2.51273
+mcbride kevin thomas,shenoy navin,INTC,2.41743
+pearson gregory r,smith stacy j,INTC,2.0838
+rodgers steven ralph,shenoy navin,INTC,2.01188
+caruso daniel,desgarennes kenneth,ZAYO,2.60012
+caruso daniel,erickson matthew,ZAYO,2.61098
+caruso daniel,morley christopher,ZAYO,3.02519
+desgarennes kenneth,erickson matthew,ZAYO,2.64439
+desgarennes kenneth,morley christopher,ZAYO,2.5429
+erickson matthew,morley christopher,ZAYO,3.30702
+godshall douglas evan,larose jeffrey,HTWR,2.01727
+budman gleb,jones charles j.,BLZE,22.8885
+budman gleb,ng kwok hang,BLZE,22.8885
+budman gleb,nufire timothy m,BLZE,22.8885
+budman gleb,wilson brian k,BLZE,22.8885
+jones charles j.,ng kwok hang,BLZE,23.2462
+jones charles j.,nufire timothy m,BLZE,23.2462
+jones charles j.,wilson brian k,BLZE,23.2462
+ng kwok hang,nufire timothy m,BLZE,23.2462
+ng kwok hang,wilson brian k,BLZE,23.2462
+nufire timothy m,wilson brian k,BLZE,23.2462
+price philanthropies foundation,price robert e,PSMT,3.22896
+chao albert,chao james,WLK,2.57046
+lamb scott e,riggs steven,ICUI,3.5277
+emancipation capital,frumberg charles,SABA,4.3502
+eisenhardt elizabeth h,haas daniel s.,LEVI,3.92303
+eisenhardt elizabeth h,haas jennifer c.,LEVI,4.06125
+haas bradley j.,haas daniel s.,LEVI,5.68104
+haas bradley j.,haas jennifer c.,LEVI,10.5388
+haas bradley j.,haas robert d.,LEVI,8.67442
+haas daniel s.,haas jennifer c.,LEVI,7.18426
+haas jennifer c.,haas robert d.,LEVI,3.5252
+aronson jeffrey,gallogly mark t,MPO,4.41858
+landes joshua,obus nelson,WLMS,4.8243
+griffith william j.g.,jacobson matthew,GTLB,2.63088
+griffith william j.g.,makan divesh,GTLB,3.20086
+jacobson matthew,makan divesh,GTLB,2.09711
+derose robert,derose susan,LGCY,2.35842
+evnin luke,foley todd,ITOS,14.0869
+evnin luke,gadicke ansbert,ITOS,14.0869
+foley todd,gadicke ansbert,ITOS,14.0869
+lorentzatos nickolas j,lou michael h,OAS,2.17647
+baggio barbara,chang dennis,VPLM,9.26458
+baggio barbara,williams kevin bryan,VPLM,2.31505
+calastri mario,curtin terrence r,TEL,2.12637
+calastri mario,resch eric,TEL,2.00964
+curtin terrence r,donahue joseph b,TEL,2.26042
+curtin terrence r,jenkins john s,TEL,2.32842
+curtin terrence r,merkt steven t,TEL,2.64385
+curtin terrence r,o'toole james,TEL,2.19847
+curtin terrence r,ott robert j,TEL,2.19686
+curtin terrence r,resch eric,TEL,2.40779
+curtin terrence r,shaddock robert n,TEL,2.54098
+curtin terrence r,wainwright joan,TEL,2.14814
+donahue joseph b,o'toole james,TEL,2.62109
+donahue joseph b,resch eric,TEL,2.02959
+donahue joseph b,shaddock robert n,TEL,2.73234
+donahue joseph b,wainwright joan,TEL,2.20964
+hau robert w.,leipold jane a,TEL,3.09046
+merkt steven t,resch eric,TEL,2.11514
+merkt steven t,shaddock robert n,TEL,2.02744
+o'toole james,shaddock robert n,TEL,2.81486
+o'toole james,wainwright joan,TEL,2.20408
+resch eric,shaddock robert n,TEL,2.11115
+resch eric,wainwright joan,TEL,2.02046
+shaddock robert n,wainwright joan,TEL,2.11115
+brombach theodore j,spence john yogi,XFLT,6.45302
+brogdon christopher f,brogdon connie b,ADK,6.76
+brody paul jonathan,frank thomas aj,IBKR,7.98732
+brody paul jonathan,galik milan,IBKR,2.84255
+brody paul jonathan,nemser earl h,IBKR,12.5026
+frank thomas aj,galik milan,IBKR,2.37878
+frank thomas aj,nemser earl h,IBKR,3.34382
+frank thomas aj,peterffy thomas,IBKR,11.7725
+galik milan,nemser earl h,IBKR,4.80613
+griffith william j.g.,makan divesh,BL,7.6562
+chaouat-fix mihal,pascal tomer,ATER,5.28803
+chaouat-fix mihal,risico joseph a,ATER,3.63145
+chaouat-fix mihal,zahut roi zion,ATER,2.63367
+pascal tomer,risico joseph a,ATER,4.85983
+pascal tomer,zahut roi zion,ATER,2.45826
+mahmoud ramy a,miller peter k,OPTN,3.23821
+goebels p mats,meitz david,ITG,7.36735
+bb biotech ag,biotech target n v,MGNX,3.68884
+briger matthew,briger peter l jr,DRTT,11.4308
+briger matthew,noll shaun,DRTT,8.57313
+briger peter l jr,noll shaun,DRTT,8.57313
+hurlbert craig m.,joyner travis m.,LOCL,2.21173
+hurlbert craig m.,valiasek kathleen,LOCL,2.48622
+joyner travis m.,valiasek kathleen,LOCL,4.28661
+emanuel ariel,whitesell patrick,EDR,3.14907
+demichele michael,nanji farhad,RXO,15.514
+bresch heather m,coury robert j,MYL,2.00113
+bresch heather m,malik rajiv,MYL,2.7708
+coury robert j,malik rajiv,MYL,2.00113
+diekman john d,rocklage scott m,PEAR,6.36961
+diekman john d,schwab andrew j.,PEAR,6.36961
+rocklage scott m,schwab andrew j.,PEAR,6.36961
+burdick kevin l,hoskin james r,OKE,4.84
+burdick kevin l,hulse walter s iii,OKE,3.38889
+burdick kevin l,kelley charles m,OKE,4.69231
+burdick kevin l,norton pierce,OKE,4.84
+burdick kevin l,schingen scott d,OKE,4.84
+burdick kevin l,spears mary m,OKE,4.51852
+burdick kevin l,swords sheridan c,OKE,4.35714
+burdick kevin l,taylor lyndon c,OKE,4.84
+hoskin james r,hulse walter s iii,OKE,3.45714
+hoskin james r,kelley charles m,OKE,4.84
+hoskin james r,norton pierce,OKE,4.84
+hoskin james r,schingen scott d,OKE,4.84
+hoskin james r,spears mary m,OKE,4.84
+hoskin james r,swords sheridan c,OKE,4.84
+hoskin james r,taylor lyndon c,OKE,4.84
+hulse walter s iii,kelley charles m,OKE,3.38889
+hulse walter s iii,norton pierce,OKE,3.45714
+hulse walter s iii,schingen scott d,OKE,3.45714
+hulse walter s iii,spears mary m,OKE,3.2973
+hulse walter s iii,swords sheridan c,OKE,3.21053
+hulse walter s iii,taylor lyndon c,OKE,3.45714
+kelley charles m,norton pierce,OKE,4.84
+kelley charles m,schingen scott d,OKE,4.84
+kelley charles m,spears mary m,OKE,4.51852
+kelley charles m,swords sheridan c,OKE,4.35714
+kelley charles m,taylor lyndon c,OKE,4.84
+norton pierce,schingen scott d,OKE,4.84
+norton pierce,spears mary m,OKE,4.84
+norton pierce,swords sheridan c,OKE,4.84
+norton pierce,taylor lyndon c,OKE,4.84
+schingen scott d,spears mary m,OKE,4.84
+schingen scott d,swords sheridan c,OKE,4.84
+schingen scott d,taylor lyndon c,OKE,4.84
+spears mary m,swords sheridan c,OKE,3.93548
+spears mary m,taylor lyndon c,OKE,4.84
+swords sheridan c,taylor lyndon c,OKE,4.84
+keck thomas,mccabe michael i,STEP,7.30425
+keck thomas,waldo robert,STEP,2.67499
+elmore william b,holland paul r,TUBE,2.33752
+elmore william b,koontz paul g,TUBE,2.33752
+elmore william b,moldow charles,TUBE,2.33752
+elmore william b,schuh michael n,TUBE,2.33752
+elmore william b,vassallo steven,TUBE,2.33752
+elmore william b,weiss warren m,TUBE,2.33752
+holland paul r,koontz paul g,TUBE,2.33752
+holland paul r,moldow charles,TUBE,2.33752
+holland paul r,schuh michael n,TUBE,2.33752
+holland paul r,vassallo steven,TUBE,2.33752
+holland paul r,weiss warren m,TUBE,2.33752
+koontz paul g,moldow charles,TUBE,2.33752
+koontz paul g,schuh michael n,TUBE,2.33752
+koontz paul g,vassallo steven,TUBE,2.33752
+koontz paul g,weiss warren m,TUBE,2.33752
+moldow charles,schuh michael n,TUBE,2.33752
+moldow charles,vassallo steven,TUBE,2.33752
+moldow charles,weiss warren m,TUBE,2.33752
+schuh michael n,vassallo steven,TUBE,2.33752
+schuh michael n,weiss warren m,TUBE,2.33752
+vassallo steven,weiss warren m,TUBE,2.33752
+evans gerald,faircloth michael e.,HBI,2.42081
+evans gerald,johnson joia m,HBI,2.32036
+evans gerald,lewis markland scott,HBI,2.10275
+evans gerald,upchurch w howard jr,HBI,2.43581
+faircloth michael e.,johnson joia m,HBI,2.79188
+faircloth michael e.,lewis markland scott,HBI,2.74836
+faircloth michael e.,moss richard d,HBI,2.2882
+faircloth michael e.,noll richard a,HBI,2.39869
+faircloth michael e.,upchurch w howard jr,HBI,2.93363
+johnson joia m,lewis markland scott,HBI,2.45026
+johnson joia m,upchurch w howard jr,HBI,2.8272
+lewis markland scott,upchurch w howard jr,HBI,2.66453
+marsh john t.,noll richard a,HBI,2.17945
+moss richard d,noll richard a,HBI,3.11379
+moss richard d,schindler andrew j,HBI,2.00073
+hartnett thomas g,leap arnold p,FLWS,2.28495
+hartnett thomas g,mccann james f,FLWS,2.79364
+hartnett thomas g,shea william e,FLWS,2.73407
+leap arnold p,mccann james f,FLWS,2.36916
+leap arnold p,shea william e,FLWS,2.37214
+mccann james f,shea william e,FLWS,2.96291
+lysonge ekumene m,milliner philip,PRSS,2.63224
+ames paul s.,bunyard gary t,SSTI,2.70368
+ames paul s.,golzadeh nasim,SSTI,2.12432
+ames paul s.,klepper robert samuel,SSTI,4.24865
+bunyard gary t,golzadeh nasim,SSTI,2.41519
+bunyard gary t,klepper robert samuel,SSTI,2.70368
+golzadeh nasim,klepper robert samuel,SSTI,2.12432
+brown james s,lesar david j,HAL,3.02062
+brown james s,mccollum mark a,HAL,2.63514
+brown james s,miller jeffrey allen,HAL,2.39147
+brown james s,pope lawrence j,HAL,2.70616
+brown james s,rainey joe d,HAL,2.5759
+carre eric,geer charles jr.,HAL,2.60714
+carre eric,jones myrtle l,HAL,2.49147
+carre eric,mckeon timothy,HAL,2.14861
+carre eric,miller jeffrey allen,HAL,2.20632
+carre eric,pope lawrence j,HAL,2.02391
+geer charles jr.,jones myrtle l,HAL,4.59704
+geer charles jr.,mckeon timothy,HAL,3.96627
+geer charles jr.,miller jeffrey allen,HAL,4.39286
+geer charles jr.,pope lawrence j,HAL,4.03302
+geer charles jr.,rainey joe d,HAL,3.18476
+geer charles jr.,voyles robb l.,HAL,2.15748
+jones myrtle l,mckeon timothy,HAL,4.00483
+jones myrtle l,miller jeffrey allen,HAL,4.30134
+jones myrtle l,pope lawrence j,HAL,3.96526
+jones myrtle l,rainey joe d,HAL,3.10803
+jones myrtle l,voyles robb l.,HAL,2.03419
+mckeon timothy,miller jeffrey allen,HAL,3.74243
+mckeon timothy,pope lawrence j,HAL,3.42187
+mckeon timothy,rainey joe d,HAL,2.68706
+miller jeffrey allen,pope lawrence j,HAL,4.29026
+miller jeffrey allen,rainey joe d,HAL,3.48432
+pope lawrence j,rainey joe d,HAL,3.48516
+biddle catherine u,biddle willing l,UBP,4.20285
+goodman bennett j,schwarzman stephen a,KODK,8.93758
+bracey vernon l,hand joseph thomas,yorw,2.46939
+bracey vernon l,hines jeffrey r,yorw,2.46939
+bracey vernon l,miller kathleen m,yorw,2.46939
+bracey vernon l,snyder mark s,yorw,2.46939
+bracey vernon l,strine john h,yorw,2.46939
+hand joseph thomas,hines jeffrey r,yorw,2.46939
+hand joseph thomas,miller kathleen m,yorw,2.46939
+hand joseph thomas,snyder mark s,yorw,2.46939
+hand joseph thomas,strine john h,yorw,2.46939
+hines jeffrey r,miller kathleen m,yorw,2.46939
+hines jeffrey r,snyder mark s,yorw,2.46939
+hines jeffrey r,strine john h,yorw,2.46939
+miller kathleen m,snyder mark s,yorw,2.46939
+miller kathleen m,strine john h,yorw,2.46939
+snyder mark s,strine john h,yorw,2.46939
+bracey vernon l,snyder mark s,YORW,2.67794
+alexander jay,dougherty neil,KEYS,2.11095
+alexander jay,estrada ingrid a,KEYS,2.24931
+alexander jay,nersesian ronald s.,KEYS,2.00862
+alexander jay,skinner john c.,KEYS,2.61424
+alexander jay,wallace mark adam,KEYS,2.26426
+dhanasekaran satish,dougherty neil,KEYS,3.09138
+dhanasekaran satish,estrada ingrid a,KEYS,3.06463
+dhanasekaran satish,li jeffrey k,KEYS,3.71457
+dhanasekaran satish,narayanan kailash,KEYS,3.32677
+dhanasekaran satish,nersesian ronald s.,KEYS,2.46494
+dhanasekaran satish,page john,KEYS,3.59185
+dhanasekaran satish,wallace mark adam,KEYS,3.73044
+dougherty neil,estrada ingrid a,KEYS,4.16599
+dougherty neil,li jeffrey k,KEYS,3.46742
+dougherty neil,narayanan kailash,KEYS,3.23075
+dougherty neil,nersesian ronald s.,KEYS,3.11833
+dougherty neil,page john,KEYS,3.85324
+dougherty neil,skinner john c.,KEYS,2.64767
+dougherty neil,wallace mark adam,KEYS,4.25771
+estrada ingrid a,li jeffrey k,KEYS,3.44603
+estrada ingrid a,narayanan kailash,KEYS,2.99905
+estrada ingrid a,nersesian ronald s.,KEYS,3.35664
+estrada ingrid a,page john,KEYS,4.00222
+estrada ingrid a,skinner john c.,KEYS,2.56808
+estrada ingrid a,wallace mark adam,KEYS,4.46962
+kary jason andrew,narayanan kailash,KEYS,2.66261
+kary jason andrew,poole lisa m.,KEYS,2.39434
+kary jason andrew,yoon sung,KEYS,6.82295
+li jeffrey k,narayanan kailash,KEYS,5.49663
+li jeffrey k,nersesian ronald s.,KEYS,2.57606
+li jeffrey k,page john,KEYS,3.99533
+li jeffrey k,wallace mark adam,KEYS,4.19844
+narayanan kailash,nersesian ronald s.,KEYS,2.12733
+narayanan kailash,page john,KEYS,3.50543
+narayanan kailash,poole lisa m.,KEYS,2.22684
+narayanan kailash,wallace mark adam,KEYS,3.65386
+nersesian ronald s.,page john,KEYS,2.92042
+nersesian ronald s.,skinner john c.,KEYS,2.29744
+nersesian ronald s.,wallace mark adam,KEYS,3.29009
+page john,skinner john c.,KEYS,2.18349
+page john,wallace mark adam,KEYS,4.55437
+poole lisa m.,yoon sung,KEYS,2.68236
+skinner john c.,wallace mark adam,KEYS,2.4538
+butler clara r,butler griffin b,HY,18.8968
+butler clara r,butler helen rankin,HY,15.7408
+butler clara r,butler john c jr,HY,15.7408
+butler clara r,kuipers evelyn r,HY,19.4362
+butler clara r,kuipers jacob a,HY,18.9235
+butler clara r,kuipers matilda alan,HY,19.4362
+butler clara r,rankin a farnham,HY,18.9235
+butler clara r,rankin alfred m et al,HY,17.4364
+butler clara r,rankin alison a,HY,17.1771
+butler clara r,rankin bruce t,HY,19.2494
+butler clara r,rankin chloe o,HY,15.0885
+butler clara r,rankin claiborne r,HY,15.0885
+butler clara r,rankin claiborne r jr,HY,18.9235
+butler clara r,rankin claiborne read iii,HY,19.4362
+butler clara r,rankin clara l t,HY,17.59
+butler clara r,rankin corbin,HY,17.1771
+butler clara r,rankin elisabeth m,HY,18.9235
+butler clara r,rankin elizabeth b,HY,18.9235
+butler clara r,rankin james t,HY,18.9235
+butler clara r,rankin james t. jr.,HY,19.0234
+butler clara r,rankin julia l,HY,18.9235
+butler clara r,rankin lauran,HY,8.52941
+butler clara r,rankin lynne t,HY,18.9235
+butler clara r,rankin margaret pollard,HY,19.0234
+butler clara r,rankin mary m,HY,19.2496
+butler clara r,rankin matthew m,HY,18.9235
+butler clara r,rankin roger f,HY,17.1771
+butler clara r,rankin thomas parker,HY,18.9235
+butler clara r,rankin thomas t,HY,17.4455
+butler clara r,rankin victoire g,HY,17.7129
+butler clara r,rankin william a,HY,19.2496
+butler clara r,seelbach chloe r,HY,18.9235
+butler clara r,seelbach isabelle,HY,19.2496
+butler clara r,seelbach scott w,HY,18.9235
+butler clara r,seelbach taplin e,HY,19.2496
+butler clara r,seelbach thomas wilson,HY,19.4362
+butler clara r,williams clara r,HY,17.3101
+butler clara r,williams david b,HY,17.3101
+butler clara r,williams helen charles,HY,19.07
+butler clara r,williams margo j.v.,HY,19.07
+butler griffin b,butler helen rankin,HY,15.7408
+butler griffin b,butler john c jr,HY,15.7408
+butler griffin b,kuipers evelyn r,HY,19.4362
+butler griffin b,kuipers jacob a,HY,18.9235
+butler griffin b,kuipers matilda alan,HY,19.4362
+butler griffin b,rankin a farnham,HY,18.9235
+butler griffin b,rankin alfred m et al,HY,17.4364
+butler griffin b,rankin alison a,HY,17.1771
+butler griffin b,rankin bruce t,HY,19.2494
+butler griffin b,rankin chloe o,HY,15.0885
+butler griffin b,rankin claiborne r,HY,15.0885
+butler griffin b,rankin claiborne r jr,HY,18.9235
+butler griffin b,rankin claiborne read iii,HY,19.4362
+butler griffin b,rankin clara l t,HY,17.59
+butler griffin b,rankin corbin,HY,17.1771
+butler griffin b,rankin elisabeth m,HY,18.9235
+butler griffin b,rankin elizabeth b,HY,18.9235
+butler griffin b,rankin james t,HY,18.9235
+butler griffin b,rankin james t. jr.,HY,19.0234
+butler griffin b,rankin julia l,HY,18.9235
+butler griffin b,rankin lauran,HY,8.52941
+butler griffin b,rankin lynne t,HY,18.9235
+butler griffin b,rankin margaret pollard,HY,19.0234
+butler griffin b,rankin mary m,HY,19.2496
+butler griffin b,rankin matthew m,HY,18.9235
+butler griffin b,rankin roger f,HY,17.1771
+butler griffin b,rankin thomas parker,HY,18.9235
+butler griffin b,rankin thomas t,HY,17.4455
+butler griffin b,rankin victoire g,HY,17.7129
+butler griffin b,rankin william a,HY,19.2496
+butler griffin b,seelbach chloe r,HY,18.9235
+butler griffin b,seelbach isabelle,HY,19.2496
+butler griffin b,seelbach scott w,HY,18.9235
+butler griffin b,seelbach taplin e,HY,19.2496
+butler griffin b,seelbach thomas wilson,HY,19.4362
+butler griffin b,williams clara r,HY,17.3101
+butler griffin b,williams david b,HY,17.3101
+butler griffin b,williams helen charles,HY,19.07
+butler griffin b,williams margo j.v.,HY,19.07
+butler helen rankin,butler john c jr,HY,14.3385
+butler helen rankin,kuipers evelyn r,HY,16.1898
+butler helen rankin,kuipers jacob a,HY,15.8849
+butler helen rankin,kuipers matilda alan,HY,16.1898
+butler helen rankin,rankin a farnham,HY,15.8849
+butler helen rankin,rankin alfred m et al,HY,14.9172
+butler helen rankin,rankin alison a,HY,14.8186
+butler helen rankin,rankin bruce t,HY,16.0342
+butler helen rankin,rankin chloe o,HY,13.922
+butler helen rankin,rankin claiborne r,HY,13.922
+butler helen rankin,rankin claiborne r jr,HY,15.8849
+butler helen rankin,rankin claiborne read iii,HY,16.1898
+butler helen rankin,rankin clara l t,HY,15.0672
+butler helen rankin,rankin corbin,HY,14.7063
+butler helen rankin,rankin elisabeth m,HY,15.8849
+butler helen rankin,rankin elizabeth b,HY,15.8849
+butler helen rankin,rankin james t,HY,15.8849
+butler helen rankin,rankin james t. jr.,HY,15.8458
+butler helen rankin,rankin julia l,HY,15.8849
+butler helen rankin,rankin lauran,HY,7.2137
+butler helen rankin,rankin lynne t,HY,15.8849
+butler helen rankin,rankin margaret pollard,HY,15.8458
+butler helen rankin,rankin mary m,HY,16.0345
+butler helen rankin,rankin matthew m,HY,15.8849
+butler helen rankin,rankin roger f,HY,14.8186
+butler helen rankin,rankin thomas parker,HY,15.8849
+butler helen rankin,rankin thomas t,HY,14.936
+butler helen rankin,rankin victoire g,HY,15.1041
+butler helen rankin,rankin william a,HY,16.0345
+butler helen rankin,seelbach chloe r,HY,15.8849
+butler helen rankin,seelbach isabelle,HY,16.0345
+butler helen rankin,seelbach scott w,HY,15.8849
+butler helen rankin,seelbach taplin e,HY,16.0345
+butler helen rankin,seelbach thomas wilson,HY,16.1898
+butler helen rankin,williams clara r,HY,15.0931
+butler helen rankin,williams david b,HY,15.0931
+butler helen rankin,williams helen charles,HY,15.8849
+butler helen rankin,williams margo j.v.,HY,15.8849
+butler john c jr,kuipers evelyn r,HY,16.1898
+butler john c jr,kuipers jacob a,HY,15.8849
+butler john c jr,kuipers matilda alan,HY,16.1898
+butler john c jr,rankin a farnham,HY,15.8849
+butler john c jr,rankin alfred m et al,HY,14.9172
+butler john c jr,rankin alison a,HY,14.8186
+butler john c jr,rankin bruce t,HY,16.0342
+butler john c jr,rankin chloe o,HY,13.922
+butler john c jr,rankin claiborne r,HY,13.922
+butler john c jr,rankin claiborne r jr,HY,15.8849
+butler john c jr,rankin claiborne read iii,HY,16.1898
+butler john c jr,rankin clara l t,HY,15.0672
+butler john c jr,rankin corbin,HY,14.7063
+butler john c jr,rankin elisabeth m,HY,15.8849
+butler john c jr,rankin elizabeth b,HY,15.8849
+butler john c jr,rankin james t,HY,15.8849
+butler john c jr,rankin james t. jr.,HY,15.8458
+butler john c jr,rankin julia l,HY,15.8849
+butler john c jr,rankin lauran,HY,7.2137
+butler john c jr,rankin lynne t,HY,15.8849
+butler john c jr,rankin margaret pollard,HY,15.8458
+butler john c jr,rankin mary m,HY,16.0345
+butler john c jr,rankin matthew m,HY,15.8849
+butler john c jr,rankin roger f,HY,14.8186
+butler john c jr,rankin thomas parker,HY,15.8849
+butler john c jr,rankin thomas t,HY,14.936
+butler john c jr,rankin victoire g,HY,15.1041
+butler john c jr,rankin william a,HY,16.0345
+butler john c jr,seelbach chloe r,HY,15.8849
+butler john c jr,seelbach isabelle,HY,16.0345
+butler john c jr,seelbach scott w,HY,15.8849
+butler john c jr,seelbach taplin e,HY,16.0345
+butler john c jr,seelbach thomas wilson,HY,16.1898
+butler john c jr,williams clara r,HY,15.0931
+butler john c jr,williams david b,HY,15.0931
+butler john c jr,williams helen charles,HY,15.8849
+butler john c jr,williams margo j.v.,HY,15.8849
+kuipers evelyn r,kuipers jacob a,HY,19.7655
+kuipers evelyn r,kuipers matilda alan,HY,20.4589
+kuipers evelyn r,rankin a farnham,HY,19.7655
+kuipers evelyn r,rankin alfred m et al,HY,18.2118
+kuipers evelyn r,rankin alison a,HY,17.9415
+kuipers evelyn r,rankin bruce t,HY,20.1059
+kuipers evelyn r,rankin chloe o,HY,15.76
+kuipers evelyn r,rankin claiborne r,HY,15.76
+kuipers evelyn r,rankin claiborne r jr,HY,19.7655
+kuipers evelyn r,rankin claiborne read iii,HY,20.4589
+kuipers evelyn r,rankin clara l t,HY,18.5158
+kuipers evelyn r,rankin corbin,HY,17.9415
+kuipers evelyn r,rankin elisabeth m,HY,19.7655
+kuipers evelyn r,rankin elizabeth b,HY,19.7655
+kuipers evelyn r,rankin james t,HY,19.7655
+kuipers evelyn r,rankin james t. jr.,HY,20.0243
+kuipers evelyn r,rankin julia l,HY,19.7655
+kuipers evelyn r,rankin lauran,HY,8.83836
+kuipers evelyn r,rankin lynne t,HY,19.7655
+kuipers evelyn r,rankin margaret pollard,HY,20.0243
+kuipers evelyn r,rankin mary m,HY,20.1062
+kuipers evelyn r,rankin matthew m,HY,19.7655
+kuipers evelyn r,rankin roger f,HY,17.9415
+kuipers evelyn r,rankin thomas parker,HY,19.7655
+kuipers evelyn r,rankin thomas t,HY,18.2218
+kuipers evelyn r,rankin victoire g,HY,18.5006
+kuipers evelyn r,rankin william a,HY,20.1062
+kuipers evelyn r,seelbach chloe r,HY,19.7655
+kuipers evelyn r,seelbach isabelle,HY,20.1062
+kuipers evelyn r,seelbach scott w,HY,19.7655
+kuipers evelyn r,seelbach taplin e,HY,20.1062
+kuipers evelyn r,seelbach thomas wilson,HY,20.4589
+kuipers evelyn r,williams clara r,HY,17.9415
+kuipers evelyn r,williams david b,HY,17.9415
+kuipers evelyn r,williams helen charles,HY,19.7655
+kuipers evelyn r,williams margo j.v.,HY,19.7655
+kuipers jacob a,kuipers matilda alan,HY,19.7655
+kuipers jacob a,rankin a farnham,HY,19.3931
+kuipers jacob a,rankin alfred m et al,HY,17.7317
+kuipers jacob a,rankin alison a,HY,17.6034
+kuipers jacob a,rankin bruce t,HY,19.5755
+kuipers jacob a,rankin chloe o,HY,15.3442
+kuipers jacob a,rankin claiborne r,HY,15.3442
+kuipers jacob a,rankin claiborne r jr,HY,19.3931
+kuipers jacob a,rankin claiborne read iii,HY,19.7655
+kuipers jacob a,rankin clara l t,HY,17.8882
+kuipers jacob a,rankin corbin,HY,17.4682
+kuipers jacob a,rankin elisabeth m,HY,19.3931
+kuipers jacob a,rankin elizabeth b,HY,19.3931
+kuipers jacob a,rankin james t,HY,19.3931
+kuipers jacob a,rankin james t. jr.,HY,19.3458
+kuipers jacob a,rankin julia l,HY,19.3931
+kuipers jacob a,rankin lauran,HY,8.80995
+kuipers jacob a,rankin lynne t,HY,19.3931
+kuipers jacob a,rankin margaret pollard,HY,19.3458
+kuipers jacob a,rankin mary m,HY,19.5758
+kuipers jacob a,rankin matthew m,HY,19.3931
+kuipers jacob a,rankin roger f,HY,17.6034
+kuipers jacob a,rankin thomas parker,HY,19.3931
+kuipers jacob a,rankin thomas t,HY,17.7411
+kuipers jacob a,rankin victoire g,HY,18.0129
+kuipers jacob a,rankin william a,HY,19.5758
+kuipers jacob a,seelbach chloe r,HY,19.3931
+kuipers jacob a,seelbach isabelle,HY,19.5758
+kuipers jacob a,seelbach scott w,HY,19.3931
+kuipers jacob a,seelbach taplin e,HY,19.5758
+kuipers jacob a,seelbach thomas wilson,HY,19.7655
+kuipers jacob a,williams clara r,HY,17.6034
+kuipers jacob a,williams david b,HY,17.6034
+kuipers jacob a,williams helen charles,HY,19.2441
+kuipers jacob a,williams margo j.v.,HY,19.2441
+kuipers matilda alan,rankin a farnham,HY,19.7655
+kuipers matilda alan,rankin alfred m et al,HY,18.2118
+kuipers matilda alan,rankin alison a,HY,17.9415
+kuipers matilda alan,rankin bruce t,HY,20.1059
+kuipers matilda alan,rankin chloe o,HY,15.76
+kuipers matilda alan,rankin claiborne r,HY,15.76
+kuipers matilda alan,rankin claiborne r jr,HY,19.7655
+kuipers matilda alan,rankin claiborne read iii,HY,20.4589
+kuipers matilda alan,rankin clara l t,HY,18.5158
+kuipers matilda alan,rankin corbin,HY,17.9415
+kuipers matilda alan,rankin elisabeth m,HY,19.7655
+kuipers matilda alan,rankin elizabeth b,HY,19.7655
+kuipers matilda alan,rankin james t,HY,19.7655
+kuipers matilda alan,rankin james t. jr.,HY,20.0243
+kuipers matilda alan,rankin julia l,HY,19.7655
+kuipers matilda alan,rankin lauran,HY,8.83836
+kuipers matilda alan,rankin lynne t,HY,19.7655
+kuipers matilda alan,rankin margaret pollard,HY,20.0243
+kuipers matilda alan,rankin mary m,HY,20.1062
+kuipers matilda alan,rankin matthew m,HY,19.7655
+kuipers matilda alan,rankin roger f,HY,17.9415
+kuipers matilda alan,rankin thomas parker,HY,19.7655
+kuipers matilda alan,rankin thomas t,HY,18.2218
+kuipers matilda alan,rankin victoire g,HY,18.5006
+kuipers matilda alan,rankin william a,HY,20.1062
+kuipers matilda alan,seelbach chloe r,HY,19.7655
+kuipers matilda alan,seelbach isabelle,HY,20.1062
+kuipers matilda alan,seelbach scott w,HY,19.7655
+kuipers matilda alan,seelbach taplin e,HY,20.1062
+kuipers matilda alan,seelbach thomas wilson,HY,20.4589
+kuipers matilda alan,williams clara r,HY,17.9415
+kuipers matilda alan,williams david b,HY,17.9415
+kuipers matilda alan,williams helen charles,HY,19.7655
+kuipers matilda alan,williams margo j.v.,HY,19.7655
+rankin a farnham,rankin alfred m et al,HY,17.7317
+rankin a farnham,rankin alison a,HY,17.6034
+rankin a farnham,rankin bruce t,HY,19.5755
+rankin a farnham,rankin chloe o,HY,15.3442
+rankin a farnham,rankin claiborne r,HY,15.3442
+rankin a farnham,rankin claiborne r jr,HY,19.3931
+rankin a farnham,rankin claiborne read iii,HY,19.7655
+rankin a farnham,rankin clara l t,HY,17.8882
+rankin a farnham,rankin corbin,HY,17.4682
+rankin a farnham,rankin elisabeth m,HY,19.3931
+rankin a farnham,rankin elizabeth b,HY,19.3931
+rankin a farnham,rankin james t,HY,19.3931
+rankin a farnham,rankin james t. jr.,HY,19.3458
+rankin a farnham,rankin julia l,HY,19.3931
+rankin a farnham,rankin lauran,HY,8.80995
+rankin a farnham,rankin lynne t,HY,19.3931
+rankin a farnham,rankin margaret pollard,HY,19.3458
+rankin a farnham,rankin mary m,HY,19.5758
+rankin a farnham,rankin matthew m,HY,19.3931
+rankin a farnham,rankin roger f,HY,17.6034
+rankin a farnham,rankin thomas parker,HY,19.3931
+rankin a farnham,rankin thomas t,HY,17.7411
+rankin a farnham,rankin victoire g,HY,18.0129
+rankin a farnham,rankin william a,HY,19.5758
+rankin a farnham,seelbach chloe r,HY,19.3931
+rankin a farnham,seelbach isabelle,HY,19.5758
+rankin a farnham,seelbach scott w,HY,19.3931
+rankin a farnham,seelbach taplin e,HY,19.5758
+rankin a farnham,seelbach thomas wilson,HY,19.7655
+rankin a farnham,williams clara r,HY,17.6034
+rankin a farnham,williams david b,HY,17.6034
+rankin a farnham,williams helen charles,HY,19.2441
+rankin a farnham,williams margo j.v.,HY,19.2441
+rankin alfred m et al,rankin alison a,HY,18.8713
+rankin alfred m et al,rankin bruce t,HY,18.0372
+rankin alfred m et al,rankin chloe o,HY,17.0027
+rankin alfred m et al,rankin claiborne r,HY,17.0027
+rankin alfred m et al,rankin claiborne r jr,HY,17.7317
+rankin alfred m et al,rankin claiborne read iii,HY,18.2118
+rankin alfred m et al,rankin clara l t,HY,19.3454
+rankin alfred m et al,rankin corbin,HY,18.8713
+rankin alfred m et al,rankin elisabeth m,HY,17.7317
+rankin alfred m et al,rankin elizabeth b,HY,17.7317
+rankin alfred m et al,rankin james t,HY,17.7317
+rankin alfred m et al,rankin james t. jr.,HY,17.8248
+rankin alfred m et al,rankin julia l,HY,17.7317
+rankin alfred m et al,rankin lauran,HY,7.98879
+rankin alfred m et al,rankin lynne t,HY,17.7317
+rankin alfred m et al,rankin margaret pollard,HY,17.8248
+rankin alfred m et al,rankin mary m,HY,18.0372
+rankin alfred m et al,rankin matthew m,HY,17.7317
+rankin alfred m et al,rankin roger f,HY,18.8713
+rankin alfred m et al,rankin thomas parker,HY,17.7317
+rankin alfred m et al,rankin thomas t,HY,19.1659
+rankin alfred m et al,rankin victoire g,HY,18.9116
+rankin alfred m et al,rankin william a,HY,18.0372
+rankin alfred m et al,seelbach chloe r,HY,17.7317
+rankin alfred m et al,seelbach isabelle,HY,18.0372
+rankin alfred m et al,seelbach scott w,HY,17.7317
+rankin alfred m et al,seelbach taplin e,HY,18.0372
+rankin alfred m et al,seelbach thomas wilson,HY,18.2118
+rankin alfred m et al,williams clara r,HY,16.0961
+rankin alfred m et al,williams david b,HY,16.0961
+rankin alfred m et al,williams helen charles,HY,17.7317
+rankin alfred m et al,williams margo j.v.,HY,17.7317
+rankin alison a,rankin bruce t,HY,17.769
+rankin alison a,rankin chloe o,HY,16.7483
+rankin alison a,rankin claiborne r,HY,16.7483
+rankin alison a,rankin claiborne r jr,HY,17.6034
+rankin alison a,rankin claiborne read iii,HY,17.9415
+rankin alison a,rankin clara l t,HY,19.0477
+rankin alison a,rankin corbin,HY,18.5899
+rankin alison a,rankin elisabeth m,HY,17.6034
+rankin alison a,rankin elizabeth b,HY,17.6034
+rankin alison a,rankin james t,HY,17.6034
+rankin alison a,rankin james t. jr.,HY,17.5605
+rankin alison a,rankin julia l,HY,17.6034
+rankin alison a,rankin lauran,HY,7.99712
+rankin alison a,rankin lynne t,HY,17.6034
+rankin alison a,rankin margaret pollard,HY,17.5605
+rankin alison a,rankin mary m,HY,17.7693
+rankin alison a,rankin matthew m,HY,17.6034
+rankin alison a,rankin roger f,HY,18.7228
+rankin alison a,rankin thomas parker,HY,17.6034
+rankin alison a,rankin thomas t,HY,18.8803
+rankin alison a,rankin victoire g,HY,18.6466
+rankin alison a,rankin william a,HY,17.7693
+rankin alison a,seelbach chloe r,HY,17.6034
+rankin alison a,seelbach isabelle,HY,17.7693
+rankin alison a,seelbach scott w,HY,17.6034
+rankin alison a,seelbach taplin e,HY,17.7693
+rankin alison a,seelbach thomas wilson,HY,17.9415
+rankin alison a,williams clara r,HY,15.9789
+rankin alison a,williams david b,HY,15.9789
+rankin alison a,williams helen charles,HY,17.4682
+rankin alison a,williams margo j.v.,HY,17.4682
+rankin bruce t,rankin chloe o,HY,15.6084
+rankin bruce t,rankin claiborne r,HY,15.6084
+rankin bruce t,rankin claiborne r jr,HY,19.5755
+rankin bruce t,rankin claiborne read iii,HY,20.1059
+rankin bruce t,rankin clara l t,HY,18.1966
+rankin bruce t,rankin corbin,HY,17.769
+rankin bruce t,rankin elisabeth m,HY,19.5755
+rankin bruce t,rankin elizabeth b,HY,19.5755
+rankin bruce t,rankin james t,HY,19.5755
+rankin bruce t,rankin james t. jr.,HY,19.6789
+rankin bruce t,rankin julia l,HY,19.5755
+rankin bruce t,rankin lauran,HY,8.82283
+rankin bruce t,rankin lynne t,HY,19.5755
+rankin bruce t,rankin margaret pollard,HY,19.6789
+rankin bruce t,rankin mary m,HY,19.9129
+rankin bruce t,rankin matthew m,HY,19.5755
+rankin bruce t,rankin roger f,HY,17.769
+rankin bruce t,rankin thomas parker,HY,19.5755
+rankin bruce t,rankin thomas t,HY,18.0466
+rankin bruce t,rankin victoire g,HY,18.3232
+rankin bruce t,rankin william a,HY,19.9129
+rankin bruce t,seelbach chloe r,HY,19.5755
+rankin bruce t,seelbach isabelle,HY,19.9129
+rankin bruce t,seelbach scott w,HY,19.5755
+rankin bruce t,seelbach taplin e,HY,19.9129
+rankin bruce t,seelbach thomas wilson,HY,20.1059
+rankin bruce t,williams clara r,HY,17.769
+rankin bruce t,williams david b,HY,17.769
+rankin bruce t,williams helen charles,HY,19.5755
+rankin bruce t,williams margo j.v.,HY,19.5755
+rankin chloe o,rankin claiborne r,HY,16.152
+rankin chloe o,rankin claiborne r jr,HY,15.3442
+rankin chloe o,rankin claiborne read iii,HY,15.76
+rankin chloe o,rankin clara l t,HY,17.1618
+rankin chloe o,rankin corbin,HY,16.7483
+rankin chloe o,rankin elisabeth m,HY,15.3442
+rankin chloe o,rankin elizabeth b,HY,15.3442
+rankin chloe o,rankin james t,HY,15.3442
+rankin chloe o,rankin james t. jr.,HY,15.4253
+rankin chloe o,rankin julia l,HY,15.3442
+rankin chloe o,rankin lauran,HY,6.91642
+rankin chloe o,rankin lynne t,HY,15.3442
+rankin chloe o,rankin margaret pollard,HY,15.4253
+rankin chloe o,rankin mary m,HY,15.6087
+rankin chloe o,rankin matthew m,HY,15.3442
+rankin chloe o,rankin roger f,HY,16.7483
+rankin chloe o,rankin thomas parker,HY,15.3442
+rankin chloe o,rankin thomas t,HY,17.0099
+rankin chloe o,rankin victoire g,HY,16.7548
+rankin chloe o,rankin william a,HY,15.6087
+rankin chloe o,seelbach chloe r,HY,15.3442
+rankin chloe o,seelbach isabelle,HY,15.6087
+rankin chloe o,seelbach scott w,HY,15.3442
+rankin chloe o,seelbach taplin e,HY,15.6087
+rankin chloe o,seelbach thomas wilson,HY,15.76
+rankin chloe o,williams clara r,HY,14.4713
+rankin chloe o,williams david b,HY,14.4713
+rankin chloe o,williams helen charles,HY,15.3442
+rankin chloe o,williams margo j.v.,HY,15.3442
+rankin claiborne r,rankin claiborne r jr,HY,15.3442
+rankin claiborne r,rankin claiborne read iii,HY,15.76
+rankin claiborne r,rankin clara l t,HY,17.1618
+rankin claiborne r,rankin corbin,HY,16.7483
+rankin claiborne r,rankin elisabeth m,HY,15.3442
+rankin claiborne r,rankin elizabeth b,HY,15.3442
+rankin claiborne r,rankin james t,HY,15.3442
+rankin claiborne r,rankin james t. jr.,HY,15.4253
+rankin claiborne r,rankin julia l,HY,15.3442
+rankin claiborne r,rankin lauran,HY,6.91642
+rankin claiborne r,rankin lynne t,HY,15.3442
+rankin claiborne r,rankin margaret pollard,HY,15.4253
+rankin claiborne r,rankin mary m,HY,15.6087
+rankin claiborne r,rankin matthew m,HY,15.3442
+rankin claiborne r,rankin roger f,HY,16.7483
+rankin claiborne r,rankin thomas parker,HY,15.3442
+rankin claiborne r,rankin thomas t,HY,17.0099
+rankin claiborne r,rankin victoire g,HY,16.7548
+rankin claiborne r,rankin william a,HY,15.6087
+rankin claiborne r,seelbach chloe r,HY,15.3442
+rankin claiborne r,seelbach isabelle,HY,15.6087
+rankin claiborne r,seelbach scott w,HY,15.3442
+rankin claiborne r,seelbach taplin e,HY,15.6087
+rankin claiborne r,seelbach thomas wilson,HY,15.76
+rankin claiborne r,williams clara r,HY,14.4713
+rankin claiborne r,williams david b,HY,14.4713
+rankin claiborne r,williams helen charles,HY,15.3442
+rankin claiborne r,williams margo j.v.,HY,15.3442
+rankin claiborne r jr,rankin claiborne read iii,HY,19.7655
+rankin claiborne r jr,rankin clara l t,HY,17.8882
+rankin claiborne r jr,rankin corbin,HY,17.4682
+rankin claiborne r jr,rankin elisabeth m,HY,19.3931
+rankin claiborne r jr,rankin elizabeth b,HY,19.3931
+rankin claiborne r jr,rankin james t,HY,19.3931
+rankin claiborne r jr,rankin james t. jr.,HY,19.3458
+rankin claiborne r jr,rankin julia l,HY,19.3931
+rankin claiborne r jr,rankin lauran,HY,8.80995
+rankin claiborne r jr,rankin lynne t,HY,19.3931
+rankin claiborne r jr,rankin margaret pollard,HY,19.3458
+rankin claiborne r jr,rankin mary m,HY,19.5758
+rankin claiborne r jr,rankin matthew m,HY,19.3931
+rankin claiborne r jr,rankin roger f,HY,17.6034
+rankin claiborne r jr,rankin thomas parker,HY,19.3931
+rankin claiborne r jr,rankin thomas t,HY,17.7411
+rankin claiborne r jr,rankin victoire g,HY,18.0129
+rankin claiborne r jr,rankin william a,HY,19.5758
+rankin claiborne r jr,seelbach chloe r,HY,19.3931
+rankin claiborne r jr,seelbach isabelle,HY,19.5758
+rankin claiborne r jr,seelbach scott w,HY,19.3931
+rankin claiborne r jr,seelbach taplin e,HY,19.5758
+rankin claiborne r jr,seelbach thomas wilson,HY,19.7655
+rankin claiborne r jr,williams clara r,HY,17.6034
+rankin claiborne r jr,williams david b,HY,17.6034
+rankin claiborne r jr,williams helen charles,HY,19.2441
+rankin claiborne r jr,williams margo j.v.,HY,19.2441
+rankin claiborne read iii,rankin clara l t,HY,18.5158
+rankin claiborne read iii,rankin corbin,HY,17.9415
+rankin claiborne read iii,rankin elisabeth m,HY,19.7655
+rankin claiborne read iii,rankin elizabeth b,HY,19.7655
+rankin claiborne read iii,rankin james t,HY,19.7655
+rankin claiborne read iii,rankin james t. jr.,HY,20.0243
+rankin claiborne read iii,rankin julia l,HY,19.7655
+rankin claiborne read iii,rankin lauran,HY,8.83836
+rankin claiborne read iii,rankin lynne t,HY,19.7655
+rankin claiborne read iii,rankin margaret pollard,HY,20.0243
+rankin claiborne read iii,rankin mary m,HY,20.1062
+rankin claiborne read iii,rankin matthew m,HY,19.7655
+rankin claiborne read iii,rankin roger f,HY,17.9415
+rankin claiborne read iii,rankin thomas parker,HY,19.7655
+rankin claiborne read iii,rankin thomas t,HY,18.2218
+rankin claiborne read iii,rankin victoire g,HY,18.5006
+rankin claiborne read iii,rankin william a,HY,20.1062
+rankin claiborne read iii,seelbach chloe r,HY,19.7655
+rankin claiborne read iii,seelbach isabelle,HY,20.1062
+rankin claiborne read iii,seelbach scott w,HY,19.7655
+rankin claiborne read iii,seelbach taplin e,HY,20.1062
+rankin claiborne read iii,seelbach thomas wilson,HY,20.4589
+rankin claiborne read iii,williams clara r,HY,17.9415
+rankin claiborne read iii,williams david b,HY,17.9415
+rankin claiborne read iii,williams helen charles,HY,19.7655
+rankin claiborne read iii,williams margo j.v.,HY,19.7655
+rankin clara l t,rankin corbin,HY,19.0477
+rankin clara l t,rankin elisabeth m,HY,17.8882
+rankin clara l t,rankin elizabeth b,HY,17.8882
+rankin clara l t,rankin james t,HY,17.8882
+rankin clara l t,rankin james t. jr.,HY,18.1227
+rankin clara l t,rankin julia l,HY,17.8882
+rankin clara l t,rankin lauran,HY,8.0005
+rankin clara l t,rankin lynne t,HY,17.8882
+rankin clara l t,rankin margaret pollard,HY,18.1227
+rankin clara l t,rankin mary m,HY,18.1966
+rankin clara l t,rankin matthew m,HY,17.8882
+rankin clara l t,rankin roger f,HY,19.0477
+rankin clara l t,rankin thomas parker,HY,17.8882
+rankin clara l t,rankin thomas t,HY,19.3454
+rankin clara l t,rankin victoire g,HY,19.1134
+rankin clara l t,rankin william a,HY,18.1966
+rankin clara l t,seelbach chloe r,HY,17.8882
+rankin clara l t,seelbach isabelle,HY,18.1966
+rankin clara l t,seelbach scott w,HY,17.8882
+rankin clara l t,seelbach taplin e,HY,18.1966
+rankin clara l t,seelbach thomas wilson,HY,18.5158
+rankin clara l t,williams clara r,HY,16.2369
+rankin clara l t,williams david b,HY,16.2369
+rankin clara l t,williams helen charles,HY,17.8882
+rankin clara l t,williams margo j.v.,HY,17.8882
+rankin corbin,rankin elisabeth m,HY,17.4682
+rankin corbin,rankin elizabeth b,HY,17.4682
+rankin corbin,rankin james t,HY,17.4682
+rankin corbin,rankin james t. jr.,HY,17.5605
+rankin corbin,rankin julia l,HY,17.4682
+rankin corbin,rankin lauran,HY,7.87362
+rankin corbin,rankin lynne t,HY,17.4682
+rankin corbin,rankin margaret pollard,HY,17.5605
+rankin corbin,rankin mary m,HY,17.7693
+rankin corbin,rankin matthew m,HY,17.4682
+rankin corbin,rankin roger f,HY,18.5899
+rankin corbin,rankin thomas parker,HY,17.4682
+rankin corbin,rankin thomas t,HY,18.8803
+rankin corbin,rankin victoire g,HY,18.6466
+rankin corbin,rankin william a,HY,17.7693
+rankin corbin,seelbach chloe r,HY,17.4682
+rankin corbin,seelbach isabelle,HY,17.7693
+rankin corbin,seelbach scott w,HY,17.4682
+rankin corbin,seelbach taplin e,HY,17.7693
+rankin corbin,seelbach thomas wilson,HY,17.9415
+rankin corbin,williams clara r,HY,15.8561
+rankin corbin,williams david b,HY,15.8561
+rankin corbin,williams helen charles,HY,17.4682
+rankin corbin,williams margo j.v.,HY,17.4682
+rankin elisabeth m,rankin elizabeth b,HY,19.3931
+rankin elisabeth m,rankin james t,HY,19.3931
+rankin elisabeth m,rankin james t. jr.,HY,19.3458
+rankin elisabeth m,rankin julia l,HY,19.3931
+rankin elisabeth m,rankin lauran,HY,8.80995
+rankin elisabeth m,rankin lynne t,HY,19.3931
+rankin elisabeth m,rankin margaret pollard,HY,19.3458
+rankin elisabeth m,rankin mary m,HY,19.5758
+rankin elisabeth m,rankin matthew m,HY,19.3931
+rankin elisabeth m,rankin roger f,HY,17.6034
+rankin elisabeth m,rankin thomas parker,HY,19.3931
+rankin elisabeth m,rankin thomas t,HY,17.7411
+rankin elisabeth m,rankin victoire g,HY,18.0129
+rankin elisabeth m,rankin william a,HY,19.5758
+rankin elisabeth m,seelbach chloe r,HY,19.3931
+rankin elisabeth m,seelbach isabelle,HY,19.5758
+rankin elisabeth m,seelbach scott w,HY,19.3931
+rankin elisabeth m,seelbach taplin e,HY,19.5758
+rankin elisabeth m,seelbach thomas wilson,HY,19.7655
+rankin elisabeth m,williams clara r,HY,17.6034
+rankin elisabeth m,williams david b,HY,17.6034
+rankin elisabeth m,williams helen charles,HY,19.2441
+rankin elisabeth m,williams margo j.v.,HY,19.2441
+rankin elizabeth b,rankin james t,HY,19.3931
+rankin elizabeth b,rankin james t. jr.,HY,19.3458
+rankin elizabeth b,rankin julia l,HY,19.3931
+rankin elizabeth b,rankin lauran,HY,8.80995
+rankin elizabeth b,rankin lynne t,HY,19.3931
+rankin elizabeth b,rankin margaret pollard,HY,19.3458
+rankin elizabeth b,rankin mary m,HY,19.5758
+rankin elizabeth b,rankin matthew m,HY,19.3931
+rankin elizabeth b,rankin roger f,HY,17.6034
+rankin elizabeth b,rankin thomas parker,HY,19.3931
+rankin elizabeth b,rankin thomas t,HY,17.7411
+rankin elizabeth b,rankin victoire g,HY,18.0129
+rankin elizabeth b,rankin william a,HY,19.5758
+rankin elizabeth b,seelbach chloe r,HY,19.3931
+rankin elizabeth b,seelbach isabelle,HY,19.5758
+rankin elizabeth b,seelbach scott w,HY,19.3931
+rankin elizabeth b,seelbach taplin e,HY,19.5758
+rankin elizabeth b,seelbach thomas wilson,HY,19.7655
+rankin elizabeth b,williams clara r,HY,17.6034
+rankin elizabeth b,williams david b,HY,17.6034
+rankin elizabeth b,williams helen charles,HY,19.2441
+rankin elizabeth b,williams margo j.v.,HY,19.2441
+rankin james t,rankin james t. jr.,HY,19.3458
+rankin james t,rankin julia l,HY,19.3931
+rankin james t,rankin lauran,HY,8.80995
+rankin james t,rankin lynne t,HY,19.3931
+rankin james t,rankin margaret pollard,HY,19.3458
+rankin james t,rankin mary m,HY,19.5758
+rankin james t,rankin matthew m,HY,19.3931
+rankin james t,rankin roger f,HY,17.6034
+rankin james t,rankin thomas parker,HY,19.3931
+rankin james t,rankin thomas t,HY,17.7411
+rankin james t,rankin victoire g,HY,18.0129
+rankin james t,rankin william a,HY,19.5758
+rankin james t,seelbach chloe r,HY,19.3931
+rankin james t,seelbach isabelle,HY,19.5758
+rankin james t,seelbach scott w,HY,19.3931
+rankin james t,seelbach taplin e,HY,19.5758
+rankin james t,seelbach thomas wilson,HY,19.7655
+rankin james t,williams clara r,HY,17.6034
+rankin james t,williams david b,HY,17.6034
+rankin james t,williams helen charles,HY,19.2441
+rankin james t,williams margo j.v.,HY,19.2441
+rankin james t. jr.,rankin julia l,HY,19.3458
+rankin james t. jr.,rankin lauran,HY,8.9961
+rankin james t. jr.,rankin lynne t,HY,19.3458
+rankin james t. jr.,rankin margaret pollard,HY,19.7421
+rankin james t. jr.,rankin mary m,HY,19.6792
+rankin james t. jr.,rankin matthew m,HY,19.3458
+rankin james t. jr.,rankin roger f,HY,17.5605
+rankin james t. jr.,rankin thomas parker,HY,19.3458
+rankin james t. jr.,rankin thomas t,HY,17.8348
+rankin james t. jr.,rankin victoire g,HY,18.1075
+rankin james t. jr.,rankin william a,HY,19.6792
+rankin james t. jr.,seelbach chloe r,HY,19.3458
+rankin james t. jr.,seelbach isabelle,HY,19.6792
+rankin james t. jr.,seelbach scott w,HY,19.3458
+rankin james t. jr.,seelbach taplin e,HY,19.6792
+rankin james t. jr.,seelbach thomas wilson,HY,20.0243
+rankin james t. jr.,williams clara r,HY,17.5605
+rankin james t. jr.,williams david b,HY,17.5605
+rankin james t. jr.,williams helen charles,HY,19.3458
+rankin james t. jr.,williams margo j.v.,HY,19.3458
+rankin julia l,rankin lauran,HY,8.80995
+rankin julia l,rankin lynne t,HY,19.3931
+rankin julia l,rankin margaret pollard,HY,19.3458
+rankin julia l,rankin mary m,HY,19.5758
+rankin julia l,rankin matthew m,HY,19.3931
+rankin julia l,rankin roger f,HY,17.6034
+rankin julia l,rankin thomas parker,HY,19.3931
+rankin julia l,rankin thomas t,HY,17.7411
+rankin julia l,rankin victoire g,HY,18.0129
+rankin julia l,rankin william a,HY,19.5758
+rankin julia l,seelbach chloe r,HY,19.3931
+rankin julia l,seelbach isabelle,HY,19.5758
+rankin julia l,seelbach scott w,HY,19.3931
+rankin julia l,seelbach taplin e,HY,19.5758
+rankin julia l,seelbach thomas wilson,HY,19.7655
+rankin julia l,williams clara r,HY,17.6034
+rankin julia l,williams david b,HY,17.6034
+rankin julia l,williams helen charles,HY,19.2441
+rankin julia l,williams margo j.v.,HY,19.2441
+rankin lauran,rankin lynne t,HY,8.80995
+rankin lauran,rankin margaret pollard,HY,8.9961
+rankin lauran,rankin mary m,HY,8.82337
+rankin lauran,rankin matthew m,HY,8.80995
+rankin lauran,rankin roger f,HY,7.99712
+rankin lauran,rankin thomas parker,HY,8.80995
+rankin lauran,rankin thomas t,HY,7.99658
+rankin lauran,rankin victoire g,HY,8.1154
+rankin lauran,rankin william a,HY,8.82337
+rankin lauran,seelbach chloe r,HY,8.80995
+rankin lauran,seelbach isabelle,HY,8.82337
+rankin lauran,seelbach scott w,HY,8.80995
+rankin lauran,seelbach taplin e,HY,8.82337
+rankin lauran,seelbach thomas wilson,HY,8.83836
+rankin lauran,williams clara r,HY,7.99712
+rankin lauran,williams david b,HY,7.99712
+rankin lauran,williams helen charles,HY,8.6739
+rankin lauran,williams margo j.v.,HY,8.6739
+rankin lynne t,rankin margaret pollard,HY,19.3458
+rankin lynne t,rankin mary m,HY,19.5758
+rankin lynne t,rankin matthew m,HY,19.3931
+rankin lynne t,rankin roger f,HY,17.6034
+rankin lynne t,rankin thomas parker,HY,19.3931
+rankin lynne t,rankin thomas t,HY,17.7411
+rankin lynne t,rankin victoire g,HY,18.0129
+rankin lynne t,rankin william a,HY,19.5758
+rankin lynne t,seelbach chloe r,HY,19.3931
+rankin lynne t,seelbach isabelle,HY,19.5758
+rankin lynne t,seelbach scott w,HY,19.3931
+rankin lynne t,seelbach taplin e,HY,19.5758
+rankin lynne t,seelbach thomas wilson,HY,19.7655
+rankin lynne t,williams clara r,HY,17.6034
+rankin lynne t,williams david b,HY,17.6034
+rankin lynne t,williams helen charles,HY,19.2441
+rankin lynne t,williams margo j.v.,HY,19.2441
+rankin margaret pollard,rankin mary m,HY,19.6792
+rankin margaret pollard,rankin matthew m,HY,19.3458
+rankin margaret pollard,rankin roger f,HY,17.5605
+rankin margaret pollard,rankin thomas parker,HY,19.3458
+rankin margaret pollard,rankin thomas t,HY,17.8348
+rankin margaret pollard,rankin victoire g,HY,18.1075
+rankin margaret pollard,rankin william a,HY,19.6792
+rankin margaret pollard,seelbach chloe r,HY,19.3458
+rankin margaret pollard,seelbach isabelle,HY,19.6792
+rankin margaret pollard,seelbach scott w,HY,19.3458
+rankin margaret pollard,seelbach taplin e,HY,19.6792
+rankin margaret pollard,seelbach thomas wilson,HY,20.0243
+rankin margaret pollard,williams clara r,HY,17.5605
+rankin margaret pollard,williams david b,HY,17.5605
+rankin margaret pollard,williams helen charles,HY,19.3458
+rankin margaret pollard,williams margo j.v.,HY,19.3458
+rankin mary m,rankin matthew m,HY,19.5758
+rankin mary m,rankin roger f,HY,17.7693
+rankin mary m,rankin thomas parker,HY,19.5758
+rankin mary m,rankin thomas t,HY,18.0469
+rankin mary m,rankin victoire g,HY,18.3232
+rankin mary m,rankin william a,HY,19.9132
+rankin mary m,seelbach chloe r,HY,19.5758
+rankin mary m,seelbach isabelle,HY,19.9132
+rankin mary m,seelbach scott w,HY,19.5758
+rankin mary m,seelbach taplin e,HY,19.9132
+rankin mary m,seelbach thomas wilson,HY,20.1062
+rankin mary m,williams clara r,HY,17.7693
+rankin mary m,williams david b,HY,17.7693
+rankin mary m,williams helen charles,HY,19.5758
+rankin mary m,williams margo j.v.,HY,19.5758
+rankin matthew m,rankin roger f,HY,17.6034
+rankin matthew m,rankin thomas parker,HY,19.3931
+rankin matthew m,rankin thomas t,HY,17.7411
+rankin matthew m,rankin victoire g,HY,18.0129
+rankin matthew m,rankin william a,HY,19.5758
+rankin matthew m,seelbach chloe r,HY,19.3931
+rankin matthew m,seelbach isabelle,HY,19.5758
+rankin matthew m,seelbach scott w,HY,19.3931
+rankin matthew m,seelbach taplin e,HY,19.5758
+rankin matthew m,seelbach thomas wilson,HY,19.7655
+rankin matthew m,williams clara r,HY,17.6034
+rankin matthew m,williams david b,HY,17.6034
+rankin matthew m,williams helen charles,HY,19.2441
+rankin matthew m,williams margo j.v.,HY,19.2441
+rankin roger f,rankin thomas parker,HY,17.6034
+rankin roger f,rankin thomas t,HY,18.8803
+rankin roger f,rankin victoire g,HY,18.6466
+rankin roger f,rankin william a,HY,17.7693
+rankin roger f,seelbach chloe r,HY,17.6034
+rankin roger f,seelbach isabelle,HY,17.7693
+rankin roger f,seelbach scott w,HY,17.6034
+rankin roger f,seelbach taplin e,HY,17.7693
+rankin roger f,seelbach thomas wilson,HY,17.9415
+rankin roger f,williams clara r,HY,15.9789
+rankin roger f,williams david b,HY,15.9789
+rankin roger f,williams helen charles,HY,17.4682
+rankin roger f,williams margo j.v.,HY,17.4682
+rankin thomas parker,rankin thomas t,HY,17.7411
+rankin thomas parker,rankin victoire g,HY,18.0129
+rankin thomas parker,rankin william a,HY,19.5758
+rankin thomas parker,seelbach chloe r,HY,19.3931
+rankin thomas parker,seelbach isabelle,HY,19.5758
+rankin thomas parker,seelbach scott w,HY,19.3931
+rankin thomas parker,seelbach taplin e,HY,19.5758
+rankin thomas parker,seelbach thomas wilson,HY,19.7655
+rankin thomas parker,williams clara r,HY,17.6034
+rankin thomas parker,williams david b,HY,17.6034
+rankin thomas parker,williams helen charles,HY,19.2441
+rankin thomas parker,williams margo j.v.,HY,19.2441
+rankin thomas t,rankin victoire g,HY,18.9377
+rankin thomas t,rankin william a,HY,18.0469
+rankin thomas t,seelbach chloe r,HY,17.7411
+rankin thomas t,seelbach isabelle,HY,18.0469
+rankin thomas t,seelbach scott w,HY,17.7411
+rankin thomas t,seelbach taplin e,HY,18.0469
+rankin thomas t,seelbach thomas wilson,HY,18.2218
+rankin thomas t,williams clara r,HY,16.1038
+rankin thomas t,williams david b,HY,16.1038
+rankin thomas t,williams helen charles,HY,17.7411
+rankin thomas t,williams margo j.v.,HY,17.7411
+rankin victoire g,rankin william a,HY,18.3232
+rankin victoire g,seelbach chloe r,HY,18.0129
+rankin victoire g,seelbach isabelle,HY,18.3232
+rankin victoire g,seelbach scott w,HY,18.0129
+rankin victoire g,seelbach taplin e,HY,18.3232
+rankin victoire g,seelbach thomas wilson,HY,18.5006
+rankin victoire g,williams clara r,HY,16.3514
+rankin victoire g,williams david b,HY,16.3514
+rankin victoire g,williams helen charles,HY,18.0129
+rankin victoire g,williams margo j.v.,HY,18.0129
+rankin william a,seelbach chloe r,HY,19.5758
+rankin william a,seelbach isabelle,HY,19.9132
+rankin william a,seelbach scott w,HY,19.5758
+rankin william a,seelbach taplin e,HY,19.9132
+rankin william a,seelbach thomas wilson,HY,20.1062
+rankin william a,williams clara r,HY,17.7693
+rankin william a,williams david b,HY,17.7693
+rankin william a,williams helen charles,HY,19.5758
+rankin william a,williams margo j.v.,HY,19.5758
+seelbach chloe r,seelbach isabelle,HY,19.5758
+seelbach chloe r,seelbach scott w,HY,19.3931
+seelbach chloe r,seelbach taplin e,HY,19.5758
+seelbach chloe r,seelbach thomas wilson,HY,19.7655
+seelbach chloe r,williams clara r,HY,17.6034
+seelbach chloe r,williams david b,HY,17.6034
+seelbach chloe r,williams helen charles,HY,19.2441
+seelbach chloe r,williams margo j.v.,HY,19.2441
+seelbach isabelle,seelbach scott w,HY,19.5758
+seelbach isabelle,seelbach taplin e,HY,19.9132
+seelbach isabelle,seelbach thomas wilson,HY,20.1062
+seelbach isabelle,williams clara r,HY,17.7693
+seelbach isabelle,williams david b,HY,17.7693
+seelbach isabelle,williams helen charles,HY,19.5758
+seelbach isabelle,williams margo j.v.,HY,19.5758
+seelbach scott w,seelbach taplin e,HY,19.5758
+seelbach scott w,seelbach thomas wilson,HY,19.7655
+seelbach scott w,williams clara r,HY,17.6034
+seelbach scott w,williams david b,HY,17.6034
+seelbach scott w,williams helen charles,HY,19.2441
+seelbach scott w,williams margo j.v.,HY,19.2441
+seelbach taplin e,seelbach thomas wilson,HY,20.1062
+seelbach taplin e,williams clara r,HY,17.7693
+seelbach taplin e,williams david b,HY,17.7693
+seelbach taplin e,williams helen charles,HY,19.5758
+seelbach taplin e,williams margo j.v.,HY,19.5758
+seelbach thomas wilson,williams clara r,HY,17.9415
+seelbach thomas wilson,williams david b,HY,17.9415
+seelbach thomas wilson,williams helen charles,HY,19.7655
+seelbach thomas wilson,williams margo j.v.,HY,19.7655
+williams clara r,williams david b,HY,16.7253
+williams clara r,williams helen charles,HY,17.6034
+williams clara r,williams margo j.v.,HY,17.6034
+williams david b,williams helen charles,HY,17.6034
+williams david b,williams margo j.v.,HY,17.6034
+williams helen charles,williams margo j.v.,HY,19.3931
+rosenfeld eric,sgro david,PANL,5.54275
+semler herbert j,semler shirley l.,SMLR,2.93878
+baker felix,baker julian,XOMA,9.94675
+cannon-brookes michael,farquhar scott,TEAM,23.4144
+bares brian timothy,bradshaw james shel,WINA,3.85842
+bares brian timothy,mollen russell chad,WINA,3.85842
+bradshaw james shel,mollen russell chad,WINA,3.85842
+baker felix,baker julian,GHDX,12.1025
+abdo john e,levan alan b,BVH,6.52073
+bates thomas r jr,choyce philip a,ICD,3.71757
+bates thomas r jr,fitts travis,ICD,4.50816
+bates thomas r jr,gallegos john a. jr.,ICD,2.50454
+choyce philip a,fitts travis,ICD,5.71487
+choyce philip a,gallegos john a. jr.,ICD,3.11075
+fitts travis,gallegos john a. jr.,ICD,4.4449
+dewan darryll e,marrott karl todd,TSSI,2.55489
+borgard lawrence t,schrock charles a,TEG,4.35019
+schott james f.,schrock charles a,TEG,2.61438
+callaghan brian j.,sheridan edwin a.,ASGN,2.05188
+caldwell christopher a,polk dennis,CNXC,2.25249
+caldwell christopher a,rosso richard,CNXC,2.7252
+polk dennis,richie steven l,CNXC,2.13327
+polk dennis,rosso richard,CNXC,2.67591
+richie steven l,rosso richard,CNXC,2.91
+alpern robert j,stahl wilhelm,TCDA,2.93878
+koh bong y,shah nimish p,TCDA,8.20614
+boni eric n,musa osama m,ASH,2.0858
+bostaph karl r.,drury eileen,ASH,2.15918
+bostaph karl r.,lampkin robin e.,ASH,4.2616
+chong min,kalyana swaminathan ashok,ASH,2.12092
+drury eileen,lampkin robin e.,ASH,2.36755
+ganz peter,heitman william j,ASH,2.99727
+ganz peter,schumann anne t.,ASH,2.85071
+ganz peter,silverman keith c,ASH,3.49296
+ganz peter,willis j kevin,ASH,3.25581
+heitman william j,schumann anne t.,ASH,3.11939
+heitman william j,silverman keith c,ASH,2.65164
+heitman william j,willis j kevin,ASH,2.56839
+heitman william j,wulfsohn william a,ASH,2.14167
+schumann anne t.,silverman keith c,ASH,2.5889
+schumann anne t.,willis j kevin,ASH,2.46327
+silverman keith c,willis j kevin,ASH,2.94109
+doyle john c,nolan mangini siobhan,CSLT,2.96305
+cohen arthur bruce,healey joseph patrick,HYPR,2.78964
+novo guillermo,painter corning f.,APD,2.54599
+novo guillermo,stanley john d.,APD,3.81574
+bove david g,kim minsu,UNTY,3.81718
+geraci vincent,kim minsu,UNTY,3.70513
+deutsch edward b,mcclure stewart e jr,LBAI,3.06576
+howell hilton h jr,howell robin robinson,GTN,2.40082
+boehm robert c,fluxman leonard i,STNR,3.42924
+boehm robert c,fusfield glenn,STNR,3.42924
+boehm robert c,harrington sean h,STNR,3.63322
+boehm robert c,indursky michael,STNR,2.94625
+boehm robert c,lazar robert,STNR,3.08096
+boehm robert c,lazarus stephen,STNR,3.91859
+boehm robert c,schaverien robert,STNR,4.16383
+fabel bruce,fluxman leonard i,STNR,2.14727
+fabel bruce,fusfield glenn,STNR,2.14727
+fabel bruce,harrington sean h,STNR,2.56262
+fabel bruce,indursky michael,STNR,2.15377
+fabel bruce,lazar robert,STNR,2.05009
+fabel bruce,lazarus stephen,STNR,2.5744
+fluxman leonard i,fusfield glenn,STNR,3.38279
+fluxman leonard i,harrington sean h,STNR,3.37384
+fluxman leonard i,indursky michael,STNR,2.91077
+fluxman leonard i,lazar robert,STNR,2.82672
+fluxman leonard i,lazarus stephen,STNR,3.58182
+fluxman leonard i,schaverien robert,STNR,3.218
+fusfield glenn,harrington sean h,STNR,3.37384
+fusfield glenn,indursky michael,STNR,2.91077
+fusfield glenn,lazar robert,STNR,2.82672
+fusfield glenn,lazarus stephen,STNR,3.58182
+fusfield glenn,schaverien robert,STNR,3.218
+harrington sean h,indursky michael,STNR,2.91076
+harrington sean h,lazar robert,STNR,3.1551
+harrington sean h,lazarus stephen,STNR,3.88383
+harrington sean h,schaverien robert,STNR,3.13785
+indursky michael,lazar robert,STNR,2.42921
+indursky michael,lazarus stephen,STNR,3.07813
+indursky michael,schaverien robert,STNR,2.77631
+lazar robert,lazarus stephen,STNR,3.13415
+lazar robert,schaverien robert,STNR,2.67284
+lazarus stephen,schaverien robert,STNR,3.4113
+warshaw clive e,warshaw michele steiner,STNR,6.95321
+kannappan s kenneth,vanhoutte philip,PLT,3.02315
+bhattacharya ashis nayan,bogart stacy l,WGO,3.13973
+bhattacharya ashis nayan,happe michael j,WGO,3.80302
+bhattacharya ashis nayan,hughes bryan l,WGO,3.49514
+bhattacharya ashis nayan,west christopher david,WGO,3.47145
+bhattacharya ashis nayan,woodson bret a,WGO,3.66398
+bogart stacy l,bower huw,WGO,3.02891
+bogart stacy l,clark donald jeff,WGO,2.92837
+bogart stacy l,happe michael j,WGO,3.56007
+bogart stacy l,hughes bryan l,WGO,4.45526
+bogart stacy l,west christopher david,WGO,4.15021
+bogart stacy l,woodson bret a,WGO,2.85423
+bower huw,clark donald jeff,WGO,2.25476
+bower huw,hughes bryan l,WGO,2.48526
+bower huw,west christopher david,WGO,2.3262
+clark donald jeff,hughes bryan l,WGO,2.40445
+clark donald jeff,west christopher david,WGO,2.24654
+degnan steven scott,dummett steven r,WGO,2.81037
+degnan steven scott,folkers scott c,WGO,3.3336
+degnan steven scott,heidemann donald l,WGO,2.55929
+degnan steven scott,krieger daryl wayne,WGO,3.12833
+degnan steven scott,nielsen sarah n,WGO,2.84667
+dummett steven r,folkers scott c,WGO,4.08782
+dummett steven r,heidemann donald l,WGO,4.32823
+dummett steven r,krieger daryl wayne,WGO,5.62075
+dummett steven r,nielsen sarah n,WGO,5.09049
+folkers scott c,heidemann donald l,WGO,3.71029
+folkers scott c,krieger daryl wayne,WGO,4.53526
+folkers scott c,nielsen sarah n,WGO,4.18008
+gossett robert l,oleary william j,WGO,2.84898
+gossett robert l,potts randy j,WGO,2.8023
+happe michael j,hughes bryan l,WGO,3.93862
+happe michael j,west christopher david,WGO,3.9116
+happe michael j,woodson bret a,WGO,3.75301
+heidemann donald l,krieger daryl wayne,WGO,5.11858
+heidemann donald l,nielsen sarah n,WGO,5.01088
+hughes bryan l,west christopher david,WGO,4.455
+hughes bryan l,woodson bret a,WGO,3.15973
+krieger daryl wayne,nielsen sarah n,WGO,5.69334
+oleary william j,potts randy j,WGO,2.8023
+west christopher david,woodson bret a,WGO,3.16356
+fluxman leonard i,lazarus stephen,OSW,2.06401
+landes joshua,obus nelson,MSLP,2.78964
+blumenthal neil harris,gilboa david abraham,WRBY,2.49047
+dentino william,pedersen curtis,MOH,13.1665
+dakos andrew,goldstein phillip,PHF,14.6087
+dakos andrew,samuels steven,PHF,14.6087
+goldstein phillip,samuels steven,PHF,14.6087
+bryant robert w.,kramvis andreas,AXTA,2
+daniel christopher f,masciantonio ronald james,DEST,2.07535
+cobb john,han kong yeu,ISSI,2.1183
+greenberg m susan,greenberg robert,SKX,2.62195
+frome james j.,nelson kimberly k.,SPSC,3.43265
+bursky andrew m,fazio timothy j,HZN,9
+kennedy john c,wilson harry james,HZN,4.66472
+klenzing margaret scripps,scripps william a.,SNI,2.61497
+almeida jose e,brown richard g jr,COV,3.74768
+almeida jose e,clemmer james c,COV,3.43537
+almeida jose e,dockendorff charles j,COV,4.12245
+almeida jose e,dunford michael p,COV,4.12245
+almeida jose e,green eric c,COV,4.12245
+almeida jose e,hanson bryan c,COV,4.12245
+almeida jose e,lannum coleman n iii,COV,3.65193
+almeida jose e,masterson john h,COV,4.12245
+almeida jose e,sgrignari michael,COV,4.82313
+almeida jose e,tarnoff michael e,COV,4.12245
+almeida jose e,wehrly peter l,COV,4.12245
+almeida jose e,wendell amy mcbride,COV,4.12245
+brown richard g jr,clemmer james c,COV,3.17111
+brown richard g jr,dockendorff charles j,COV,3.74768
+brown richard g jr,dunford michael p,COV,3.74768
+brown richard g jr,green eric c,COV,3.74768
+brown richard g jr,hanson bryan c,COV,3.74768
+brown richard g jr,lannum coleman n iii,COV,3.25462
+brown richard g jr,masterson john h,COV,3.74768
+brown richard g jr,sgrignari michael,COV,4.45212
+brown richard g jr,tarnoff michael e,COV,3.74768
+brown richard g jr,wehrly peter l,COV,3.74768
+brown richard g jr,wendell amy mcbride,COV,3.74768
+clemmer james c,dockendorff charles j,COV,3.43537
+clemmer james c,dunford michael p,COV,3.43537
+clemmer james c,green eric c,COV,3.43537
+clemmer james c,hanson bryan c,COV,3.43537
+clemmer james c,lannum coleman n iii,COV,3.13022
+clemmer james c,masterson john h,COV,3.43537
+clemmer james c,sgrignari michael,COV,3.99156
+clemmer james c,tarnoff michael e,COV,3.43537
+clemmer james c,wehrly peter l,COV,3.43537
+clemmer james c,wendell amy mcbride,COV,3.43537
+dockendorff charles j,dunford michael p,COV,4.12245
+dockendorff charles j,green eric c,COV,4.12245
+dockendorff charles j,hanson bryan c,COV,4.12245
+dockendorff charles j,lannum coleman n iii,COV,3.65193
+dockendorff charles j,masterson john h,COV,4.12245
+dockendorff charles j,sgrignari michael,COV,4.82313
+dockendorff charles j,tarnoff michael e,COV,4.12245
+dockendorff charles j,wehrly peter l,COV,4.12245
+dockendorff charles j,wendell amy mcbride,COV,4.12245
+dunford michael p,green eric c,COV,4.12245
+dunford michael p,hanson bryan c,COV,4.12245
+dunford michael p,lannum coleman n iii,COV,3.65193
+dunford michael p,masterson john h,COV,4.12245
+dunford michael p,sgrignari michael,COV,4.82313
+dunford michael p,tarnoff michael e,COV,4.12245
+dunford michael p,wehrly peter l,COV,4.12245
+dunford michael p,wendell amy mcbride,COV,4.12245
+green eric c,hanson bryan c,COV,4.12245
+green eric c,lannum coleman n iii,COV,3.65193
+green eric c,masterson john h,COV,4.12245
+green eric c,sgrignari michael,COV,4.82313
+green eric c,tarnoff michael e,COV,4.12245
+green eric c,wehrly peter l,COV,4.12245
+green eric c,wendell amy mcbride,COV,4.12245
+hanson bryan c,lannum coleman n iii,COV,3.65193
+hanson bryan c,masterson john h,COV,4.12245
+hanson bryan c,sgrignari michael,COV,4.82313
+hanson bryan c,tarnoff michael e,COV,4.12245
+hanson bryan c,wehrly peter l,COV,4.12245
+hanson bryan c,wendell amy mcbride,COV,4.12245
+lannum coleman n iii,masterson john h,COV,3.65193
+lannum coleman n iii,sgrignari michael,COV,4.55296
+lannum coleman n iii,tarnoff michael e,COV,3.65193
+lannum coleman n iii,wehrly peter l,COV,3.65193
+lannum coleman n iii,wendell amy mcbride,COV,3.65193
+masterson john h,sgrignari michael,COV,4.82313
+masterson john h,tarnoff michael e,COV,4.12245
+masterson john h,wehrly peter l,COV,4.12245
+masterson john h,wendell amy mcbride,COV,4.12245
+sgrignari michael,tarnoff michael e,COV,4.82313
+sgrignari michael,wehrly peter l,COV,4.82313
+sgrignari michael,wendell amy mcbride,COV,4.82313
+tarnoff michael e,wehrly peter l,COV,4.12245
+tarnoff michael e,wendell amy mcbride,COV,4.12245
+wehrly peter l,wendell amy mcbride,COV,4.12245
+buckley jeffrey,glazer david a.,PLTR,2.05782
+buckley jeffrey,sankar shyam,PLTR,2.30118
+cohen stephen andrew,glazer david a.,PLTR,3.28358
+cohen stephen andrew,sankar shyam,PLTR,2.46203
+cohen stephen andrew,taylor ryan d.,PLTR,2.48673
+glazer david a.,sankar shyam,PLTR,3.55218
+glazer david a.,taylor ryan d.,PLTR,4.11826
+sankar shyam,taylor ryan d.,PLTR,2.99741
+drapkin matthew a,reese jason w.,GEG,3.93761
+coraine richard d,haida toni,SHAK,2.26291
+david a. swinghamer grat,swinghamer david a,SHAK,2.57861
+david a. swinghamer grat,swinghamer susan,SHAK,4.90072
+flug jeffrey,flug sheryl h,SHAK,6.58025
+mcquinn michael c,meyer audrey h,SHAK,2.39512
+swinghamer david a,swinghamer susan,SHAK,2.57861
+bilenker joshua h.,burstein jennifer,LOXO,2.41595
+bilenker joshua h.,van naarden jacob,LOXO,3.31152
+burstein jennifer,van naarden jacob,LOXO,2.58673
+elms steve,purcell dennis j,LOXO,2.75102
+elms steve,schiff andrew n,LOXO,2.75102
+purcell dennis j,schiff andrew n,LOXO,2.75102
+gazulis theodore,sutton nicholas j,REN,5.58776
+radoff bradley louis,singer eric,SPRT,6.15298
+mule edward a,o'shea robert j,BAS,10.5414
+koski beverly,koski christine l,SNHY,6.98817
+koski beverly,koski robert c,SNHY,6.98817
+koski beverly,koski thomas l,SNHY,6.98817
+koski christine l,koski robert c,SNHY,6.98817
+koski christine l,koski thomas l,SNHY,6.98817
+koski robert c,koski thomas l,SNHY,6.98817
+daniels  robert p,kleckner james j.,APC,2.12536
+douglas margaret c.,kleckner james j.,APC,2.83382
+douglas margaret c.,meloy charles alvin,APC,5.89796
+gwin robert g,reeves robert k,APC,2.39543
+gwin robert g,walker r a,APC,2.35759
+kleckner james j.,meloy charles alvin,APC,2.83382
+reeves robert k,walker r a,APC,2.20042
+berkowitz bruce r,lampert edward s,SHLD,3.11316
+barnes phineas,fralic christopher,APRN,18.2476
+barnes phineas,hayes robert,APRN,18.2476
+barnes phineas,kopelman joshua,APRN,18.2476
+barnes phineas,trenchard william,APRN,18.2476
+fralic christopher,hayes robert,APRN,18.2476
+fralic christopher,kopelman joshua,APRN,18.2476
+fralic christopher,trenchard william,APRN,18.2476
+hayes robert,kopelman joshua,APRN,18.2476
+hayes robert,trenchard william,APRN,18.2476
+kopelman joshua,trenchard william,APRN,18.2476
+adams raymond john iii,lennox michael,HP,2.08309
+adams raymond john iii,momper sara marie,HP,2.4192
+bell john r.,hair cara m.,HP,4.03382
+bell john r.,lennox michael,HP,2.46087
+bell john r.,lindsay john w,HP,3.51751
+bell john r.,stauder robert l.,HP,2.89124
+bell john r.,tardio juan pablo,HP,2.2024
+flaherty jeffrey l,helm gordon k,HP,3.37585
+hair cara m.,lennox michael,HP,2.78532
+hair cara m.,lindsay john w,HP,3.69
+hair cara m.,stauder robert l.,HP,2.8568
+hair cara m.,tardio juan pablo,HP,2.13758
+lennox michael,lindsay john w,HP,2.21294
+lindsay john w,stauder robert l.,HP,2.98603
+lindsay john w,tardio juan pablo,HP,3.87079
+stauder robert l.,tardio juan pablo,HP,4.85077
+clary rebecca,ponder l barbee iv,GSAT,2.67759
+sands richard,sands robert,STZ,7.42221
+bowers christopher d,brinkley cynthia j,CNC,2.3857
+brooks mark j,burkhalter brandy,CNC,3.45506
+brooks mark j,isaak christopher r,CNC,2.82616
+burkhalter brandy,isaak christopher r,CNC,3.81393
+burkhalter brandy,neidorff michael f,CNC,2.39535
+burkhalter brandy,schwaneke jeffrey a.,CNC,2.00279
+goldman carol,imholz donald g,CNC,3.07075
+goldman carol,scheffel william n,CNC,3.07075
+hunter jesse n,isaak christopher r,CNC,2.35039
+hunter jesse n,neidorff michael f,CNC,3.03005
+hunter jesse n,schwaneke jeffrey a.,CNC,4.22452
+hunter jesse n,williamson keith h,CNC,3.28771
+imholz donald g,scheffel william n,CNC,6.22449
+isaak christopher r,schwaneke jeffrey a.,CNC,2.6308
+neidorff michael f,schwaneke jeffrey a.,CNC,3.18052
+neidorff michael f,williamson keith h,CNC,2.31243
+schwaneke jeffrey a.,williamson keith h,CNC,3.65834
+finizio robert g,milligan john c.k. iv,TXMD,2.05549
+burgstahler david f,dean thompson,ORGO,6.50771
+gray david c,joseph jason,AZTA,2.04082
+gray david c,robertson lindon g,AZTA,2.00567
+gray david c,schwartz stephen s,AZTA,2.69017
+gray david c,vacha robin,AZTA,2.36735
+gray david c,zhou ginger,AZTA,2.04082
+joseph jason,schwartz stephen s,AZTA,2.11617
+joseph jason,zhou ginger,AZTA,2.21489
+schwartz stephen s,vacha robin,AZTA,2.50093
+schwartz stephen s,zhou ginger,AZTA,2.11617
+drennan mark w,green jared c.,SBSI,3.3087
+wahl bryan,whitfield dianne c.,TARS,4.12245
+brdar daniel,burns timothy,IPWR,2.12047
+dolger joshua,feasel mark,FCEL,2.17914
+gray adam,shackelton christopher s,RLH,8.36862
+desai pratik,dillow jason,NEXT,3.86565
+desai pratik,greene john winand jr,NEXT,5.1542
+desai pratik,kripalani avinash,NEXT,3.86565
+dillow jason,greene john winand jr,NEXT,3.86565
+dillow jason,kripalani avinash,NEXT,3.5018
+greene john winand jr,kripalani avinash,NEXT,3.86565
+foss donald a,watson jill foss,CACC,2.15561
+smith thomas w,vassalluzzo scott j,CACC,5.30449
+bethel keith,bramlage stephen p jr,ARMK,2.81715
+foss eric j,pressler brian p,ARMK,2.10647
+foss eric j,reynolds stephen r,ARMK,2.5055
+kroeker harrald f.,pressler brian p,ARMK,3.40456
+kroeker harrald f.,reynolds stephen r,ARMK,2.07632
+pressler brian p,reynolds stephen r,ARMK,2.41475
+sutherland l frederick,wallace karen a,ARMK,2.77259
+augins michael,friedman jonathan i,SIRO,3.88462
+augins michael,slovin jeffrey,SIRO,3.36667
+friedman jonathan i,slovin jeffrey,SIRO,4.52351
+sasnett david,vizzini douglas r.,CWCO,2.46939
+bender joel,bender scott,WHD,3.65851
+hanrahan kathleen a,kristjansson gudmundur,MFA,2.28896
+hanrahan kathleen a,ottinger matthew,MFA,2.13592
+hanrahan kathleen a,schwartz harold e,MFA,2.34448
+hanrahan kathleen a,yadav sunil,MFA,2.59834
+hanrahan kathleen a,yarad stephen d.,MFA,2.59834
+kristjansson gudmundur,ottinger matthew,MFA,2.13592
+kristjansson gudmundur,schwartz harold e,MFA,2.06533
+kristjansson gudmundur,yadav sunil,MFA,2.28896
+kristjansson gudmundur,yarad stephen d.,MFA,2.28896
+ottinger matthew,yadav sunil,MFA,2.13592
+ottinger matthew,yarad stephen d.,MFA,2.13592
+schwartz harold e,yadav sunil,MFA,2.34448
+schwartz harold e,yarad stephen d.,MFA,2.34448
+yadav sunil,yarad stephen d.,MFA,2.59834
+cassidy brian p,kilpatrick daniel g.,WOW,9.45678
+cassidy brian p,marcus jeffrey,WOW,10.3946
+kilpatrick daniel g.,marcus jeffrey,WOW,10.3946
+chu chinh,giordano jason k,UTZ,4.74725
+donahoe john j,wadors patricia l,NOW,2.09381
+balkanski alexandre,dunlevie bruce,ASAN,2.01727
+balkanski alexandre,fenton peter h,ASAN,2.01727
+balkanski alexandre,gurley j william,ASAN,2.01727
+balkanski alexandre,harvey kevin,ASAN,2.01727
+balkanski alexandre,kagle robert,ASAN,2.01727
+balkanski alexandre,lasky mitchell,ASAN,2.01727
+balkanski alexandre,spurlock steven m,ASAN,2.01727
+dunlevie bruce,fenton peter h,ASAN,2.01727
+dunlevie bruce,gurley j william,ASAN,2.01727
+dunlevie bruce,harvey kevin,ASAN,2.01727
+dunlevie bruce,kagle robert,ASAN,2.01727
+dunlevie bruce,lasky mitchell,ASAN,2.01727
+dunlevie bruce,spurlock steven m,ASAN,2.01727
+fenton peter h,gurley j william,ASAN,2.01727
+fenton peter h,harvey kevin,ASAN,2.01727
+fenton peter h,kagle robert,ASAN,2.01727
+fenton peter h,lasky mitchell,ASAN,2.01727
+fenton peter h,spurlock steven m,ASAN,2.01727
+gurley j william,harvey kevin,ASAN,2.01727
+gurley j william,kagle robert,ASAN,2.01727
+gurley j william,lasky mitchell,ASAN,2.01727
+gurley j william,spurlock steven m,ASAN,2.01727
+harvey kevin,kagle robert,ASAN,2.01727
+harvey kevin,lasky mitchell,ASAN,2.01727
+harvey kevin,spurlock steven m,ASAN,2.01727
+kagle robert,lasky mitchell,ASAN,2.01727
+kagle robert,spurlock steven m,ASAN,2.01727
+lasky mitchell,spurlock steven m,ASAN,2.01727
+becker douglas l,hoehn saric ruldolf christopher,LAUR,10.7033
+becker douglas l,taslitz steven,LAUR,10.7033
+hoehn saric ruldolf christopher,taslitz steven,LAUR,10.7033
+ball antony c,nkosi monde,UEPS,4.58612
+lambert anne barber,welch thomas gordon,MMAT,4.17264
+raterman thomas b.,spreng r david,RWAY,5.83707
+adelman david j.,forman michael c.,FSIC,9.40246
+blake katryn,nelson donald r,VPRT,2.6165
+cerminara kyle,johnson lewis m,BTN,16.1293
+cerminara kyle,moglia joseph h,BTN,18.0727
+johnson lewis m,moglia joseph h,BTN,16.5058
+durr julie j,gerdin ann s,HTLD,6.19184
+durr julie j,janssen angela k,HTLD,6.19184
+gerdin ann s,janssen angela k,HTLD,6.19184
+barbara bradley baekgaard family foundation,byrne james bradley,VRA,2.06939
+barbara bradley baekgaard family foundation,byrne thomas farrell ii,VRA,2.06939
+barbara bradley baekgaard family foundation,hall joan b.,VRA,2.29932
+barbara bradley baekgaard family foundation,hall robert j,VRA,2.29932
+byrne james bradley,byrne thomas farrell ii,VRA,2.84163
+byrne james bradley,hall joan b.,VRA,2.79388
+byrne james bradley,hall robert j,VRA,2.79388
+byrne thomas farrell ii,hall joan b.,VRA,2.79388
+byrne thomas farrell ii,hall robert j,VRA,2.79388
+hall joan b.,hall robert j,VRA,3.10431
+dysard jeffrey michael,mumford colleen elizabeth,CCMP,2.8398
+handler bradley a,handler brent l,ISPO,2.90748
+brower linda s,veksler angela dawne,WAFD,2.64941
+beale jeffrey p,faust thomas e jr,EV,2.42067
+beale jeffrey p,hylton laurie g,EV,3.10038
+beale jeffrey p,langstraat brian d.,EV,2.06966
+beale jeffrey p,marius frederick s,EV,2.8327
+beale jeffrey p,perkin edward j.,EV,2.64063
+beale jeffrey p,swaffield payson f,EV,4.45501
+faust thomas e jr,hylton laurie g,EV,4.5035
+faust thomas e jr,langstraat brian d.,EV,3.71747
+faust thomas e jr,marius frederick s,EV,4.15032
+faust thomas e jr,swaffield payson f,EV,2.61191
+faust thomas e jr,witkos matthew j,EV,2.36547
+hylton laurie g,langstraat brian d.,EV,3.69932
+hylton laurie g,marius frederick s,EV,4.61248
+hylton laurie g,swaffield payson f,EV,3.41071
+hylton laurie g,witkos matthew j,EV,2.70538
+langstraat brian d.,marius frederick s,EV,3.77547
+langstraat brian d.,swaffield payson f,EV,2.06822
+langstraat brian d.,witkos matthew j,EV,2.1123
+marius frederick s,swaffield payson f,EV,2.84404
+marius frederick s,witkos matthew j,EV,2.89723
+perkin edward j.,swaffield payson f,EV,2.37612
+johnson marianne boyd,nave james e d v m,WAL,2.08822
+andreessen marc l,horowitz benjamin a,PD,2.01727
+huston benjamin e.,jenkins mark w.,CVNA,2.32436
+mule edward a,o'shea robert j,PDLI,12.7551
+stein benjamin forester,sternberg zachary,GTT,6.71437
+kiper christopher s,vizi bradley,FSTR,7.812
+kiper christopher s,white raymond t.,FSTR,7.812
+vizi bradley,white raymond t.,FSTR,7.812
+landes joshua,obus nelson,NATR,7.36735
+efstratis e. nicholaus,madsen kent,INST,7.63415
+dakos andrew,goldstein phillip,RIT,9.74197
+dakos andrew,samuels steven,RIT,9.74197
+goldstein phillip,samuels steven,RIT,9.74197
+stein benjamin forester,sternberg zachary,XPO,11.56
+bates jason a,francis scott e,PKY,2.95627
+bates jason a,heistand james r,PKY,2.58673
+francis scott e,heistand james r,PKY,2.30612
+douglas james e iii,douglas kevin,IMAX,3.12245
+charles e. gale fidelity rollover ira,evelyn p. rose fidelity rollover ira,RETA,4.12245
+charles e. gale fidelity rollover ira,gale charles e.,RETA,4.12245
+charles e. gale fidelity rollover ira,rose evelyn p.,RETA,4.12245
+charles e. gale fidelity rollover ira,rose william,RETA,4.12245
+evelyn p. rose fidelity rollover ira,gale charles e.,RETA,4.12245
+evelyn p. rose fidelity rollover ira,rose evelyn p.,RETA,4.12245
+evelyn p. rose fidelity rollover ira,rose william,RETA,4.12245
+gale charles e.,rose evelyn p.,RETA,4.12245
+gale charles e.,rose william,RETA,4.12245
+mcgaughy r kent jr,traweek james w jr,RETA,6.09788
+rose evelyn p.,rose william,RETA,4.12245
+bass douglas richard,chapman peter robert,GWB,2.73404
+bass douglas richard,gough michael,GWB,2.27918
+bass douglas richard,pederson andrew james,GWB,2.47274
+bass douglas richard,straka donald j,GWB,2.57325
+chapman peter robert,erkonen scott edward,GWB,2.23854
+chapman peter robert,pederson andrew james,GWB,2.90206
+chapman peter robert,straka donald j,GWB,3.17845
+erkonen scott edward,knieriem karlyn m,GWB,3.78865
+erkonen scott edward,pederson andrew james,GWB,4.14495
+erkonen scott edward,straka donald j,GWB,4.34255
+gough michael,karels kenneth james,GWB,2.17929
+knieriem karlyn m,pederson andrew james,GWB,3.67393
+knieriem karlyn m,straka donald j,GWB,3.86004
+pederson andrew james,straka donald j,GWB,5.52721
+sanchez antonio r iii,sanchez eduardo augusto,SNMP,4.27494
+sanchez antonio r iii,willinger gerald f,SNMP,3.17551
+sanchez eduardo augusto,willinger gerald f,SNMP,3.86211
+akgonul rifat kerim,trefler alan,PEGA,2.46468
+kavanaugh frank,neuman emanuel d,MDRR,6.61224
+garabedian raffi,widmar mark r,FSLR,2.06122
+cumming ian m.,cumming john d.,CWGL,2.42634
+lindenbaum bennett d,lindenbaum matthew a,BDGE,5.90047
+cortezi nicholas dominic,katz mark stephen,RYAN,2.28707
+foster andrew b,waltz todd,AMTX,7.32462
+file justin j.,pelletier saundra l,EVFM,2.89002
+graf james a,song paul y.,NKGN,2.62391
+lawrence bryan h,leidel peter a,METC,11.7047
+bartholdson john a.,michas alexis p,LINC,11.8955
+berthelin michel pierre rose,conklin james,ADNT,3.05276
+berthelin michel pierre rose,delgrosso douglas g,ADNT,2.55108
+berthelin michel pierre rose,dorlack jerome j.,ADNT,4.24656
+berthelin michel pierre rose,huang jian james,ADNT,3.60209
+berthelin michel pierre rose,smith gregory scott,ADNT,3.48225
+berthelin michel pierre rose,tiltmann heather m,ADNT,4.56771
+conklin james,dorlack jerome j.,ADNT,2.75084
+conklin james,huang jian james,ADNT,2.30852
+conklin james,marianos stephanie s,ADNT,4.46879
+conklin james,oswald mark a,ADNT,4.46879
+conklin james,smith gregory scott,ADNT,2.73156
+conklin james,tiltmann heather m,ADNT,4.10371
+delgrosso douglas g,dorlack jerome j.,ADNT,2.44727
+delgrosso douglas g,huang jian james,ADNT,2.05586
+delgrosso douglas g,tiltmann heather m,ADNT,2.39551
+dorlack jerome j.,huang jian james,ADNT,3.35302
+dorlack jerome j.,smith gregory scott,ADNT,3.28079
+dorlack jerome j.,tiltmann heather m,ADNT,4.30159
+huang jian james,smith gregory scott,ADNT,3.06836
+huang jian james,tiltmann heather m,ADNT,3.5187
+marianos stephanie s,oswald mark a,ADNT,8.93758
+marianos stephanie s,smith gregory scott,ADNT,2.02585
+marianos stephanie s,tiltmann heather m,ADNT,2.4908
+oswald mark a,smith gregory scott,ADNT,2.02585
+oswald mark a,tiltmann heather m,ADNT,2.4908
+smith gregory scott,tiltmann heather m,ADNT,3.77581
+duchene kate w,ryu jennifer y,RGP,3.21905
+clowe kevin,leone john,IBEX,8.21778
+clowe kevin,mellinger pierre,IBEX,8.21778
+leone john,mellinger pierre,IBEX,8.21778
+caldwell christopher a,larocque peter,SNX,5.01112
+caldwell christopher a,leung simon,SNX,2.87266
+caldwell christopher a,murai kevin m,SNX,2.00764
+caldwell christopher a,polk dennis,SNX,2.43321
+larocque peter,leung simon,SNX,2.92822
+larocque peter,polk dennis,SNX,2.37957
+leung simon,polk dennis,SNX,3.61108
+leung simon,witt marshall,SNX,3.29972
+polk dennis,witt marshall,SNX,2.70373
+barta jan,pale fire capital se,GRPN,3.55942
+barta jan,senkypl dusan,GRPN,3.55942
+pale fire capital se,senkypl dusan,GRPN,3.55942
+bergeron jr john e,boling mark k,SWN,3.13022
+bergeron jr john e,owen robert craig,SWN,2.99778
+kerley gregory d,stubblefield joe alan,SWN,2.5
+mueller steven l,owen robert craig,SWN,2.51611
+mueller steven l,ponder randall d,SWN,3.45845
+mueller steven l,sherrick jeffrey b,SWN,4.30385
+owen robert craig,ponder randall d,SWN,2.67543
+owen robert craig,sherrick jeffrey b,SWN,3.52099
+ponder randall d,sherrick jeffrey b,SWN,5.16029
+sherrick jeffrey b,stubblefield joe alan,SWN,4.11111
+goren david,hohener john w,MSCC,3.56696
+goren david,litchfield steven g,MSCC,3.68324
+goren david,peterson james j,MSCC,3.26607
+goren david,pickle paul h,MSCC,2.51199
+hohener john w,litchfield steven g,MSCC,3.58826
+hohener john w,peterson james j,MSCC,3.18441
+hohener john w,pickle paul h,MSCC,2.4719
+litchfield steven g,peterson james j,MSCC,3.28753
+litchfield steven g,pickle paul h,MSCC,2.53036
+peterson james j,pickle paul h,MSCC,2.16194
+hamilton christine e,hamilton edward d.,SABS,3.23878
+baskett forest,sandell scott d,ARDX,2.13842
+christian patricia g,groetelaars john p,BCR,3.01878
+christian patricia g,lupisella frank jr,BCR,2.82149
+christian patricia g,weiland john h,BCR,3.50735
+ahmadzai david,waters mitchell,NXGN,2.13212
+margolis jeffrey h,sides david william,NXGN,2.2172
+krach keith j.,meeker mary g,DOCU,2.89286
+nikl robert j,pileggi jennifer,SGI,2.17914
+holman david c,horton k brian,CUNB,9.54044
+mayo judy z,simon jose m,PNY,2.43097
+heard david w,pollack andrew r,JDSU,3.27098
+jackson rex s,pollack andrew r,JDSU,3.20408
+pollack andrew r,scrivanich luke m,JDSU,2.56327
+keetch chad,snapper suzanne d.,ENSG,2.81609
+gonzalez luis a,vallejos hinojosa rosario del pilar,AVO,3.30363
+binnun sharon,neilson paul,HRTG,2.32823
+walton alice l,walton jim c,WMT,9.44321
+walton alice l,walton s robson,WMT,9.50841
+walton jim c,walton s robson,WMT,9.44392
+crocker mary jayne,espeseth laura,BWB,3.18481
+salazar lisa m,shellberg jeffrey d.,BWB,2.22689
+goldberg david i,sun pei,BZH,3.14378
+diehl jeffrey t,sarowitz steven i,PCTY,3.8084
+deml wolfgang,richenhagen martin,AGCO,3.6
+bjorgolfsson thor,nicholas j. calamari,BETR,7.44548
+berntsen torry,smith g stacy,IBTX,2.15596
+dahl james h,dahl william l.,POPE,6.70885
+colosi michael f,mowbray stacey,WTW,2.46939
+baskett forest,sandell scott d,DATA,6.43462
+chabot christian,stolte chris,DATA,2.0259
+conder keenan michael,selipsky adam,DATA,2.1
+durban egon,helgason david,U,2.66064
+cromie sean,khoury amin j,BEAV,2.33771
+cromie sean,lieberherr werner,BEAV,2.09796
+cromie sean,patch ryan m,BEAV,2.97286
+khoury amin j,lieberherr werner,BEAV,2.40691
+khoury amin j,patch ryan m,BEAV,3.32779
+lieberherr werner,patch ryan m,BEAV,2.82155
+bloomfield douglas c,veillette robert e,NDSN,2.47113
+thaxton gregory a,veillette robert e,NDSN,2.16572
+berryman kevin c,demetriou steven j.,JEC,2.42035
+berryman kevin c,tyler michael r,JEC,2.30753
+demetriou steven j.,tyler michael r,JEC,2.36122
+messing barbara,sturman daniel,RBLX,3.77766
+parshall b lynne,xanthopoulos kleanthis g,RGLS,2.88462
+hasson heather l.,spear catherine eva,FIGS,2.23907
+baskett forest,florence anthony a. jr.,IMRA,13.7144
+baskett forest,kerins patrick j,IMRA,13.7144
+baskett forest,sandell scott d,IMRA,13.7144
+baskett forest,sonsini peter w.,IMRA,13.7144
+florence anthony a. jr.,kerins patrick j,IMRA,13.7144
+florence anthony a. jr.,sandell scott d,IMRA,13.7144
+florence anthony a. jr.,sonsini peter w.,IMRA,13.7144
+kerins patrick j,sandell scott d,IMRA,13.7144
+kerins patrick j,sonsini peter w.,IMRA,13.7144
+kolchinsky peter,shah rajeev m.,IMRA,11.2704
+sandell scott d,sonsini peter w.,IMRA,13.7144
+crockett todd,mironov jason,ZI,12.2219
+lieberman les j,tese vincent,FCB,2.04917
+callahan craig t,meisgeier nathan j,WERN,4.36434
+johnson james lynn,leathers derek j,WERN,3.75345
+johnson james lynn,mullen james a,WERN,7.97237
+johnson james lynn,nordlund h marty,WERN,5.45823
+johnson james lynn,sather duane k,WERN,4.79509
+johnson james lynn,schelble jim s,WERN,7.65717
+johnson james lynn,steele john j,WERN,8.62651
+johnson james lynn,synowicki robert e jr,WERN,4.1941
+johnson james lynn,werner gary l,WERN,5.11807
+johnson james lynn,werner gregory l,WERN,2.30313
+leathers derek j,mullen james a,WERN,3.32182
+leathers derek j,nordlund h marty,WERN,2.18555
+leathers derek j,sather duane k,WERN,2.40435
+leathers derek j,schelble jim s,WERN,3.35963
+leathers derek j,steele john j,WERN,3.75345
+leathers derek j,werner gary l,WERN,2.13253
+mullen james a,nordlund h marty,WERN,5.44427
+mullen james a,sather duane k,WERN,5.67111
+mullen james a,schelble jim s,WERN,7.03444
+mullen james a,steele john j,WERN,7.97237
+mullen james a,synowicki robert e jr,WERN,4.83935
+mullen james a,werner gary l,WERN,6.29688
+mullen james a,werner gregory l,WERN,3.01538
+nordlund h marty,sather duane k,WERN,3.16966
+nordlund h marty,schelble jim s,WERN,4.64251
+nordlund h marty,steele john j,WERN,5.45823
+nordlund h marty,synowicki robert e jr,WERN,2.94898
+nordlund h marty,werner gary l,WERN,3.49509
+sather duane k,schelble jim s,WERN,4.06756
+sather duane k,steele john j,WERN,4.79509
+sather duane k,synowicki robert e jr,WERN,2.58673
+sather duane k,werner gary l,WERN,3.18481
+schelble jim s,steele john j,WERN,7.65717
+schelble jim s,synowicki robert e jr,WERN,3.70068
+schelble jim s,werner gary l,WERN,4.51594
+schelble jim s,werner gregory l,WERN,2.03217
+steele john j,synowicki robert e jr,WERN,4.1941
+steele john j,werner gary l,WERN,5.11807
+steele john j,werner gregory l,WERN,2.30313
+synowicki robert e jr,werner gary l,WERN,6.99017
+synowicki robert e jr,werner gregory l,WERN,3.14558
+werner gary l,werner gregory l,WERN,4.4449
+chidsey john,maupin john e jr d d s,HLS,2.69898
+chidsey john,shaw l edward jr,HLS,2.69898
+maupin john e jr d d s,shaw l edward jr,HLS,2.69898
+baldwin robert,d'arrigo daniel,MGM,3.84001
+baldwin robert,hornbuckle william,MGM,2.18059
+baldwin robert,james phyllis,MGM,3.82556
+baldwin robert,mcmanus john,MGM,2.22258
+baldwin robert,murren james,MGM,3.59199
+baldwin robert,sanders corey ian,MGM,2.0618
+baldwin robert,selwood robert,MGM,3.33542
+d'arrigo daniel,hornbuckle william,MGM,2.09799
+d'arrigo daniel,james phyllis,MGM,3.76668
+d'arrigo daniel,mcmanus john,MGM,2.201
+d'arrigo daniel,murren james,MGM,3.49835
+d'arrigo daniel,sanders corey ian,MGM,2.05263
+d'arrigo daniel,selwood robert,MGM,3.24847
+hornbuckle william,james phyllis,MGM,2.09131
+hornbuckle william,mcmanus john,MGM,3.09835
+hornbuckle william,murren james,MGM,2.49374
+hornbuckle william,sanders corey ian,MGM,3.04266
+hornbuckle william,selwood robert,MGM,2.50348
+james phyllis,mcmanus john,MGM,2.21677
+james phyllis,murren james,MGM,3.51652
+james phyllis,selwood robert,MGM,3.26534
+mcmanus john,murren james,MGM,2.56822
+mcmanus john,sanders corey ian,MGM,3.13244
+mcmanus john,selwood robert,MGM,2.57413
+murren james,sanders corey ian,MGM,2.35406
+murren james,selwood robert,MGM,4.04799
+sanders corey ian,selwood robert,MGM,2.36854
+treace james t,treace john t.,TMCI,3.90674
+cogan andrew b,pollner michael a,KNL,2.06954
+livesay jill a,norona michael a,AAP,2.06122
+livesay jill a,wade jimmie l,AAP,2.06122
+norona michael a,wade jimmie l,AAP,2.06122
+allanson joe,martinez maria,CRM,2.47009
+allanson joe,norton burke f,CRM,2.27139
+benioff marc,harris parker,CRM,2.2253
+martinez maria,norton burke f,CRM,2.5739
+gasper trevor q.,martin robert w,THO,2.29519
+gasper trevor q.,woelfer w. todd,THO,2.61771
+gasper trevor q.,zuhl colleen a,THO,2.69715
+julian kenneth d,martin robert w,THO,2.84329
+julian kenneth d,woelfer w. todd,THO,2.96999
+julian kenneth d,zuhl colleen a,THO,2.96999
+martin robert w,woelfer w. todd,THO,3.65055
+martin robert w,zuhl colleen a,THO,3.70167
+woelfer w. todd,zuhl colleen a,THO,4.19106
+daly stephen g,hwang donghyun thomas,MTSI,2.30853
+daly stephen g,kober john,MTSI,2.46098
+daly stephen g,roth ambra r.,MTSI,3.06845
+hwang donghyun thomas,roth ambra r.,MTSI,2.20616
+kober john,roth ambra r.,MTSI,2.27667
+ocampo john l,ocampo susan,MTSI,7.6287
+estate of david mclellan hall,gallup patricia,CNXN,2.23474
+ferraro francis s,healey david b,CWT,2.23163
+ferraro francis s,kropelnicki martin a,CWT,2.29206
+ferraro francis s,mcghee lynne p,CWT,2.67796
+ferraro francis s,rossi michael j,CWT,5.35592
+ferraro francis s,smegal thomas f iii,CWT,2.7703
+ferraro francis s,treloar timothy d,CWT,2.35347
+healey david b,kropelnicki martin a,CWT,2.88095
+healey david b,luu michael b,CWT,2.48996
+healey david b,mcghee lynne p,CWT,3.11481
+healey david b,rossi michael j,CWT,2.23163
+healey david b,smegal thomas f iii,CWT,3.15904
+healey david b,townsley paul g.,CWT,2.6405
+healey david b,webb ronald d,CWT,2.04384
+kropelnicki martin a,luu michael b,CWT,2.49539
+kropelnicki martin a,mcghee lynne p,CWT,2.8981
+kropelnicki martin a,rossi michael j,CWT,2.29206
+kropelnicki martin a,smegal thomas f iii,CWT,2.92758
+kropelnicki martin a,townsley paul g.,CWT,2.43554
+kropelnicki martin a,webb ronald d,CWT,2.04386
+luu michael b,mcghee lynne p,CWT,2.47742
+luu michael b,smegal thomas f iii,CWT,2.56285
+luu michael b,townsley paul g.,CWT,2.27883
+luu michael b,webb ronald d,CWT,2.1363
+mcghee lynne p,rossi michael j,CWT,2.67796
+mcghee lynne p,smegal thomas f iii,CWT,3.62301
+mcghee lynne p,townsley paul g.,CWT,3.00683
+mcghee lynne p,treloar timothy d,CWT,2.29932
+rossi michael j,smegal thomas f iii,CWT,2.7703
+rossi michael j,treloar timothy d,CWT,2.35347
+smegal thomas f iii,townsley paul g.,CWT,3.11051
+smegal thomas f iii,treloar timothy d,CWT,2.37861
+smegal thomas f iii,webb ronald d,CWT,2.02885
+butts lampkin,cockrell d michael,SAFM,2.21581
+enright patrick g,tammenoms bakker juliet,CORT,12.6078
+eames edward julian,reinland andrew,FFIV,2.33601
+fountain thomas dean,sprague kara lynn,FFIV,2.76469
+fountain thomas dean,whalen chad michael,FFIV,2.16645
+pelzer francis j.,sprague kara lynn,FFIV,2.38163
+rivelo manuel felix,triebes karl d,FFIV,3.17551
+sprague kara lynn,whalen chad michael,FFIV,2.23883
+coburn gordon,schwartz steven,CTSH,2.01739
+dsouza  francisco,mehta rajeev,CTSH,2.26993
+dsouza  francisco,ramakrishnan chandrasekaran,CTSH,2.12258
+frank malcolm,mcloughlin karen,CTSH,2.80523
+frank malcolm,mehta rajeev,CTSH,2.00822
+lennox james patrick,shaheen allen,CTSH,2.27883
+mehta rajeev,ramakrishnan chandrasekaran,CTSH,2.7169
+sutton joseph w.,wisneski francis v jr,AMRC,3.74668
+goodwin paul r,tuchman martin,FTAI,2.35102
+blankenship mark h,melancon paul d,JACK,2.06781
+melancon paul d,rebel jerry p,JACK,2.35847
+melancon paul d,rudolph phillip h,JACK,2.05539
+brown roger h,mason linda a,BFAM,2.77191
+bryant john f.,harbert raymond j,QUMU,4.7289
+bryant john f.,lucas kenan,QUMU,4.25601
+harbert raymond j,lucas kenan,QUMU,4.25601
+doshi dipal,dowden nathan j,TRDA,2.7551
+dowden nathan j,kreher nerissa,TRDA,2.5
+barris peter j,baskett forest,AVEO,5.44427
+barris peter j,florence anthony a. jr.,AVEO,5.44427
+barris peter j,makhzoumi mohamad,AVEO,5.44427
+barris peter j,makower joshua,AVEO,5.89796
+barris peter j,mott david m,AVEO,5.89796
+barris peter j,sandell scott d,AVEO,5.44427
+barris peter j,sonsini peter w.,AVEO,5.44427
+baskett forest,florence anthony a. jr.,AVEO,5.35054
+baskett forest,makhzoumi mohamad,AVEO,5.35054
+baskett forest,makower joshua,AVEO,5.44427
+baskett forest,mott david m,AVEO,5.44427
+baskett forest,sandell scott d,AVEO,5.35054
+baskett forest,sonsini peter w.,AVEO,5.35054
+florence anthony a. jr.,makhzoumi mohamad,AVEO,5.35054
+florence anthony a. jr.,makower joshua,AVEO,5.44427
+florence anthony a. jr.,mott david m,AVEO,5.44427
+florence anthony a. jr.,sandell scott d,AVEO,5.35054
+florence anthony a. jr.,sonsini peter w.,AVEO,5.35054
+makhzoumi mohamad,makower joshua,AVEO,5.44427
+makhzoumi mohamad,mott david m,AVEO,5.44427
+makhzoumi mohamad,sandell scott d,AVEO,5.35054
+makhzoumi mohamad,sonsini peter w.,AVEO,5.35054
+makower joshua,mott david m,AVEO,5.89796
+makower joshua,sandell scott d,AVEO,5.44427
+makower joshua,sonsini peter w.,AVEO,5.44427
+mott david m,sandell scott d,AVEO,5.44427
+mott david m,sonsini peter w.,AVEO,5.44427
+sandell scott d,sonsini peter w.,AVEO,5.35054
+kolchinsky peter,shah rajeev m.,PCVX,5.62367
+hibbert paul,langley latanya,EPC,2.51565
+hibbert paul,little rod r,EPC,4.643
+hibbert paul,o'toole eric f,EPC,3.59269
+hibbert paul,powell nicholas fj,EPC,2.85884
+hibbert paul,sullivan daniel,EPC,5.06509
+hill john n,little rod r,EPC,2.14328
+hill john n,powell nicholas fj,EPC,2.54478
+langley latanya,little rod r,EPC,2.51565
+langley latanya,o'toole eric f,EPC,2.8699
+langley latanya,sullivan daniel,EPC,2.74434
+little rod r,o'toole eric f,EPC,3.59269
+little rod r,powell nicholas fj,EPC,2.85884
+little rod r,sullivan daniel,EPC,5.06509
+o'toole eric f,sullivan daniel,EPC,3.91929
+powell nicholas fj,sullivan daniel,EPC,3.11874
+robertson wilbur a,vernooy david s,EPC,2
+martin michael robert,solomons neil,AUPH,3.46449
+bylinsky gregory,gramm jefferson,JYNT,6.71762
+pessin brian l.,pessin norman h,DUOT,2.41287
+pessin brian l.,pessin sandra f,DUOT,2.41287
+pessin norman h,pessin sandra f,DUOT,2.41287
+betz william,jensen christopher l,NXPI,3.07614
+betz william,micallef andrew,NXPI,2.13311
+betz william,ronald martino,NXPI,2.89223
+betz william,sievers kurt,NXPI,2.66933
+betz william,wuamett jennifer,NXPI,2.76948
+jensen christopher l,ronald martino,NXPI,2.64679
+jensen christopher l,sievers kurt,NXPI,3.00494
+jensen christopher l,wuamett jennifer,NXPI,2.9211
+micallef andrew,ronald martino,NXPI,2.27272
+ronald martino,sievers kurt,NXPI,2.30964
+ronald martino,wuamett jennifer,NXPI,2.2039
+sievers kurt,wuamett jennifer,NXPI,3.19337
+curfman matthew j.,richmond brothers 401(k) profit sharing plan,RMTI,2.59904
+curfman matthew j.,richmond david s.,RMTI,2.59904
+richmond brothers 401(k) profit sharing plan,richmond david s.,RMTI,2.59904
+aunan greg d,lucia william c,HMSY,4.71442
+aunan greg d,neuman semone,HMSY,5.71446
+aunan greg d,nustad cynthia,HMSY,8.13815
+aunan greg d,sherman jeffrey scott,HMSY,5.52551
+aunan greg d,south teresa,HMSY,5.22993
+aunan greg d,williams douglas m.,HMSY,6.05137
+lucia william c,neuman semone,HMSY,4.48083
+lucia william c,nustad cynthia,HMSY,5.98097
+lucia william c,sherman jeffrey scott,HMSY,4.64828
+lucia william c,south teresa,HMSY,4.54101
+lucia william c,williams douglas m.,HMSY,5.52957
+neuman semone,nustad cynthia,HMSY,8.20683
+neuman semone,sherman jeffrey scott,HMSY,5.02842
+neuman semone,south teresa,HMSY,5.20418
+neuman semone,williams douglas m.,HMSY,6.10825
+nustad cynthia,sherman jeffrey scott,HMSY,6.88275
+nustad cynthia,south teresa,HMSY,5.82389
+nustad cynthia,williams douglas m.,HMSY,6.48056
+sherman jeffrey scott,south teresa,HMSY,5.38349
+sherman jeffrey scott,williams douglas m.,HMSY,6.44835
+south teresa,williams douglas m.,HMSY,7.19246
+conlin matthew,schulke ryan,FLNT,6.80838
+anderson erik s,mitchell essex d,HOLX,2.9265
+anderson erik s,schneiders jennifer m,HOLX,2.92928
+anderson erik s,verstreken jan,HOLX,2.14084
+griffin john m.,hellmann elisabeth a,HOLX,2.2351
+griffin john m.,verstreken jan,HOLX,2.25777
+hellmann elisabeth a,verstreken jan,HOLX,2.37239
+mitchell essex d,schneiders jennifer m,HOLX,2.17818
+mitchell essex d,verstreken jan,HOLX,2.02651
+cerminara kyle,johnson lewis m,PIH,9.18136
+cerminara kyle,moglia joseph h,PIH,9.35768
+johnson lewis m,moglia joseph h,PIH,9.35768
+fowler john c,quadracci j joel,QUAD,7.60356
+hald borge,pressman amy e,MDLA,2.01269
+cole loren d,cosgrove peter k,CHMG,3.76016
+cole loren d,fariello daniel d,CHMG,4.56219
+cole loren d,hazelton kimberly a,CHMG,4.35155
+cole loren d,kenefick jeffrey p.,CHMG,3.73143
+cole loren d,wirth thomas w,CHMG,3.55212
+cosgrove peter k,fariello daniel d,CHMG,3.60615
+cosgrove peter k,hazelton kimberly a,CHMG,3.84875
+cosgrove peter k,kenefick jeffrey p.,CHMG,4.82647
+cosgrove peter k,wirth thomas w,CHMG,3.03361
+difabio louis c,krebs karl francis,CHMG,2.40909
+difabio louis c,makowski karen r,CHMG,2.41852
+fariello daniel d,hazelton kimberly a,CHMG,5.01424
+fariello daniel d,kenefick jeffrey p.,CHMG,3.48254
+fariello daniel d,wirth thomas w,CHMG,5.0492
+hazelton kimberly a,kenefick jeffrey p.,CHMG,4.17209
+hazelton kimberly a,wirth thomas w,CHMG,3.95666
+kenefick jeffrey p.,stempin john j,CHMG,2.1482
+kenefick jeffrey p.,wirth thomas w,CHMG,2.9532
+krebs karl francis,makowski karen r,CHMG,2.17429
+johnston james michael,klein brian katz,RFP,12.1787
+laberge pierre,piche andre l.,RFP,2.37513
+laflamme yves,longworth jo-ann,RFP,2.88135
+laflamme yves,piche andre l.,RFP,2.22086
+laflamme yves,travaglini silvana,RFP,2.68918
+laflamme yves,tremblay richard joseph,RFP,2.51814
+laflamme yves,vachon jacques p,RFP,3.0581
+longworth jo-ann,piche andre l.,RFP,2.376
+longworth jo-ann,travaglini silvana,RFP,2.85002
+longworth jo-ann,vachon jacques p,RFP,2.39103
+piche andre l.,travaglini silvana,RFP,2.84018
+travaglini silvana,vachon jacques p,RFP,2.01132
+tremblay richard joseph,vachon jacques p,RFP,2.32372
+higbee john w,lombardi john a,REXX,2.49341
+higbee john w,mattson eric l,REXX,3.06881
+higbee john w,shaner lance t,REXX,2.84961
+higbee john w,zak john j,REXX,2.84961
+lombardi john a,mattson eric l,REXX,2.50757
+lombardi john a,shaner lance t,REXX,2.60257
+lombardi john a,zak john j,REXX,2.30325
+mattson eric l,shaner lance t,REXX,2.87906
+mattson eric l,zak john j,REXX,2.87906
+shaner lance t,zak john j,REXX,2.6576
+geygan james,geygan jeffrey richart,RMCF,8.29152
+geygan james,geygan kathleen,RMCF,13.2216
+geygan james,rice shawn g,RMCF,6.6117
+geygan james,wilke stacy,RMCF,13.2216
+geygan jeffrey richart,geygan kathleen,RMCF,8.29152
+geygan jeffrey richart,rice shawn g,RMCF,4.16704
+geygan jeffrey richart,wilke stacy,RMCF,8.29152
+geygan kathleen,rice shawn g,RMCF,6.6117
+geygan kathleen,wilke stacy,RMCF,13.2216
+rice shawn g,wilke stacy,RMCF,6.6117
+an-heid ling,bartel ulrich,HI,3.13843
+an-heid ling,jones michael m.,HI,4.16361
+an-heid ling,whitted j michael,HI,2.66574
+bartel ulrich,farrell nicholas r,HI,3.21126
+bartel ulrich,jones michael m.,HI,2.10525
+bartel ulrich,ryan kimberly k,HI,2.6525
+bartel ulrich,soni bhavik n.,HI,4.85799
+bartel ulrich,vanhimbergen robert m,HI,2.14487
+bartel ulrich,walke megan a,HI,3.84099
+bartel ulrich,whitted j michael,HI,5.09231
+farrell nicholas r,ryan kimberly k,HI,2.22893
+farrell nicholas r,soni bhavik n.,HI,2.77396
+farrell nicholas r,walke megan a,HI,2.1889
+farrell nicholas r,whitted j michael,HI,2.67109
+ryan kimberly k,soni bhavik n.,HI,2.41214
+ryan kimberly k,whitted j michael,HI,2.11972
+soni bhavik n.,walke megan a,HI,3.10304
+soni bhavik n.,whitted j michael,HI,3.68414
+vanhimbergen robert m,walke megan a,HI,2.14328
+vanhimbergen robert m,whitted j michael,HI,2.11703
+walke megan a,whitted j michael,HI,3.14975
+ball susan m.,haugen robert w,CVI,2.17914
+dornan laurie r,galvan ricardo,GBX,2.79633
+dornan laurie r,krueger william j.,GBX,2.19477
+galvan ricardo,krueger william j.,GBX,2.27648
+cohler matt,gurley j william,CFLT,2.09184
+gurley j william,hu an-yen,CFLT,2.09184
+gurley j william,lasky mitchell,CFLT,2.09184
+gurley j william,tavel sarah e,CFLT,2.09184
+atwood j richard,landecker mark,ESL,8.30796
+atwood j richard,romick steven t,ESL,8.30796
+atwood j richard,selmo brian a.,ESL,8.30796
+landecker mark,romick steven t,ESL,8.30796
+landecker mark,selmo brian a.,ESL,8.30796
+romick steven t,selmo brian a.,ESL,8.30796
+estate of albert w. ondis,ondis albert w. iii,ALOT,6.0727
+estate of albert w. ondis,ondis alexis,ALOT,6.0727
+estate of albert w. ondis,ondis april,ALOT,6.0727
+ondis albert w. iii,ondis alexis,ALOT,6.0727
+ondis albert w. iii,ondis april,ALOT,6.0727
+ondis alexis,ondis april,ALOT,6.0727
+ausher jason r,hass david w.,PRMB,4.67347
+ausher jason r,poe marni morgan,PRMB,4.67347
+hass david w.,poe marni morgan,PRMB,4.67347
+ausher jason r,fowden jeremy s g,COT,2.64328
+ausher jason r,harrington thomas,COT,2.39067
+ausher jason r,poe marni morgan,COT,2.57457
+ausher jason r,wells jay,COT,2.57457
+fowden jeremy s g,harrington thomas,COT,2.4878
+fowden jeremy s g,poe marni morgan,COT,2.64328
+fowden jeremy s g,wells jay,COT,2.64328
+harrington thomas,poe marni morgan,COT,2.39067
+harrington thomas,wells jay,COT,2.39067
+poe marni morgan,wells jay,COT,2.57457
+gould jeffrey,gould matthew j,BRT,6.21862
+feld bradley a,levine seth,ROVR,11.5882
+feld bradley a,mcintyre ryan a,ROVR,11.5882
+levine seth,mcintyre ryan a,ROVR,11.5882
+turner brenton r.,wickers charles,ROVR,2.06477
+goodman gail f,hughes joel a,CTCT,2.04813
+goodman gail f,nault robert p,CTCT,2.02721
+hughes joel a,nault robert p,CTCT,2.28072
+goli shravan,maggioncalda jeffrey nacey,COUR,2.47634
+aguilar laura k.,aguilar-cordova estuardo,CADL,7.7014
+reed elizabeth e,rote william e.,RTRX,2.55102
+arora maneesh,crawford sally,EXAS,3.00544
+arora maneesh,lidgard graham peter,EXAS,2.10383
+torgerson lance,torgerson tammy,CVEO,21.6721
+dawson robert d,yin peter,RFIL,3.42857
+canton barry,kelly jason r,DNA,13.6455
+canton barry,shetty reshma p.,DNA,13.6238
+kelly jason r,shetty reshma p.,DNA,13.6455
+absher jody k,durbin jennifer j,CMC,4.76936
+absher jody k,lawrence paul james,CMC,3.26466
+absher jody k,sloan lindsay l,CMC,3.19822
+alvarado joseph,batchelor adam b.,CMC,4.34083
+alvarado joseph,dubois carey j,CMC,2.83933
+alvarado joseph,elmore john c.,CMC,2.83933
+alvarado joseph,hickey adam r,CMC,2.32004
+alvarado joseph,kirkpatrick paul k.,CMC,2.27694
+batchelor adam b.,dubois carey j,CMC,3.28035
+batchelor adam b.,elmore john c.,CMC,3.28035
+batchelor adam b.,kirkpatrick paul k.,CMC,2.01087
+dubois carey j,elmore john c.,CMC,3.93878
+durbin jennifer j,lawrence paul james,CMC,3.26466
+durbin jennifer j,sloan lindsay l,CMC,3.19822
+hatten terry p.,lindsey mary a,CMC,3.17262
+hickey adam r,kirkpatrick paul k.,CMC,5.89565
+hickey adam r,lindsey mary a,CMC,4.28934
+hickey adam r,porter tracy l,CMC,5.47264
+hickey adam r,smith barbara,CMC,4.35678
+kirkpatrick paul k.,lindsey mary a,CMC,4.57306
+kirkpatrick paul k.,porter tracy l,CMC,4.57726
+kirkpatrick paul k.,smith barbara,CMC,3.64717
+lawrence paul james,sloan lindsay l,CMC,2.29041
+lawrence paul james,smith barbara,CMC,2.88121
+lindsey mary a,porter tracy l,CMC,3.0134
+lindsey mary a,smith barbara,CMC,2.39359
+porter tracy l,smith barbara,CMC,4.44195
+glenn curt f,golden deborah a,GMT,2.35918
+lipman matthew e.,toporek michael,SLNH,7.67666
+arougheti michael j,kaplan david b,ARES,2.69237
+arougheti michael j,kissick john h.,ARES,6.36761
+arougheti michael j,rosenthal bennett,ARES,3.24254
+kaplan david b,kissick john h.,ARES,5.55912
+kaplan david b,rosenthal bennett,ARES,5.08443
+kissick john h.,rosenthal bennett,ARES,5.55912
+baldeweg dirk klaus,killinger johann,LIND,19.3829
+benjamin locke m.,giacinti joan,ADGE,8.73547
+benjamin locke m.,hatsopoulos john,ADGE,8.73547
+benjamin locke m.,maxwell charlest,ADGE,8.3195
+benjamin locke m.,petersen deanna m,ADGE,8.3195
+benjamin locke m.,rowe john w,ADGE,8.35873
+benjamin locke m.,samaras elias,ADGE,7.94134
+giacinti joan,hatsopoulos john,ADGE,9.17224
+giacinti joan,maxwell charlest,ADGE,8.73547
+giacinti joan,petersen deanna m,ADGE,8.73547
+giacinti joan,rowe john w,ADGE,8.3384
+giacinti joan,samaras elias,ADGE,8.3384
+hatsopoulos john,maxwell charlest,ADGE,8.73547
+hatsopoulos john,petersen deanna m,ADGE,8.73547
+hatsopoulos john,rowe john w,ADGE,8.3384
+hatsopoulos john,samaras elias,ADGE,8.3384
+maxwell charlest,petersen deanna m,ADGE,8.3195
+maxwell charlest,rowe john w,ADGE,7.94134
+maxwell charlest,samaras elias,ADGE,7.94134
+petersen deanna m,rowe john w,ADGE,7.94134
+petersen deanna m,samaras elias,ADGE,7.94134
+rowe john w,samaras elias,ADGE,7.58037
+cerminara kyle,johnson lewis m,RWC,6.50771
+cerminara kyle,moglia joseph h,RWC,6.50771
+johnson lewis m,moglia joseph h,RWC,6.50771
+balcaen filip,bruckmann bruce,MHK,2.14541
+henry daniel r,spence daniel,PAYS,4.11565
+kossar mitchell william,yeung gary kahing,CERO,11.8955
+darrell mark c,rasche steven p,LG,2.32426
+darrell mark c,sitherwood suzanne,LG,2.32426
+rasche steven p,sitherwood suzanne,LG,2.32426
+nicholson ryan,pendleton todd,DLB,2.55576
+sherman mark andrew,yeaman kevin j,DLB,3.57192
+beekhuizen mick j,clouse mark a.,CPB,2.04457
+clouse mark a.,foley christopher,CPB,2.99801
+clouse mark a.,polomski stanley,CPB,2.2594
+clouse mark a.,slavtcheff craig,CPB,2.48895
+foley christopher,polomski stanley,CPB,2.21005
+foley christopher,slavtcheff craig,CPB,2.46599
+gray adam,shackelton christopher s,PRPL,3.9703
+awenowicz ronald c,brkovich davor,MATW,2.54911
+awenowicz ronald c,gurtner reena,MATW,2.09954
+awenowicz ronald c,kohl gary raymond,MATW,2.52851
+babe gregory s.,dunn brian j,MATW,2.1273
+babe gregory s.,gackenbach steven d,MATW,2.11051
+babe gregory s.,kohl gary raymond,MATW,2.10886
+babe gregory s.,nicola steven f,MATW,2.00387
+babe gregory s.,walters brian d,MATW,2.04795
+bartolacci joseph c,dunn brian j,MATW,2.59653
+bartolacci joseph c,gackenbach steven d,MATW,2.37235
+bartolacci joseph c,nicola steven f,MATW,2.36942
+bartolacci joseph c,walters brian d,MATW,2.45519
+beck david f,rahill paul f,MATW,2.31923
+brkovich davor,gurtner reena,MATW,2.09954
+brkovich davor,kohl gary raymond,MATW,2.45438
+dunn brian j,gackenbach steven d,MATW,2.73843
+dunn brian j,nicola steven f,MATW,2.77949
+dunn brian j,walters brian d,MATW,2.85008
+gackenbach steven d,nicola steven f,MATW,2.81303
+gackenbach steven d,walters brian d,MATW,2.91499
+gurtner reena,kohl gary raymond,MATW,2.09954
+jensen paul c.,rahill paul f,MATW,2.06793
+nicola steven f,walters brian d,MATW,2.90478
+karanikolas michael,mente michael,RVLV,5.16273
+minne pascal,stichting administratiekantoor westend,LXRX,6.50771
+alexander forbes i j,cadavid sergio,JBL,2.00458
+alexander forbes i j,hoch erich,JBL,2.64383
+alexander forbes i j,mcgee joseph a,JBL,3.32254
+alexander forbes i j,muir william d jr,JBL,2.8035
+alexander forbes i j,peters william e,JBL,2.87673
+alexander forbes i j,ryan courtney j,JBL,2.42863
+berry adam e.,crowley matthew,JBL,11.0245
+berry adam e.,hebard gregory b,JBL,7.7419
+berry adam e.,mckay francis,JBL,2.23072
+berry adam e.,melachrino kristine,JBL,3.13362
+berry adam e.,priestley andrew,JBL,7.7419
+berry adam e.,schick gary k.,JBL,7.7419
+borges steven d,dastoor michael,JBL,3.78107
+borges steven d,mondello mark t,JBL,2.71969
+borges steven d,smith daryn g.,JBL,2.24665
+borges steven d,wilson kenneth s,JBL,2.25897
+cadavid sergio,loparco michael j,JBL,2.05338
+cadavid sergio,peters william e,JBL,2.3858
+cadavid sergio,ryan courtney j,JBL,2.59585
+creadon gerald,ferri roberto,JBL,3.42105
+creadon gerald,mccoy frederic e.,JBL,2.09537
+creadon gerald,mckay francis,JBL,2.25665
+crowley matthew,hebard gregory b,JBL,11.0245
+crowley matthew,mccoy frederic e.,JBL,2.62488
+crowley matthew,mckay francis,JBL,3.16796
+crowley matthew,melachrino kristine,JBL,4.44536
+crowley matthew,priestley andrew,JBL,11.0245
+crowley matthew,schick gary k.,JBL,11.0245
+dastoor michael,melachrino kristine,JBL,2.1464
+dastoor michael,mondello mark t,JBL,2.24437
+ferri roberto,mccoy frederic e.,JBL,2.34622
+ferri roberto,mckay francis,JBL,2.52439
+hebard gregory b,mckay francis,JBL,2.23072
+hebard gregory b,melachrino kristine,JBL,3.13362
+hebard gregory b,priestley andrew,JBL,7.7419
+hebard gregory b,schick gary k.,JBL,7.7419
+hoch erich,muir william d jr,JBL,2.32039
+hoch erich,peters william e,JBL,2.99329
+mccoy frederic e.,mckay francis,JBL,4.25655
+mccoy frederic e.,melachrino kristine,JBL,3.6555
+mcgee joseph a,muir william d jr,JBL,2.17272
+mckay francis,melachrino kristine,JBL,4.11476
+mckay francis,priestley andrew,JBL,2.23072
+mckay francis,schick gary k.,JBL,2.23072
+melachrino kristine,priestley andrew,JBL,3.13362
+melachrino kristine,schick gary k.,JBL,3.13362
+muir william d jr,peters william e,JBL,2.42546
+peters william e,ryan courtney j,JBL,2.74655
+priestley andrew,schick gary k.,JBL,7.7419
+smith daryn g.,wilson kenneth s,JBL,2.4048
+halak brian k,kolchinsky peter,DRNA,7.23796
+kreisler amy rollins,rollins pam r,RES,10.058
+kreisler amy rollins,rollins timothy curtis,RES,10.058
+rollins gary w,rollins r randall,RES,9.35897
+rollins pam r,rollins timothy curtis,RES,10.058
+atchinson robert,gross phillip,CALA,3.88653
+fleming ronald,murnane william p,LAZY,6.20417
+fleming ronald,tomashot nicholas j,LAZY,3.39801
+gray adam,shackelton christopher s,LAZY,5.39517
+murnane william p,tomashot nicholas j,LAZY,4.55158
+hindman jahmy j,jepsen joshua a,DE,2.78377
+hindman jahmy j,kovar deanna m,DE,3.54298
+jepsen joshua a,kovar deanna m,DE,3.13209
+kovar deanna m,pryor felecia j.,DE,2.24684
+august nathaniel h.,mangrove capital,ASFI,7.89342
+baumann g marc,hagerman thomas l,SP,2.66084
+hagerman thomas l,klaisle gerard m,SP,2.66084
+hagerman thomas l,ricchiuto john,SP,3.19879
+hagerman thomas l,warshauer steven a,SP,3.36111
+dean dennis,rollins aaron,AIRS,3.43537
+baxter william t,waitt theodore w,VZIO,2.08333
+boss emily k,kinder gregory t,ENR,2.04993
+baker felix,baker julian,MDGL,9
+baker felix,waltermire robert e.,MDGL,2.77778
+baker julian,waltermire robert e.,MDGL,2.77778
+angrick william p iii,gravley roger,LQDT,3.23054
+casusol segundo leoncio,celaya jorge,LQDT,3.3123
+casusol segundo leoncio,dudley gardner h,LQDT,6.54713
+casusol segundo leoncio,rallo james m,LQDT,3.75655
+casusol segundo leoncio,shaffer mark a,LQDT,3.2719
+celaya jorge,dudley gardner h,LQDT,3.57294
+celaya jorge,gravley roger,LQDT,4.59076
+celaya jorge,rallo james m,LQDT,7.31006
+celaya jorge,shaffer mark a,LQDT,7.76654
+dudley gardner h,rallo james m,LQDT,3.96674
+dudley gardner h,shaffer mark a,LQDT,3.5209
+gravley roger,rallo james m,LQDT,4.15355
+gravley roger,shaffer mark a,LQDT,4.51161
+rallo james m,shaffer mark a,LQDT,7.18956
+constantine john,crumly richard k.,XPEL,3.093
+dozier michael joe,gottsegen jonathan mark,BV,3.37084
+dozier michael joe,jackson brian edward,BV,2.25773
+dozier michael joe,orders amanda marie,BV,3.15449
+dozier michael joe,urban brett nicholas,BV,2.71741
+gottsegen jonathan mark,jackson brian edward,BV,2.76079
+gottsegen jonathan mark,orders amanda marie,BV,3.37084
+gottsegen jonathan mark,urban brett nicholas,BV,3.07334
+jackson brian edward,orders amanda marie,BV,2.25773
+jackson brian edward,urban brett nicholas,BV,3.32718
+orders amanda marie,urban brett nicholas,BV,2.71741
+eby matthew,sweedler william,SQBG,5.54275
+jennings craig,matteson mark r,ROAD,2.06715
+smith thomas w,vassalluzzo scott j,WRLD,5.52555
+parafestas anastasios,steinert langley,CARG,2.29403
+jing shi,shi yuzhu,PLTK,15.138
+flaminia alinka,lang gregory s,PMCS,2.73081
+anish bhatnagar,hirano patricia c,SLNO,3.42925
+anish bhatnagar,mackaness james h,SLNO,3.59864
+anish bhatnagar,yen kristen,SLNO,3.50823
+hirano patricia c,mackaness james h,SLNO,3.42925
+hirano patricia c,yen kristen,SLNO,4.19274
+mackaness james h,yen kristen,SLNO,3.41454
+elenio paul,kaufman ivan,ABR,2.08805
+davis aaron i.,lewis joseph,TNGX,2.69561
+dinu raluca,katz avi s,BBAI,3.5502
+greene michael robert,rowe david h.,BBAI,17.6086
+liang charles,liu liang chiu-chu sara,SMCI,2.1596
+andreessen marc l,horowitz benjamin a,IOT,2.1951
+bicket john,biswas sanjit,IOT,3.25346
+bishop john l,persing david h,CPHD,3.07305
+flom kerry,miller andrew,CPHD,2.22514
+flom kerry,persing david h,CPHD,2.18241
+kepner cristina,murray bill,CPHD,2.63401
+miller andrew,persing david h,CPHD,3.07945
+persing david h,smith joseph h,CPHD,2.22003
+parker david ray,parker jacqueline f,CVTI,7.81716
+jones mark evan,jones robyn mary elizabeth,GSHD,10.9668
+langston lindy,langston patrick ryan,GSHD,3.42971
+miller mark,reid james,GSHD,3.13469
+powala christopher,shanler stuart,ACRS,2.12327
+bacher dror,raphael erez,DRIO,6.80068
+atwood brian g,bolzon bradley j phd,INGN,6.38776
+atwood brian g,colella samuel d,INGN,7.60121
+atwood brian g,jaffe ross a md,INGN,7.60121
+atwood brian g,link william j phd,INGN,7.60121
+atwood brian g,lubash barbara n,INGN,7.44366
+atwood brian g,milder donald b,INGN,7.60121
+atwood brian g,robertson rebecca b,INGN,6.31828
+atwood brian g,warden charles m,INGN,6.38776
+bolzon bradley j phd,colella samuel d,INGN,6.38776
+bolzon bradley j phd,jaffe ross a md,INGN,6.38776
+bolzon bradley j phd,link william j phd,INGN,6.38776
+bolzon bradley j phd,lubash barbara n,INGN,8.43602
+bolzon bradley j phd,milder donald b,INGN,6.38776
+bolzon bradley j phd,robertson rebecca b,INGN,8.3357
+bolzon bradley j phd,warden charles m,INGN,8.92146
+colella samuel d,jaffe ross a md,INGN,7.60121
+colella samuel d,link william j phd,INGN,7.60121
+colella samuel d,lubash barbara n,INGN,7.44366
+colella samuel d,milder donald b,INGN,7.60121
+colella samuel d,robertson rebecca b,INGN,6.31828
+colella samuel d,warden charles m,INGN,6.38776
+jaffe ross a md,link william j phd,INGN,7.60121
+jaffe ross a md,lubash barbara n,INGN,7.44366
+jaffe ross a md,milder donald b,INGN,7.60121
+jaffe ross a md,robertson rebecca b,INGN,6.31828
+jaffe ross a md,warden charles m,INGN,6.38776
+link william j phd,lubash barbara n,INGN,7.44366
+link william j phd,milder donald b,INGN,7.60121
+link william j phd,robertson rebecca b,INGN,6.31828
+link william j phd,warden charles m,INGN,6.38776
+lubash barbara n,milder donald b,INGN,7.44366
+lubash barbara n,robertson rebecca b,INGN,7.87611
+lubash barbara n,warden charles m,INGN,8.43602
+milder donald b,robertson rebecca b,INGN,6.31828
+milder donald b,warden charles m,INGN,6.38776
+robertson rebecca b,warden charles m,INGN,8.3357
+branch scott j,wilde malcolm james,INTL,2.01474
+aoki ichiro,mcclymont donald,INDI,2.24142
+blankfein lloyd c,cohn gary d,GS,2.53125
+blankfein lloyd c,palm gregory k,GS,2.75533
+rainbolt david e,rainbolt leslie jeannine,BANF,3.35265
+battaglia silvana,campbell elizabeth s,ABC,2.61497
+battaglia silvana,donato leslie e,ABC,2.4249
+campbell elizabeth s,cleary james f,ABC,2.40435
+campbell elizabeth s,donato leslie e,ABC,2.61497
+campbell elizabeth s,krikorian lazarus,ABC,2.00363
+coughlin ron,flaxman jon e,HPQ,2.86833
+fink martin,hinshaw john m,HPQ,3.51312
+fink martin,nefkens michael g,HPQ,2.50415
+fink martin,ricci jeff t,HPQ,5.20616
+fink martin,schultz john f,HPQ,4.86651
+fink martin,veghte william l,HPQ,3.55114
+fink martin,whitman margaret c,HPQ,2.08393
+gomez henry,ricci jeff t,HPQ,4.35273
+gomez henry,schultz john f,HPQ,3.38349
+gomez henry,veghte william l,HPQ,2.05904
+hinshaw john m,nefkens michael g,HPQ,2.12536
+hinshaw john m,ricci jeff t,HPQ,5.15063
+hinshaw john m,schultz john f,HPQ,4.14407
+hinshaw john m,veghte william l,HPQ,2.78032
+hinshaw john m,whitman margaret c,HPQ,2.03175
+keogh tracy s,lesjak catherine a,HPQ,2.2034
+keogh tracy s,weisler dion j,HPQ,2.47527
+lesjak catherine a,weisler dion j,HPQ,2.14199
+nefkens michael g,ricci jeff t,HPQ,3.14838
+nefkens michael g,schultz john f,HPQ,3.09184
+nefkens michael g,veghte william l,HPQ,2.02959
+ricci jeff t,schultz john f,HPQ,8.94539
+ricci jeff t,veghte william l,HPQ,4.74556
+ricci jeff t,whitman margaret c,HPQ,3.28879
+schultz john f,veghte william l,HPQ,4.11998
+schultz john f,whitman margaret c,HPQ,2.61571
+delker wayne l,kane jacqueline p,CLX,2.46939
+anderson david w,frisch scott m.,CTCX,17.8293
+anderson david w,gregory kathryn,CTCX,16.9487
+anderson david w,spenlehauer gilles,CTCX,17.8293
+anderson david w,sturgeon patrick a,CTCX,17.8293
+frisch scott m.,gregory kathryn,CTCX,17.8293
+frisch scott m.,spenlehauer gilles,CTCX,19.6122
+frisch scott m.,sturgeon patrick a,CTCX,19.6122
+gregory kathryn,spenlehauer gilles,CTCX,17.8293
+gregory kathryn,sturgeon patrick a,CTCX,17.8293
+spenlehauer gilles,sturgeon patrick a,CTCX,19.6122
+bowman stacy,helfrick susan,CHWY,2.58515
+bowman stacy,mehta satish,CHWY,2.04384
+helfrick susan,marte mario jesus,CHWY,2.33483
+helfrick susan,mehta satish,CHWY,2.87891
+helfrick susan,singh sumit,CHWY,2.418
+mehta satish,singh sumit,CHWY,2.18803
+cumbaa charles t,mistretta john j,BLKB,2.1591
+kashani ali,parang touraj,SERV,3.63869
+dallager jeff,zurbay donald,STJ,2.54276
+millstone david j.,winter david s.,GRA,18.1233
+hummer john,kertzman mitchell,MULE,4.66657
+hummer john,winblad ann l,MULE,3.81141
+kertzman mitchell,winblad ann l,MULE,3.69372
+langdon matt,parmett simon,MULE,2.68184
+langdon matt,schott gregory george,MULE,3.04875
+bori carlos s,durham karilee a,SWKS,4.18661
+bori carlos s,griffin liam,SWKS,3.14019
+bori carlos s,kasnavi reza,SWKS,2.9637
+bori carlos s,sennesael kris,SWKS,5.28421
+bori carlos s,terry robert john,SWKS,5.81433
+carter philip matthew,durham karilee a,SWKS,2.40347
+carter philip matthew,kasnavi reza,SWKS,4.0337
+durham karilee a,griffin liam,SWKS,2.54
+durham karilee a,kasnavi reza,SWKS,4.55511
+durham karilee a,sennesael kris,SWKS,5.03153
+durham karilee a,terry robert john,SWKS,4.85805
+griffin liam,sennesael kris,SWKS,3.41339
+griffin liam,terry robert john,SWKS,3.8681
+kasnavi reza,sennesael kris,SWKS,3.60204
+kasnavi reza,terry robert john,SWKS,3.09185
+sennesael kris,terry robert john,SWKS,6.57943
+abdo john e,levan alan b,BBX/BBXTB,2.25
+abdo john e,levan jarett,BBX/BBXTB,4.98998
+abdo john e,lopez raymond scott,BBX/BBXTB,2.51565
+abdo john e,wise seth m,BBX/BBXTB,5.09469
+levan alan b,levan jarett,BBX/BBXTB,2.13192
+levan alan b,wise seth m,BBX/BBXTB,2.08184
+levan jarett,lopez raymond scott,BBX/BBXTB,2.28695
+levan jarett,wise seth m,BBX/BBXTB,4.63154
+lopez raymond scott,wise seth m,BBX/BBXTB,2.51565
+mehta neil,peretz benjamin,CPNG,2.42526
+eisenberg michael a,schreiber daniel a.,LMND,2.01667
+baker felix,baker julian,SGEN,6.23445
+landes joshua,obus nelson,SUMR,6.69413
+farner jay,rizik matthew,RKT,22.1214
+gold gerri,karros kirt p,HPE,2.59793
+gold gerri,macdonald neil b,HPE,4.71078
+gold gerri,major kristin k,HPE,6.90403
+gold gerri,mottram phil,HPE,3.93579
+gold gerri,russo fidelma,HPE,7.00142
+gomez henry,nefkens michael g,HPE,2.09903
+gomez henry,ricci jeff t,HPE,2.16746
+gomez henry,stonesifer timothy c.,HPE,3.35784
+gomez henry,whitman margaret c,HPE,3.91654
+hotard justin,macdonald neil b,HPE,2.69378
+hotard justin,mottram phil,HPE,2.31823
+hsu christopher p,nefkens michael g,HPE,2.71406
+karros kirt p,macdonald neil b,HPE,2.86232
+karros kirt p,major kristin k,HPE,2.06754
+karros kirt p,may alan richard,HPE,2.39572
+karros kirt p,mottram phil,HPE,2.29907
+karros kirt p,neri antonio f,HPE,2.93475
+karros kirt p,russo fidelma,HPE,2.49032
+karros kirt p,schultz john f,HPE,3.6554
+macdonald neil b,major kristin k,HPE,3.94361
+macdonald neil b,mottram phil,HPE,4.05116
+macdonald neil b,russo fidelma,HPE,4.32764
+macdonald neil b,schultz john f,HPE,2.37801
+major kristin k,mottram phil,HPE,3.38316
+major kristin k,russo fidelma,HPE,8.78256
+may alan richard,neri antonio f,HPE,2.22229
+may alan richard,schultz john f,HPE,2.79893
+mottram phil,russo fidelma,HPE,3.80102
+neri antonio f,ricci jeff t,HPE,2.11455
+neri antonio f,schultz john f,HPE,3.57657
+ricci jeff t,whitman margaret c,HPE,2.28844
+stonesifer timothy c.,whitman margaret c,HPE,3.41767
+raman gayatri,sethi subi,CWAN,3.06122
+faitelson yakov,korkus ohad,VRNS,9
+alfieri joseph j iii,graczyk mark d,MOGA/MOGB,10.1033
+alfieri joseph j iii,mclachlan stuart,MOGA/MOGB,6.28748
+alfieri joseph j iii,roche patrick j,MOGA/MOGB,4.23862
+alfieri joseph j iii,schaff michael a,MOGA/MOGB,10.1033
+alfieri joseph j iii,swope michael j.,MOGA/MOGB,2.39909
+alfieri joseph j iii,trabert mark joseph,MOGA/MOGB,4.61866
+alfieri joseph j iii,walter jennifer,MOGA/MOGB,3.84888
+alfieri joseph j iii,wilkinson paul,MOGA/MOGB,4.61866
+athoe maureen mary,mclachlan stuart,MOGA/MOGB,2.25641
+athoe maureen mary,roche patrick j,MOGA/MOGB,2.53557
+athoe maureen mary,swope michael j.,MOGA/MOGB,4.07864
+athoe maureen mary,trabert mark joseph,MOGA/MOGB,3.11526
+athoe maureen mary,walter jennifer,MOGA/MOGB,2.79691
+athoe maureen mary,wilkinson paul,MOGA/MOGB,3.11526
+graczyk mark d,mclachlan stuart,MOGA/MOGB,6.28748
+graczyk mark d,roche patrick j,MOGA/MOGB,4.23862
+graczyk mark d,schaff michael a,MOGA/MOGB,10.1033
+graczyk mark d,swope michael j.,MOGA/MOGB,2.39909
+graczyk mark d,trabert mark joseph,MOGA/MOGB,4.61866
+graczyk mark d,walter jennifer,MOGA/MOGB,3.84888
+graczyk mark d,wilkinson paul,MOGA/MOGB,4.61866
+mclachlan stuart,roche patrick j,MOGA/MOGB,4.52192
+mclachlan stuart,scannell john,MOGA/MOGB,2.10842
+mclachlan stuart,schaff michael a,MOGA/MOGB,6.28748
+mclachlan stuart,swope michael j.,MOGA/MOGB,3.82069
+mclachlan stuart,trabert mark joseph,MOGA/MOGB,4.91195
+mclachlan stuart,walter jennifer,MOGA/MOGB,4.09329
+mclachlan stuart,wilkinson paul,MOGA/MOGB,4.91195
+roche patrick j,scannell john,MOGA/MOGB,2.27863
+roche patrick j,schaff michael a,MOGA/MOGB,4.23862
+roche patrick j,swope michael j.,MOGA/MOGB,3.20316
+roche patrick j,trabert mark joseph,MOGA/MOGB,4.73026
+roche patrick j,walter jennifer,MOGA/MOGB,4.02752
+roche patrick j,wilkinson paul,MOGA/MOGB,4.73026
+scannell john,trabert mark joseph,MOGA/MOGB,2.57765
+scannell john,walter jennifer,MOGA/MOGB,2.26078
+scannell john,wilkinson paul,MOGA/MOGB,2.57765
+schaff michael a,swope michael j.,MOGA/MOGB,2.39909
+schaff michael a,trabert mark joseph,MOGA/MOGB,4.61866
+schaff michael a,walter jennifer,MOGA/MOGB,3.84888
+schaff michael a,wilkinson paul,MOGA/MOGB,4.61866
+swope michael j.,trabert mark joseph,MOGA/MOGB,3.58593
+swope michael j.,walter jennifer,MOGA/MOGB,2.98515
+swope michael j.,wilkinson paul,MOGA/MOGB,3.58593
+trabert mark joseph,walter jennifer,MOGA/MOGB,4.84852
+trabert mark joseph,wilkinson paul,MOGA/MOGB,5.58995
+walter jennifer,wilkinson paul,MOGA/MOGB,4.84852
+rubenstein gordon,ruttenberg david w.,ACEL,2.00597
+coleman charles p iii,shleifer scott l,RUN,8.08229
+driest charles c.,willingham john a.,fmbm,2.024
+jensen c james,mathews michael,ASPU,2.12024
+agnaten se,lucresca se,COTY,11.9245
+allan donald,ansell jeffrey d,SWK,3.79523
+allan donald,belisle jocelyn,SWK,2.14324
+allan donald,loree james m,SWK,3.50406
+allan donald,ramirez jaime a,SWK,3.86494
+allan donald,voelker joseph r,SWK,3.38426
+allan donald,wyatt john h,SWK,2.95169
+ansell jeffrey d,beatt bruce h,SWK,2.33331
+ansell jeffrey d,belisle jocelyn,SWK,2.89653
+ansell jeffrey d,loree james m,SWK,4.81056
+ansell jeffrey d,ramirez jaime a,SWK,5.32396
+ansell jeffrey d,voelker joseph r,SWK,5.72387
+ansell jeffrey d,wyatt john h,SWK,3.31436
+bartone michael a.,beatt bruce h,SWK,7.5413
+bartone michael a.,bontrager d brett,SWK,2.78846
+bartone michael a.,cannon james j,SWK,6.00304
+bartone michael a.,douglas craig a,SWK,4.72504
+bartone michael a.,gass rhonda,SWK,3.02041
+bartone michael a.,loree james m,SWK,2.03002
+bartone michael a.,lundgren john f,SWK,4.06005
+bartone michael a.,mcchesney lee b,SWK,4.62299
+bartone michael a.,ramirez jaime a,SWK,2.19763
+bartone michael a.,sihota ben s,SWK,5.70601
+bartone michael a.,sohovich joanna,SWK,3.16539
+bartone michael a.,stafstrom steven j,SWK,6.39765
+bartone michael a.,taylor william scott,SWK,4.10692
+bartone michael a.,voelker joseph r,SWK,2.37216
+beatt bruce h,bontrager d brett,SWK,3.72876
+beatt bruce h,cannon james j,SWK,7.10216
+beatt bruce h,douglas craig a,SWK,5.90543
+beatt bruce h,gass rhonda,SWK,3.28491
+beatt bruce h,loree james m,SWK,2.62764
+beatt bruce h,lundgren john f,SWK,5.30395
+beatt bruce h,mcchesney lee b,SWK,5.64518
+beatt bruce h,ramirez jaime a,SWK,3.03459
+beatt bruce h,sihota ben s,SWK,7.39131
+beatt bruce h,sohovich joanna,SWK,5.96408
+beatt bruce h,stafstrom steven j,SWK,8.24211
+beatt bruce h,taylor william scott,SWK,6.93394
+beatt bruce h,voelker joseph r,SWK,3.05507
+belisle jocelyn,loree james m,SWK,2.66566
+belisle jocelyn,raff robert h jr,SWK,2.59126
+belisle jocelyn,ramirez jaime a,SWK,2.97055
+belisle jocelyn,voelker joseph r,SWK,2.23485
+belisle jocelyn,wyatt john h,SWK,2.65872
+bontrager d brett,cannon james j,SWK,2.63636
+bontrager d brett,douglas craig a,SWK,2.41667
+bontrager d brett,lundgren john f,SWK,2.16418
+bontrager d brett,mcchesney lee b,SWK,2.95918
+bontrager d brett,sihota ben s,SWK,3.02083
+bontrager d brett,stafstrom steven j,SWK,3.37209
+bontrager d brett,taylor william scott,SWK,4.83333
+cannon james j,douglas craig a,SWK,4.64149
+cannon james j,gass rhonda,SWK,3.12057
+cannon james j,loree james m,SWK,2.06525
+cannon james j,lundgren john f,SWK,4.12935
+cannon james j,mcchesney lee b,SWK,4.42999
+cannon james j,ramirez jaime a,SWK,2.06736
+cannon james j,sihota ben s,SWK,5.43055
+cannon james j,sohovich joanna,SWK,2.90776
+cannon james j,stafstrom steven j,SWK,6.05565
+cannon james j,taylor william scott,SWK,3.87566
+cannon james j,voelker joseph r,SWK,2.3785
+douglas craig a,gass rhonda,SWK,2.19634
+douglas craig a,lundgren john f,SWK,4.10504
+douglas craig a,mcchesney lee b,SWK,3.87943
+douglas craig a,sihota ben s,SWK,4.38667
+douglas craig a,sohovich joanna,SWK,2.64341
+douglas craig a,stafstrom steven j,SWK,4.90615
+douglas craig a,taylor william scott,SWK,3.54659
+gass rhonda,mcchesney lee b,SWK,2.26321
+gass rhonda,sihota ben s,SWK,2.74129
+gass rhonda,stafstrom steven j,SWK,3.0638
+loree james m,ramirez jaime a,SWK,5.11105
+loree james m,stafstrom steven j,SWK,2.17415
+loree james m,voelker joseph r,SWK,4.71497
+loree james m,wyatt john h,SWK,3.33608
+lundgren john f,mcchesney lee b,SWK,3.26582
+lundgren john f,sihota ben s,SWK,3.86391
+lundgren john f,sohovich joanna,SWK,2.30774
+lundgren john f,stafstrom steven j,SWK,4.36102
+lundgren john f,taylor william scott,SWK,3.15915
+mcchesney lee b,sihota ben s,SWK,4.34578
+mcchesney lee b,sohovich joanna,SWK,2.03194
+mcchesney lee b,stafstrom steven j,SWK,4.90204
+mcchesney lee b,taylor william scott,SWK,3.2571
+raff robert h jr,wyatt john h,SWK,2.42697
+ramirez jaime a,sihota ben s,SWK,2.14115
+ramirez jaime a,stafstrom steven j,SWK,2.34919
+ramirez jaime a,voelker joseph r,SWK,4.70051
+ramirez jaime a,wyatt john h,SWK,3.83145
+sihota ben s,sohovich joanna,SWK,3.26714
+sihota ben s,stafstrom steven j,SWK,6.11258
+sihota ben s,taylor william scott,SWK,4.42281
+sihota ben s,voelker joseph r,SWK,2.26667
+sohovich joanna,stafstrom steven j,SWK,3.6807
+sohovich joanna,taylor william scott,SWK,5.28683
+stafstrom steven j,taylor william scott,SWK,4.94656
+stafstrom steven j,voelker joseph r,SWK,2.53651
+voelker joseph r,wyatt john h,SWK,2.92973
+allen peter m,concannon brian,HAE,2.00078
+allen peter m,hanlon susan m,HAE,2.09462
+hanlon susan m,jesse sandra,HAE,3.50583
+hanlon susan m,lindop christopher j,HAE,2.38295
+hanlon susan m,white jonathan,HAE,2.5538
+jesse sandra,lindop christopher j,HAE,2.07191
+jesse sandra,white jonathan,HAE,2.2763
+brunoehler jeffrey a.,mefford jeffrey s.,MSBI,2.08326
+brunoehler jeffrey a.,stewart james randall,MSBI,2.02811
+brunoehler jeffrey a.,tucker douglas j.,MSBI,2.13964
+lemke eric,mefford jeffrey s.,MSBI,2.06939
+lemke eric,spring donald j.,MSBI,3.5632
+lemke eric,tucker douglas j.,MSBI,2.00831
+ludwig jeffrey g.,mefford jeffrey s.,MSBI,2.08929
+ludwig jeffrey g.,tucker douglas j.,MSBI,2.16383
+mefford jeffrey s.,tucker douglas j.,MSBI,2.42386
+schwartz theodore g,schwartz todd g.,OPFI,16.4646
+anevski peter,schlanger david j,PGNY,4.1486
+bonderman david,coulter james g,PGNY,13.4716
+bonderman david,payson norman,PGNY,2.41657
+coulter james g,payson norman,PGNY,2.41657
+dubner derek,maclachlan daniel,COGT,2.62245
+atayan christopher h,plummer andrew charles,DIT,5.01595
+gollust keith r,kovner bruce,SNTA,2.14338
+crow m chad,mcaleenan donald f,BLDR,2.26433
+kolchinsky peter,shah rajeev m.,ORTX,11.6465
+alpern paul l,moll laurent r,AIP,2.62097
+hawkins nicholas b.,moll laurent r,AIP,2.45653
+janac k charles,raza saiyed atiq,AIP,3.62223
+behl nikhil,weber steven p.,FICO,2.75918
+deal richard,leonard michael s,FICO,2.01389
+deal richard,scadina mark r,FICO,2.19247
+leonard michael s,scadina mark r,FICO,2.03133
+cerminara kyle,moglia joseph h,FGF,9.60672
+viola michael t,viola teresa,VIRT,16.6931
+viola michael t,viola vincent j,VIRT,16.6931
+viola teresa,viola vincent j,VIRT,16.6931
+baker dana blair,fletcher aaron g.l.,SWKH,2.06939
+baker dana blair,haga christopher w,SWKH,2.22245
+baker dana blair,stead edward b,SWKH,2.22245
+baker dana blair,weinberg michael,SWKH,2.0002
+fletcher aaron g.l.,haga christopher w,SWKH,2.29932
+fletcher aaron g.l.,stead edward b,SWKH,2.29932
+fletcher aaron g.l.,weinberg michael,SWKH,2.06939
+haga christopher w,stead edward b,SWKH,2.46939
+haga christopher w,weinberg michael,SWKH,2.22245
+stead edward b,weinberg michael,SWKH,2.22245
+bacon seth j,cohen amir,BLDE,3.7415
+bacon seth j,heyburn william a.,BLDE,3.7415
+bacon seth j,tomkiel melissa m.,BLDE,3.16588
+bacon seth j,wiesenthal robert s,BLDE,3.7415
+cohen amir,heyburn william a.,BLDE,2.97445
+cohen amir,tomkiel melissa m.,BLDE,2.70582
+cohen amir,wiesenthal robert s,BLDE,2.50233
+heyburn william a.,tomkiel melissa m.,BLDE,3.46285
+heyburn william a.,wiesenthal robert s,BLDE,2.86194
+tomkiel melissa m.,wiesenthal robert s,BLDE,2.7462
+barrett m james,barris peter j,WIFI,19.8329
+barrett m james,sandell scott d,WIFI,19.8329
+barris peter j,sandell scott d,WIFI,19.8329
+robbins andrew r,squarer ron,ARRY,2.85884
+bishop john e,kaundinya ganesh venkataraman,MNTA,3.18878
+bishop john e,leicher bruce,MNTA,3.18878
+bishop john e,roach james m.,MNTA,4.83356
+bishop john e,shea richard p,MNTA,3.18878
+kaundinya ganesh venkataraman,leicher bruce,MNTA,3.13796
+kaundinya ganesh venkataraman,roach james m.,MNTA,3.21111
+kaundinya ganesh venkataraman,shea richard p,MNTA,2.46939
+leicher bruce,roach james m.,MNTA,3.21111
+leicher bruce,shea richard p,MNTA,2.46939
+roach james m.,shea richard p,MNTA,3.21111
+flaherty scott b.,hole brian richard,WLFC,2.03928
+flaherty scott b.,willis charles f iv,WLFC,3.6418
+hole brian richard,willis charles f iv,WLFC,4.147
+ferro michael w jr,soon-shiong patrick,TRNC,9.8421
+kraeutler john a,lueke melissa,VIVO,2.01254
+carr robert o,kallenbach charles,HPY,2.09535
+abuhoff jack,mishra ashok,INOD,2.43631
+martin william c,singer eric,UEIC,4.51503
+mellinger paul,webster robert,HCOM,4.98971
+graham ian t.,jacobs michael,FERG,2.46939
+graham ian t.,murphy kevin michael,FERG,2.11662
+graham ian t.,schlicher jake,FERG,2.46939
+graham ian t.,thees william t. jr,FERG,2.46939
+graham ian t.,williams garland,FERG,2.46939
+graham ian t.,winckler richard,FERG,2.46939
+jacobs michael,murphy kevin michael,FERG,2.11662
+jacobs michael,schlicher jake,FERG,2.46939
+jacobs michael,thees william t. jr,FERG,2.46939
+jacobs michael,williams garland,FERG,2.46939
+jacobs michael,winckler richard,FERG,2.46939
+murphy kevin michael,schlicher jake,FERG,2.11662
+murphy kevin michael,thees william t. jr,FERG,2.11662
+murphy kevin michael,williams garland,FERG,2.11662
+murphy kevin michael,winckler richard,FERG,2.11662
+schlicher jake,thees william t. jr,FERG,2.46939
+schlicher jake,williams garland,FERG,2.46939
+schlicher jake,winckler richard,FERG,2.46939
+thees william t. jr,williams garland,FERG,2.46939
+thees william t. jr,winckler richard,FERG,2.46939
+williams garland,winckler richard,FERG,2.46939
+actis-grande kristen,bledsoe elizabeth,MSM,3.75696
+actis-grande kristen,dongre neal,MSM,4.62724
+actis-grande kristen,shacklett kimberly,MSM,3.96621
+armstrong steve,baruch steven n,MSM,4.01646
+armstrong steve,bonomo charles,MSM,5.35607
+armstrong steve,davanzo christopher,MSM,2.39136
+armstrong steve,heerdt kari d,MSM,2.80076
+armstrong steve,jones douglas e,MSM,4.06211
+armstrong steve,polli gregory,MSM,4.33946
+armstrong steve,wright david,MSM,3.20429
+baruch steven n,bonomo charles,MSM,3.85209
+baruch steven n,heerdt kari d,MSM,3.2909
+baruch steven n,jones douglas e,MSM,3.60015
+baruch steven n,polli gregory,MSM,4.85673
+baruch steven n,wright david,MSM,2.9969
+bledsoe elizabeth,dongre neal,MSM,4.33716
+bledsoe elizabeth,gershwind erik,MSM,2.14139
+bledsoe elizabeth,shacklett kimberly,MSM,3.71757
+bonomo charles,davanzo christopher,MSM,2.21624
+bonomo charles,heerdt kari d,MSM,2.80076
+bonomo charles,jones douglas e,MSM,3.91509
+bonomo charles,polli gregory,MSM,4.06683
+bonomo charles,wright david,MSM,2.85916
+davanzo christopher,wright david,MSM,2.44474
+dongre neal,gershwind erik,MSM,2.0061
+dongre neal,shacklett kimberly,MSM,4.95675
+heerdt kari d,jones douglas e,MSM,2.70575
+heerdt kari d,polli gregory,MSM,3.5698
+jones douglas e,polli gregory,MSM,3.80224
+jones douglas e,wright david,MSM,2.29502
+polli gregory,wright david,MSM,3.2379
+gray adam,shackelton christopher s,LHCG,6.94873
+anderson sheila mae,gatzke carla s,DAKT,2.23532
+anderson sheila mae,kurtenbach reece a,DAKT,2.40574
+gatzke carla s,wiemann bradley t,DAKT,2.03217
+goldsmith carl h,klein scott martin,LLAP,10.9203
+guarino charles j,tomazin matthew d,TMP,2.17551
+alpert robert h,webb c clark,PX,14.2212
+champsi farah,janney daniel,NEOT,3.77551
+champsi farah,nohra guy p,NEOT,3.77551
+janney daniel,nohra guy p,NEOT,3.77551
+kaye charles r,landy joseph p.,CRWD,2.77778
+kravis henry r,roberts george r,KREF,10.3323
+belknap keith l jr,hart evan,MWA,3.29735
+belknap keith l jr,hyland gregory e,MWA,3.46249
+belknap keith l jr,mchugh kevin,MWA,2.88232
+belknap keith l jr,rogowski gregory,MWA,2.59009
+cofield william,mize chad d.,MWA,2.56303
+dunn robert d.,fish thomas e,MWA,2.42991
+floyd scott p.,hall j scott,MWA,2.16856
+floyd scott p.,heinrichs steven s,MWA,2.39197
+floyd scott p.,takeuchi kenji,MWA,2.19504
+hall j scott,heinrichs steven s,MWA,2.0861
+hall j scott,mize chad d.,MWA,2.36788
+hall j scott,takeuchi kenji,MWA,2.05446
+hart evan,hyland gregory e,MWA,3.01838
+hart evan,mchugh kevin,MWA,2.69534
+hart evan,rogowski gregory,MWA,2.38969
+hyland gregory e,mchugh kevin,MWA,2.74294
+hyland gregory e,rogowski gregory,MWA,3.17472
+mchugh kevin,rogowski gregory,MWA,2.07057
+rogowski gregory,zakas marietta edmunds,MWA,2.51339
+bass dean o.,mcguire david m,STXB,2.66967
+budnick neil g,raina kalpana,III,2.37099
+allam sandeep,syed feroz,SYRA,6
+lauder gary m,lauder william p,EL,4.28322
+dakos andrew,goldstein phillip,PCF,10.4842
+dakos andrew,samuels steven,PCF,12.7383
+goldstein phillip,samuels steven,PCF,12.7383
+mcdermott edward aloysious iii,miles aaron nathaniel,VRNOF,2.09184
+mcdermott edward aloysious iii,spreckman david,VRNOF,2.75102
+mcdermott edward aloysious iii,weiss darren henry,VRNOF,2.75102
+miles aaron nathaniel,spreckman david,VRNOF,2.09184
+miles aaron nathaniel,weiss darren henry,VRNOF,2.09184
+spreckman david,weiss darren henry,VRNOF,2.75102
+bulho matheus de a g viera,buttermore robert l.,ROK,2.36456
+bulho matheus de a g viera,fordenwalt matthew w.,ROK,2.36456
+bulho matheus de a g viera,genereux scott,ROK,2.00078
+bulho matheus de a g viera,perducat cyril,ROK,2.25628
+buttermore robert l.,fordenwalt matthew w.,ROK,4.36969
+buttermore robert l.,genereux scott,ROK,2.91865
+buttermore robert l.,lakkundi veena m,ROK,2.09318
+buttermore robert l.,myers tessa m.,ROK,2.83565
+buttermore robert l.,perducat cyril,ROK,2.91865
+buttermore robert l.,woods isaac,ROK,2.29785
+fordenwalt matthew w.,genereux scott,ROK,2.91865
+fordenwalt matthew w.,lakkundi veena m,ROK,2.09318
+fordenwalt matthew w.,myers tessa m.,ROK,2.83565
+fordenwalt matthew w.,perducat cyril,ROK,2.91865
+fordenwalt matthew w.,woods isaac,ROK,2.29785
+gangestad nicholas c,shepherd brian a,ROK,2.04308
+genereux scott,myers tessa m.,ROK,2.82189
+genereux scott,perducat cyril,ROK,2.55942
+genereux scott,woods isaac,ROK,2.14661
+house rebecca w,myers tessa m.,ROK,2.58784
+house rebecca w,nardecchia christopher,ROK,2.43092
+house rebecca w,riesterer terry l.,ROK,2.40002
+house rebecca w,woods isaac,ROK,2.22483
+lakkundi veena m,myers tessa m.,ROK,2.02881
+myers tessa m.,nardecchia christopher,ROK,2.27502
+myers tessa m.,perducat cyril,ROK,2.82189
+myers tessa m.,riesterer terry l.,ROK,2.59867
+myers tessa m.,woods isaac,ROK,3.05473
+nardecchia christopher,riesterer terry l.,ROK,2.11202
+perducat cyril,woods isaac,ROK,2.14661
+hughes donald w,sherman joseph t,PRMW,3.77551
+hughes donald w,tagler jason,PRMW,3.77551
+hughes donald w,warnock david l,PRMW,3.77551
+sherman joseph t,tagler jason,PRMW,3.77551
+sherman joseph t,warnock david l,PRMW,3.77551
+tagler jason,warnock david l,PRMW,3.77551
+bb biotech ag,biotech growth n v,BDTX,5.13161
+bogart jason r,hovick kevin j,EMCI,2.13333
+bogart jason r,jean scott ronald,EMCI,2.6449
+harrington john j,lehmann william jr,ATHX,2.47907
+gomez alfredo,meniane david,PRTS,3.03087
+gomez alfredo,peker lev,PRTS,2.57895
+khazani sol,peker lev,PRTS,2.68412
+gray adam,shackelton christopher s,ACW,6.36961
+prior jane,roper martin f,COCO,2.13891
+jaffer rehan,nabi usman,SIX,5.5936
+curtis glenn,macdonald scott d,STRZA,5.43968
+pennington robert ira,roswell r scott,GMO,3.05937
+pennington robert ira,shumway lee,GMO,3.62812
+roswell r scott,shumway lee,GMO,3.62812
+alafi christopher d,alafi moshe,ITCI,3.46973
+gazit first generation ll,katzman chaim,EQY,5.69424
+gazit first generation ll,langer mark,EQY,2.42954
+bose arani,elsesser adam,PEN,4.82799
+bose arani,kosaraju sridhar,PEN,8.46647
+bose arani,pray james robert,PEN,2.84366
+elsesser adam,kosaraju sridhar,PEN,5.1535
+kosaraju sridhar,pray james robert,PEN,3.3176
+emerson barry,kent bradley r,BGFV,4.89858
+emerson barry,seaver alexander m,BGFV,4.89858
+honeycutt van b,kent bradley r,BGFV,4.24307
+honeycutt van b,seaver alexander m,BGFV,4.24307
+kent bradley r,seaver alexander m,BGFV,9.02512
+gregory louis p,sweetin marvin l,ATO,2.18562
+hermanns richard,malhotra r. rimmy,HQI,2.71429
+wilks dan h.,wilks farris,AREX,12.7551
+wilks dan h.,wilks staci,AREX,12.7551
+wilks farris,wilks staci,AREX,12.7551
+ancher-jensen henrik,gonsalves rodney,A,4.71636
+ancher-jensen henrik,grau dominique,A,4.21482
+ancher-jensen henrik,mcdonnell padraig,A,4.15841
+ancher-jensen henrik,mcmahon robert w.,A,3.75183
+ancher-jensen henrik,mcmullen michael r.,A,3.76706
+ancher-jensen henrik,raha samraat s.,A,3.936
+ancher-jensen henrik,tang michael,A,4.703
+ancher-jensen henrik,thaysen jacob,A,4.62052
+gonsalves rodney,grau dominique,A,3.4964
+gonsalves rodney,mcdonnell padraig,A,3.50264
+gonsalves rodney,mcmahon robert w.,A,3.20769
+gonsalves rodney,mcmullen michael r.,A,3.27069
+gonsalves rodney,raha samraat s.,A,3.33163
+gonsalves rodney,tang michael,A,4.00009
+gonsalves rodney,thaysen jacob,A,3.886
+grau dominique,mcdonnell padraig,A,3.05253
+grau dominique,mcmahon robert w.,A,2.69269
+grau dominique,mcmullen michael r.,A,3.83444
+grau dominique,raha samraat s.,A,3.41667
+grau dominique,tang michael,A,4.13279
+grau dominique,thaysen jacob,A,3.84218
+mcdonnell padraig,mcmahon robert w.,A,5.69876
+mcdonnell padraig,mcmullen michael r.,A,2.79151
+mcdonnell padraig,raha samraat s.,A,5.33119
+mcdonnell padraig,tang michael,A,3.27314
+mcdonnell padraig,thaysen jacob,A,2.59595
+mcmahon robert w.,mcmullen michael r.,A,2.44499
+mcmahon robert w.,raha samraat s.,A,5.07187
+mcmahon robert w.,tang michael,A,2.93301
+mcmahon robert w.,thaysen jacob,A,2.23885
+mcmullen michael r.,raha samraat s.,A,3.14587
+mcmullen michael r.,tang michael,A,3.92444
+mcmullen michael r.,thaysen jacob,A,3.50546
+raha samraat s.,tang michael,A,3.68156
+raha samraat s.,thaysen jacob,A,2.9415
+tang michael,thaysen jacob,A,4.44131
+elizondo mauricio garduno gonzalez,zavala diego,AGIL,16.176
+eisenberg michael a,naveh arad,FNJN,12.8627
+adelson james f,heyman stephen j,ONVI,3.54613
+amidon derek g,argus roger r,TTEK,2.87818
+amidon derek g,auman jan k,TTEK,3.3569
+amidon derek g,rynning mark a,TTEK,3.35666
+amidon derek g,teufele bernard,TTEK,3.8891
+argus roger r,auman jan k,TTEK,2.26699
+argus roger r,rynning mark a,TTEK,2.57366
+argus roger r,teufele bernard,TTEK,2.90147
+auman jan k,rynning mark a,TTEK,3.26116
+auman jan k,teufele bernard,TTEK,3.68081
+batrack dan l,brownlie william r,TTEK,2.02663
+batrack dan l,burdick steven m,TTEK,2.27948
+batrack dan l,carter brian n,TTEK,2.04115
+batrack dan l,lemmon richard a,TTEK,2.04114
+batrack dan l,shoemaker leslie l,TTEK,2.16042
+bieber michael a,gross frank c jr,TTEK,3.44898
+bieber michael a,pagenkopf james r,TTEK,2.58673
+brownlie william r,burdick steven m,TTEK,3.12684
+brownlie william r,carter brian n,TTEK,3.05175
+brownlie william r,christensen craig l,TTEK,3.95606
+brownlie william r,lemmon richard a,TTEK,4.15172
+brownlie william r,salin janis b,TTEK,3.5041
+brownlie william r,shoemaker leslie l,TTEK,3.21773
+brownlie william r,teufele bernard,TTEK,2.01915
+burdick steven m,carter brian n,TTEK,3.06619
+burdick steven m,christensen craig l,TTEK,2.84592
+burdick steven m,lemmon richard a,TTEK,3.05244
+burdick steven m,salin janis b,TTEK,2.46032
+burdick steven m,shoemaker leslie l,TTEK,3.23406
+carter brian n,christensen craig l,TTEK,2.79981
+carter brian n,lemmon richard a,TTEK,2.94667
+carter brian n,salin janis b,TTEK,2.48594
+carter brian n,shoemaker leslie l,TTEK,3.26768
+christensen craig l,lemmon richard a,TTEK,3.73701
+christensen craig l,salin janis b,TTEK,2.92747
+christensen craig l,shoemaker leslie l,TTEK,2.87296
+chu ronald j,salin janis b,TTEK,2.88669
+chu ronald j,truly richard h,TTEK,2.24865
+grant hugh m,smith albert e,TTEK,2.49642
+grant hugh m,truly richard h,TTEK,2.14672
+gross frank c jr,pagenkopf james r,TTEK,2.58673
+lemmon richard a,salin janis b,TTEK,3.2459
+lemmon richard a,shoemaker leslie l,TTEK,3.13775
+lewis j christopher,smith albert e,TTEK,2.01428
+mcdonald kevin p,salin janis b,TTEK,2.30926
+mcdonald kevin p,smith albert e,TTEK,2.05716
+mcdonald kevin p,truly richard h,TTEK,2.0809
+rynning mark a,teufele bernard,TTEK,3.69232
+salin janis b,shoemaker leslie l,TTEK,2.53514
+salin janis b,smith albert e,TTEK,2.19514
+salin janis b,truly richard h,TTEK,2.50669
+smith albert e,truly richard h,TTEK,2.34188
+landes joshua,obus nelson,QRHC,11.5146
+ahn samuel s,murphy william p jr,BHRT.OB,2.41509
+eppich kelly,garner charles e ii,CMCT,4.03677
+eppich kelly,kuba shaul,CMCT,3.61627
+eppich kelly,ressler richard s,CMCT,3.95942
+eppich kelly,shemesh avraham,CMCT,3.61627
+garner charles e ii,kuba shaul,CMCT,11.1518
+garner charles e ii,ressler richard s,CMCT,11.4025
+garner charles e ii,shemesh avraham,CMCT,11.1518
+kuba shaul,ressler richard s,CMCT,12.8041
+kuba shaul,shemesh avraham,CMCT,12.5806
+ressler richard s,shemesh avraham,CMCT,12.8041
+hager david a,humphers jeremy d.,DVN,2.54119
+hager david a,marcum r. alan,DVN,3.81179
+hager david a,richels john,DVN,3.81179
+hager david a,rudolph frank w,DVN,3.82653
+hager david a,smette darryl g,DVN,3.82653
+hager david a,taylor lyndon c,DVN,2.54119
+hager david a,vaughn tony d.,DVN,3.81179
+humphers jeremy d.,marcum r. alan,DVN,2.54119
+humphers jeremy d.,richels john,DVN,2.54119
+humphers jeremy d.,rudolph frank w,DVN,2.55102
+humphers jeremy d.,smette darryl g,DVN,2.55102
+humphers jeremy d.,vaughn tony d.,DVN,2.54119
+marcum r. alan,richels john,DVN,3.81179
+marcum r. alan,rudolph frank w,DVN,3.82653
+marcum r. alan,smette darryl g,DVN,3.82653
+marcum r. alan,taylor lyndon c,DVN,2.54119
+marcum r. alan,vaughn tony d.,DVN,3.81179
+richels john,rudolph frank w,DVN,3.82653
+richels john,smette darryl g,DVN,3.82653
+richels john,taylor lyndon c,DVN,2.54119
+richels john,vaughn tony d.,DVN,3.81179
+rudolph frank w,smette darryl g,DVN,4.59184
+rudolph frank w,taylor lyndon c,DVN,2.55102
+rudolph frank w,vaughn tony d.,DVN,3.82653
+smette darryl g,taylor lyndon c,DVN,2.44247
+smette darryl g,vaughn tony d.,DVN,3.82653
+taylor lyndon c,vaughn tony d.,DVN,2.54119
+emancipation capital,frumberg charles,IDSY,4.8243
+lindenbaum bennett d,lindenbaum matthew a,DCOM,11.9334
+barbarossa giovanni,mattera vincent d jr,IIVI,2.27907
+ambrogi michael j.,kirson eilon d.,NVCR,2.49968
+danziger asaf,kirson eilon d.,NVCR,6.06122
+danziger asaf,palti yoram,NVCR,2.7567
+doyle william f,groenhuysen wilhelmus cm,NVCR,2.17914
+groenhuysen wilhelmus cm,leung gabriel,NVCR,3.03256
+kirson eilon d.,palti yoram,NVCR,5.1787
+barry john f,eliasek m grier,PSEC,9.35695
+gilbert cory,long robert w.,OHAI,18.6405
+gilbert cory,oran stuart i,OHAI,18.5862
+gilbert cory,stern james a,OHAI,18.5862
+gilbert cory,tannura frank v,OHAI,18.5862
+long robert w.,oran stuart i,OHAI,18.6405
+long robert w.,stern james a,OHAI,18.6405
+long robert w.,tannura frank v,OHAI,18.6405
+oran stuart i,stern james a,OHAI,18.5862
+oran stuart i,tannura frank v,OHAI,18.5862
+stern james a,tannura frank v,OHAI,18.5862
+douglas russell palmer,hahn andrew,WHLRD,3.56201
+shmunis sandra,shmunis vladimir,RNG,5.21814
+luo mary z.,zhang jack y.,AMPH,10.0179
+heyman richard a.,kintz samuel,ELVN,3.33952
+heyman richard a.,lyssikatos joseph p,ELVN,3.93197
+kintz samuel,lyssikatos joseph p,ELVN,5.27312
+west gary l,west mary e,WSTC,6.61224
+begley christopher b,brown david s,DV,2.70388
+begley christopher b,logan lyle,DV,3.10249
+begley christopher b,merten alan g,DV,2.5805
+begley christopher b,ruiz fernando,DV,2.70786
+begley christopher b,taylor ronald l,DV,2.73749
+begley christopher b,wardell lisa w,DV,3.20505
+brown david s,logan lyle,DV,2.70388
+brown david s,merten alan g,DV,2.2658
+brown david s,ruiz fernando,DV,2.78387
+brown david s,taylor ronald l,DV,2.37755
+brown david s,wardell lisa w,DV,2.87287
+de lardemelle charles,de vaulx charles,DV,10.9714
+logan lyle,merten alan g,DV,2.5805
+logan lyle,ruiz fernando,DV,2.70786
+logan lyle,taylor ronald l,DV,2.73749
+logan lyle,wardell lisa w,DV,3.20505
+merten alan g,ruiz fernando,DV,2.16042
+merten alan g,taylor ronald l,DV,2.2658
+merten alan g,wardell lisa w,DV,2.73229
+ruiz fernando,taylor ronald l,DV,2.39712
+ruiz fernando,wardell lisa w,DV,2.82449
+taylor ronald l,wardell lisa w,DV,2.80442
+hahn mark w,zaccardelli david,VRNA,6.49515
+coleman donald f.,fitzgerald scott,INTA,3.33959
+coleman donald f.,hall john t,INTA,2.61058
+coleman donald f.,murgel michele,INTA,2.98696
+coleman donald f.,tandon kalyani,INTA,3.55969
+fitzgerald scott,hall john t,INTA,3.62182
+fitzgerald scott,murgel michele,INTA,4.02968
+fitzgerald scott,tandon kalyani,INTA,4.60352
+hall john t,murgel michele,INTA,4.55464
+hall john t,tandon kalyani,INTA,4.87325
+harrison david benjamin,morton david h jr,INTA,2.12245
+jampol thad,murgel michele,INTA,2.44961
+jampol thad,tandon kalyani,INTA,2.41773
+murgel michele,tandon kalyani,INTA,6.21878
+cohler matt,gurley j william,AMPL,2.19001
+dakos andrew,goldstein phillip,CTF,16.287
+dakos andrew,samuels steven,CTF,16.287
+goldstein phillip,samuels steven,CTF,16.287
+cassidy brian p,marcus jeffrey,CWH,2.7708
+dinan curtis,lawhorn caron a,OGS,2.5
+dinan curtis,mccormick joseph l,OGS,2.5
+dinan curtis,norton pierce,OGS,2.25
+lawhorn caron a,mccormick joseph l,OGS,2.65224
+lawhorn caron a,norton pierce,OGS,2.41113
+mccormick joseph l,norton pierce,OGS,2.41113
+mclure howard a,peterson timothy alan,APTS,2.7
+bell keith spencer,oreson keith a,PTRY,2.23077
+ashken ian g h,franklin martin e,PAH,4.1092
+bailey jennifer,diamond susan m,PEP,2.46939
+brown shona l,cook ian m,PEP,2.67904
+brown shona l,dublon dina,PEP,2.45578
+brown shona l,page david c,PEP,2.203
+brown shona l,pohlad robert c,PEP,2.31315
+brown shona l,weisser alberto,PEP,2.67904
+conde cesar,cook ian m,PEP,2.67904
+conde cesar,dublon dina,PEP,2.45578
+conde cesar,gass michelle,PEP,2.29932
+conde cesar,page david c,PEP,2.80661
+conde cesar,pohlad robert c,PEP,2.94694
+conde cesar,walker darren,PEP,3.0829
+conde cesar,weisser alberto,PEP,2.67904
+cook ian m,dublon dina,PEP,3.0303
+cook ian m,page david c,PEP,2.8499
+cook ian m,pohlad robert c,PEP,2.99239
+cook ian m,vasella daniel,PEP,2.20386
+cook ian m,walker darren,PEP,2.52237
+cook ian m,weisser alberto,PEP,3.30579
+cooper edith w,gass michelle,PEP,2.04384
+cooper edith w,lewis dave j,PEP,2.04384
+dublon dina,page david c,PEP,2.61241
+dublon dina,pohlad robert c,PEP,2.74303
+dublon dina,vasella daniel,PEP,2.02956
+dublon dina,walker darren,PEP,2.31217
+dublon dina,weisser alberto,PEP,3.0303
+fairhead rona alison,trotter lloyd g,PEP,2.29932
+fisher richard w,johnson william r,PEP,2.41381
+gass michelle,pohlad robert c,PEP,2.06939
+gass michelle,walker darren,PEP,2.43457
+page david c,pohlad robert c,PEP,3.13489
+page david c,walker darren,PEP,2.64249
+page david c,weisser alberto,PEP,2.8499
+pohlad robert c,walker darren,PEP,2.77461
+pohlad robert c,weisser alberto,PEP,2.99239
+vasella daniel,weisser alberto,PEP,2.20386
+walker darren,weisser alberto,PEP,2.52237
+leone douglas m,moritz michael j,ELVT,19.9754
+abu-ghazaleh mohammad,el-naffy hani,FDP,6.65174
+el-naffy hani,tenazas marissa r,FDP,2.42954
+basile donald g,doll dixon r jr.,CMPO,6.55585
+bansal sanju k,lieberman jeffrey,CVT,5.56317
+conway christopher,fallon david joseph,CLC,2.25435
+conway christopher,lindsay david j,CLC,2.93878
+conway christopher,wolfson richard m,CLC,3.1494
+fallon david joseph,lindsay david j,CLC,2.25435
+fallon david joseph,wolfson richard m,CLC,2.79799
+lindsay david j,wolfson richard m,CLC,3.1494
+battey brenda j,davidson robert c jr,BYFC,11.6177
+jiren liu,korologos ann mclaughlin,HAR,2.21173
+jiren liu,reiss kenneth,HAR,2.21173
+jiren liu,runtagh hellene s,HAR,2.21173
+jiren liu,steel gary,HAR,2.21173
+korologos ann mclaughlin,meyer edward h,HAR,4.35828
+korologos ann mclaughlin,reiss kenneth,HAR,4.90306
+korologos ann mclaughlin,runtagh hellene s,HAR,4.90306
+korologos ann mclaughlin,sklarsky frank s,HAR,2.6449
+korologos ann mclaughlin,steel gary,HAR,4.90306
+meyer edward h,reiss kenneth,HAR,4.35828
+meyer edward h,runtagh hellene s,HAR,4.35828
+meyer edward h,sklarsky frank s,HAR,2.35102
+meyer edward h,steel gary,HAR,4.35828
+reiss kenneth,runtagh hellene s,HAR,4.90306
+reiss kenneth,sklarsky frank s,HAR,2.6449
+reiss kenneth,steel gary,HAR,4.90306
+runtagh hellene s,sklarsky frank s,HAR,2.6449
+runtagh hellene s,steel gary,HAR,4.90306
+sklarsky frank s,steel gary,HAR,2.6449
+bb biotech ag,biotech target n v,MTEM,5.48603
+ashe neil,goldman barry r,AYI,2.29269
+ashe neil,mills dianne s,AYI,2.62066
+black mark a,nagel vernon j,AYI,2.92489
+black mark a,reece richard k,AYI,2.43566
+goldman barry r,holcom karen j,AYI,4.41254
+goldman barry r,mills dianne s,AYI,3.81765
+holcom karen j,mills dianne s,AYI,3.15067
+nagel vernon j,reece richard k,AYI,4.99089
+larson katherine h,reid shannon b,RJF,2.00454
+elliott brad s,kossover gregory h,EQBK,4.62821
+aulick rodney,grieco vincent,AQUA,2.34681
+drew john,hoag jay c,RPD,8.45287
+drew john,kimball rick,RPD,10.2197
+drew john,marshall christopher p,RPD,10.2197
+drew john,reynolds jon q jr,RPD,10.2197
+drew john,trudeau robert,RPD,10.2197
+hoag jay c,kimball rick,RPD,8.45287
+hoag jay c,marshall christopher p,RPD,8.45287
+hoag jay c,reynolds jon q jr,RPD,8.45287
+hoag jay c,trudeau robert,RPD,8.45287
+kimball rick,marshall christopher p,RPD,10.2197
+kimball rick,reynolds jon q jr,RPD,10.2197
+kimball rick,trudeau robert,RPD,10.2197
+marshall christopher p,reynolds jon q jr,RPD,10.2197
+marshall christopher p,trudeau robert,RPD,10.2197
+reynolds jon q jr,trudeau robert,RPD,10.2197
+shim sam sang-koo,tan farid,MCBS,2.0898
+allen william b jr,demetriou steven j.,J,2.32805
+allen william b jr,pragada robert v,J,2.74131
+allen william b jr,zaccaro joanne caruso,J,2.74131
+arnette stephen a,demetriou steven j.,J,2.06631
+arnette stephen a,miller shannon,J,2.43388
+demetriou steven j.,pragada robert v,J,2.23628
+demetriou steven j.,zaccaro joanne caruso,J,2.23628
+pragada robert v,zaccaro joanne caruso,J,2.77184
+konezny ronald,sampsell david h.,DGII,3.17253
+konezny ronald,schneider terrence g.,DGII,2.16725
+loch james j.,schneider terrence g.,DGII,2.57867
+riley kevin c.,roberts tracy l.,DGII,3.45802
+riley kevin c.,sampsell david h.,DGII,3.09415
+roberts tracy l.,sampsell david h.,DGII,2.51679
+davidson charles e,jacobs joseph,RLJE,2.84163
+renda frankie s.,renda rudolph v.,SLND,2.06143
+donofrio john,manning nathan d,JCI,2.8651
+ellis michael j,manning nathan d,JCI,2.18443
+ellis michael j,ramaswamy sreeganesh,JCI,3.78046
+manning nathan d,mcconeghy daniel c,JCI,2.26234
+minella lynn c,stief brian j,JCI,2.32068
+stief brian j,williams jeffrey m,JCI,2.11828
+vanhimbergen robert m,williams jeffrey m,JCI,2.84191
+auen eileen o'shea,schulte peter m,ICFI,2.36803
+delly gayla j,strom bernee dl,BHE,4.59184
+isner joshua,kunins jeffrey c,AXON,2.79006
+faugno david,perone michael d,CUDA,4.75132
+jenkins william d jr,perone michael d,CUDA,2.21393
+levow zachary s,perone michael d,CUDA,3.50103
+golub david,golub lawrence e,GBDC,20.9581
+katkin keith,metzger michael a,SNDX,2.32823
+cote kathleen a,denero henry t,WDC,2.40102
+cote kathleen a,lambert michael d,WDC,2.23828
+cote kathleen a,lauer len j,WDC,2.51177
+cote kathleen a,massengill matthew e,WDC,2.39545
+denero henry t,lambert michael d,WDC,2.40434
+denero henry t,lauer len j,WDC,2.63789
+goeckeler david,zamiska gene m.,WDC,2.19481
+lambert michael d,lauer len j,WDC,2.37491
+lauer len j,massengill matthew e,WDC,2.00942
+griffith william j.g.,jacobson matthew,BRZE,2.6
+griffith william j.g.,makan divesh,BRZE,2.6
+griffith william j.g.,pepper douglas a,BRZE,2.6
+jacobson matthew,makan divesh,BRZE,2.6
+jacobson matthew,pepper douglas a,BRZE,2.6
+makan divesh,pepper douglas a,BRZE,2.6
+michalek libor,o'hare robert,AFRM,2.63415
+chan chi-foon,logan joseph w,SNPS,2.05196
+carr ian s,littleton stephen a,XOM,2.17551
+dell paul m,lewis catherine j,MIXT,9.70958
+ayotte jon,brncic julia,EVER,2.75838
+ayotte jon,sanborn joseph,EVER,2.04993
+brncic julia,sanborn joseph,EVER,2.40566
+surface john s,wilson william blake,EVER,2.53466
+agnaten se,lucresca se,DNUT,16.4935
+boyle hugh f,mcphaill kevin j,BSRR,2.125
+boyle hugh f,olague michael,BSRR,2.125
+boyle hugh f,treece christopher g,BSRR,3.4
+mcphaill kevin j,treece christopher g,BSRR,2.125
+olague michael,treece christopher g,BSRR,2.125
+black alan j,price matthew adrian,ZEN,2.37724
+bigham michael,haskel william m.,PRTK,2.1153
+haskel william m.,woodrow adam,PRTK,2.08992
+applbaum avner m,campbell renee l,VMI,3.63934
+applbaum avner m,dasher ellen s,VMI,2.28992
+applbaum avner m,donahue john timothy,VMI,3.30585
+applbaum avner m,larkin diane m,VMI,4.29036
+applbaum avner m,massey r andrew,VMI,2.42222
+campbell renee l,donahue john timothy,VMI,2.78305
+campbell renee l,larkin diane m,VMI,3.53292
+dasher ellen s,francis timothy p,VMI,3.48235
+dasher ellen s,larkin diane m,VMI,2.23387
+dasher ellen s,massey r andrew,VMI,4.26094
+dasher ellen s,parnell thomas mitchell,VMI,3.1757
+dasher ellen s,schapper aaron m,VMI,2.49503
+donahue john timothy,larkin diane m,VMI,3.21716
+francis timothy p,massey r andrew,VMI,3.56545
+francis timothy p,parnell thomas mitchell,VMI,2.73545
+francis timothy p,schapper aaron m,VMI,2.17047
+larkin diane m,massey r andrew,VMI,2.36752
+massey r andrew,parnell thomas mitchell,VMI,3.44042
+massey r andrew,schapper aaron m,VMI,2.52906
+parnell thomas mitchell,schapper aaron m,VMI,2.9911
+jain akhil,smith james c,IT,2.97199
+bertsch jan,miller george lloyd,SIAL,2.50464
+bertsch jan,sachdev rakesh,SIAL,3.82177
+miller george lloyd,sachdev rakesh,SIAL,5.36178
+powell lynne,staab thomas r ii,BCRX,3.39904
+mule edward a,o'shea robert j,SR,6.33258
+arix bioscience plc,chin mark,HARP,6.85941
+hagedorn  peter,hagedorn james,SMG,2.98491
+hagedorn  peter,hagedorn katherine littlefield,SMG,3.58189
+hagedorn  peter,hagedorn robert,SMG,5.37284
+hagedorn  peter,hagedorn susan,SMG,5.96982
+hagedorn james,hagedorn katherine littlefield,SMG,3.31604
+hagedorn james,hagedorn robert,SMG,3.96474
+hagedorn james,hagedorn susan,SMG,4.31154
+hagedorn katherine littlefield,hagedorn robert,SMG,4.65646
+hagedorn katherine littlefield,hagedorn susan,SMG,5.17385
+hagedorn robert,hagedorn susan,SMG,7.76077
+aaron sammy,goldfarb morris,GIII,2.08532
+coleman gary l,hutchison larry m,GL,5.18615
+chloupek mark m.,trivedi rajiv k.,LQ,4.73615
+alvey james william,deitzer john michael,ATKR,2.45384
+kelly daniel s,waltz william e jr.,ATKR,2.44216
+southern region workers united/seiu,workers united,AMAL,21.7448
+southern region workers united/seiu,workers united canada council,AMAL,20.7529
+workers united,workers united canada council,AMAL,21.7448
+lee willis c,niihara yutaka,EMMA,2.47009
+baker felix,baker julian,IGMS,3.27438
+dutt ronald f,scheiwe charles,FLUX,2.49235
+davin michael r,delaney douglas j,CYNO,2.46939
+ball susan m.,walter john r.,CVRR,2.29592
+develasco janice t,pytosh mark a,CVRR,5.89796
+babbit joel m.,freishtat gregg steven,GSKY,5.09469
+bauer david p,camiolo karen m,NFG,2.36241
+bauer david p,decarolis donna l,NFG,2.69149
+bauer david p,kraemer ronald c,NFG,2.42881
+bauer david p,mcginnis john p,NFG,2.06214
+bauer david p,mendel elena g,NFG,2.27021
+camiolo karen m,decarolis donna l,NFG,2.49297
+camiolo karen m,kraemer ronald c,NFG,2.17877
+camiolo karen m,mcginnis john p,NFG,2.38704
+ciprich paula m,mcginnis john p,NFG,2.51926
+decarolis donna l,kraemer ronald c,NFG,2.20112
+decarolis donna l,mcginnis john p,NFG,2.10462
+kraemer ronald c,mcginnis john p,NFG,2.26154
+krebs martin a,loweth justin i,NFG,3.31339
+krebs martin a,mendel elena g,NFG,3.21577
+krebs martin a,silverstein timothy j,NFG,2.62631
+loweth justin i,mendel elena g,NFG,2.65953
+loweth justin i,silverstein timothy j,NFG,2.93528
+reville michael w,silverstein timothy j,NFG,4.09091
