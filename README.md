@@ -1,6 +1,6 @@
 # Network-for-insider-trading-detection
 
-This project was completed as part of the Data-driven Networks Class taught by Renaud Lambiotte at the Oxford Internet Institute.
+This project was completed as part of the Data-driven Networks class taught by Renaud Lambiotte at the Oxford Internet Institute.
 
 **Abstract**
 
